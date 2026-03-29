@@ -1,0 +1,1370 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Digital Humnaities",
+    "code": "FAC 201.1",
+    "session": "Mock Exam",
+    "topics": ["Knowledge Production", "Paradigm Shift", "Marketable Skills", "Digital Tools", "Oral History", "Indigenous Knowledge", "Infrastructure", "Digital Entrepreneurship", "Monetization", "Scholarly Competencies", "Consultancy", "Cultural Heritage", "Self-publishing", "Scholarly Communication", "University of Ibadan", "Digitization Centre", "CrashCourse", "Content Entrepreneurship", "Freelancing", "Digital Proficiency", "Content Creation", "Digital Media", "Design Tools"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  
+  
+  
+  
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Digital Humanities",
+      "Computing",
+      "Interdisciplinary"
+    ],
+    "Question": {
+      "content": "Digital Humanities (DH) is best described as:",
+      "type": "OBJ",
+      "options": [
+        "The study of computer engineering",
+        "The intersection of computing and humanities",
+        "Pure literary criticism",
+        "Artificial intelligence programming"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The intersection of computing and humanities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Defining DH</h4>\n <p>Digital Humanities is a field at the <strong>intersection</strong> of computing or digital technologies and the disciplines of the humanities.</p>\n <div style='margin-top: 8px;'>\n 1. It involves using IT tools for humanities research.<br>\n 2. It also applies humanistic inquiry to digital objects.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Digital Humanities",
+      "History",
+      "Scholars"
+    ],
+    "Question": {
+      "content": "Which scholar is widely credited with the earliest Digital Humanities project?",
+      "type": "OBJ",
+      "options": [
+        "Josephine Miles",
+        "Marvin Minsky",
+        "Roberto Busa",
+        "Alan Turing"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Roberto Busa"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>The Father of DH</h4>\n <p>Father <strong>Roberto Busa</strong>, an Italian Jesuit priest, is considered the pioneer of the field.</p>\n <div style='margin-top: 8px;'>\n 1. He began his work in the late 1940s.<br>\n 2. He collaborated with IBM to process massive amounts of text data.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Digital Humanities",
+      "Roberto Busa",
+      "Literature"
+    ],
+    "Question": {
+      "content": "Roberto Busa's major project focused on which of the following collections of writings?",
+      "type": "OBJ",
+      "options": [
+        "Shakespeare's plays",
+        "Aristotle's works",
+        "St. Thomas Aquinas' writings",
+        "Homer's epics"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "St. Thomas Aquinas' writings"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>The Index Thomisticus</h4>\n <p>Busa's lifework was the <strong>Index Thomisticus</strong>, a lemmatization of the works of <strong>St. Thomas Aquinas</strong>.</p>\n <div style='margin-top: 8px;'>\n 1. He wanted to create a concordance of every word used by the Saint.<br>\n 2. This required digital automation due to the sheer volume of text.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Digital Humanities",
+      "Index Thomisticus",
+      "Data"
+    ],
+    "Question": {
+      "content": "Approximately how many words did the Index Thomisticus contain?",
+      "type": "OBJ",
+      "options": [
+        "1 million words",
+        "5 million words",
+        "11 million words",
+        "20 million words"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "11 million words"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Scale of the Project</h4>\n <p>The project was massive, containing roughly <strong>11 million words</strong> of Medieval Latin.</p>\n <div style='margin-top: 8px;'>\n 1. It involved millions of punch cards in its early stages.<br>\n 2. It remains one of the largest digital philological projects ever completed.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Digital Humanities",
+      "Terminology",
+      "History"
+    ],
+    "Question": {
+      "content": "What was the field of Digital Humanities known as before the current term was adopted?",
+      "type": "OBJ",
+      "options": [
+        "Digital culture",
+        "Humanities computing",
+        "Cyber humanities",
+        "Literary technology"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Humanities computing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>The Name Change</h4>\n <p>The field was originally referred to as <strong>Humanities Computing</strong>.</p>\n <div style='margin-top: 8px;'>\n 1. The shift to \"Digital Humanities\" happened in the early 2000s.<br>\n 2. This change signaled a broader scope beyond just calculation/computing.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Digital Humanities",
+      "Timeline",
+      "Discipline"
+    ],
+    "Question": {
+      "content": "Which decade marked the full emergence of DH as a distinct discipline?",
+      "type": "OBJ",
+      "options": [
+        "1950s",
+        "1970s",
+        "1990s",
+        "2010s"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1990s"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Emergence of DH</h4>\n <p>The <strong>1990s</strong> saw the formalization of DH due to the rise of the World Wide Web.</p>\n <div style='margin-top: 8px;'>\n 1. Digital archives and electronic editing became standard.<br>\n 2. Academic centers began focusing specifically on this hybrid discipline.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Digital Humanities",
+      "Collaboration",
+      "Features"
+    ],
+    "Question": {
+      "content": "What is one major feature that characterizes Digital Humanities?",
+      "type": "OBJ",
+      "options": [
+        "Manual data analysis",
+        "Exclusive focus on literature",
+        "Interdisciplinary collaboration",
+        "Elimination of traditional humanities"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Interdisciplinary collaboration"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Collaboration</h4>\n <p>DH is defined by <strong>Interdisciplinary collaboration</strong>.</p>\n <div style='margin-top: 8px;'>\n 1. It brings together historians, linguists, and computer scientists.<br>\n 2. Projects often require team-based efforts rather than solo research.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Digital Humanities",
+      "Literacy",
+      "Values"
+    ],
+    "Question": {
+      "content": "Digital Humanities promotes all of the following EXCEPT:",
+      "type": "OBJ",
+      "options": [
+        "Digital literacy",
+        "Critical thinking",
+        "Accessibility",
+        "Technological illiteracy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Technological illiteracy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>DH Objectives</h4>\n <p>DH aims to bridge the gap between technology and humans, not widen it.</p>\n <div style='margin-top: 8px;'>\n 1. It actively fights <strong>technological illiteracy</strong>.<br>\n 2. It makes humanities data more accessible and understandable to the public.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Digital Humanities",
+      "Scope",
+      "Research Methods"
+    ],
+    "Question": {
+      "content": "Which of the following activities is NOT considered a part of Digital Humanities?",
+      "type": "OBJ",
+      "options": [
+        "Digitization of cultural heritage",
+        "Text analysis",
+        "Data visualization",
+        "Chemical experimentation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chemical experimentation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Scope of DH</h4>DH focuses on the intersection of technology and human culture.<br>Chemical experimentation belongs to the <strong>natural sciences</strong>, not the humanities.<br>Digitization and visualization are core DH methods used to study history or literature.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Literacy",
+      "Alvin Toffler",
+      "Education"
+    ],
+    "Question": {
+      "content": "How did Alvin Toffler define illiteracy in the 21st century?",
+      "type": "OBJ",
+      "options": [
+        "Inability to read books",
+        "Inability to write essays",
+        "Inability to learn, unlearn, and relearn",
+        "Inability to speak English"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Learn, unlearn, and relearn"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Modern Literacy</h4>Toffler argued that the fast pace of the 21st century requires <strong>adaptability</strong>.<br>Knowing facts is less important than being able to acquire new skills.<br>\"Unlearning\" involves letting go of outdated information to make room for the new.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "DH Tools",
+      "Qualitative Analysis",
+      "Research"
+    ],
+    "Question": {
+      "content": "Which tool is mainly used for qualitative data analysis in Digital Humanities research?",
+      "type": "OBJ",
+      "options": [
+        "SPSS",
+        "NVivo",
+        "Excel",
+        "Tableau"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "NVivo"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Qualitative Tools</h4><strong>NVivo</strong> helps researchers organize and analyze non-numerical data like interviews or articles.<br>SPSS and Excel are generally used for <strong>quantitative</strong> (numerical) data.<br>Tableau is a visualization tool rather than an analysis engine.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Voyant Tools",
+      "Text Analysis",
+      "Software"
+    ],
+    "Question": {
+      "content": "What is the primary function of Voyant Tools in DH?",
+      "type": "OBJ",
+      "options": [
+        "Video editing",
+        "Text analysis",
+        "Statistical computation",
+        "Image design"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Text analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Voyant Tools</h4>It is a web-based environment for <strong>reading and analyzing</strong> digital texts.<br>It generates word clouds, frequency graphs, and concordances instantly.<br>It is popular because it requires no coding knowledge to use.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "GIS",
+      "Mapping",
+      "Spatial Humanities"
+    ],
+    "Question": {
+      "content": "Identify the Geographic Information System (GIS) tools commonly used in Digital Humanities.",
+      "type": "OBJ",
+      "options": [
+        "Photoshop",
+        "ArcGIS and QGIS",
+        "Canva",
+        "Grammarly"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ArcGIS and QGIS"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Spatial Humanities</h4><strong>ArcGIS</strong> (proprietary) and <strong>QGIS</strong> (open-source) are the industry standards for mapping.<br>DH scholars use them to visualize historical movements or geographic data.<br>These tools allow for the layering of data over physical maps.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Collaborative Learning",
+      "Pedagogy",
+      "E-learning"
+    ],
+    "Question": {
+      "content": "Which platform supports collaborative learning in Digital Humanities teaching?",
+      "type": "OBJ",
+      "options": [
+        "Telegram",
+        "WhatsApp",
+        "Google Classroom",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Learning Platforms</h4>Collaborative learning involves using digital spaces to share ideas and files.<br>Instant messengers like WhatsApp/Telegram allow for <strong>real-time discussion</strong>.<br>LMS platforms like Google Classroom provide structured environments for assignments.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Literacy",
+      "Skills",
+      "Education"
+    ],
+    "Question": {
+      "content": "What type of skills does Digital Humanities encourage students to develop?",
+      "type": "OBJ",
+      "options": [
+        "Manual writing skills only",
+        "Critical digital literacy",
+        "Mechanical skills",
+        "Coding exclusively"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Critical digital literacy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Digital Literacy</h4>This involves more than just using a computer; it is about <strong>evaluating</strong> digital info.<br>Students learn to analyze how technology shapes our understanding of culture.<br>It combines technical skill with the traditional critical thinking of the humanities.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Publishing",
+      "Academic Platforms",
+      "Scholarly Communication"
+    ],
+    "Question": {
+      "content": "Which of the following is considered a Digital Humanities publishing platform?",
+      "type": "OBJ",
+      "options": [
+        "ResearchGate",
+        "Academia.edu",
+        "Humanities Commons",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Digital Publishing</h4>These platforms allow scholars to share work outside of traditional journals.<br><strong>Humanities Commons</strong> is specifically tailored for the non-profit academic community.<br>Digital publishing increases the reach and impact of research.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Evolution of DH",
+      "History",
+      "Stages"
+    ],
+    "Question": {
+      "content": "The four stages of Digital Humanities evolution include all of the following EXCEPT:",
+      "type": "OBJ",
+      "options": [
+        "Beginnings",
+        "Consolidation",
+        "Digital extinction",
+        "Internet era"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Digital extinction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Evolutionary Stages</h4>The field has moved from early experiments to a global standard.<br><strong>Digital extinction</strong> is a made-up term and not a stage of growth.<br>The stages track the field from the 1940s to the modern day.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Timeline",
+      "Internet Era",
+      "Evolution"
+    ],
+    "Question": {
+      "content": "Around what year did the 'Internet era' of Digital Humanities begin?",
+      "type": "OBJ",
+      "options": [
+        "1985",
+        "1995",
+        "2004",
+        "2015"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2004"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>The Web 2.0 Shift</h4>2004 is significant as it coincides with the publishing of \"A Companion to Digital Humanities.\"<br>This era focuses on <strong>social media</strong>, participation, and massive online archives.<br>It marks when DH became a widely recognized academic term.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "DH in Africa",
+      "Global DH",
+      "Development"
+    ],
+    "Question": {
+      "content": "How is the state of Digital Humanities in Africa currently described?",
+      "type": "OBJ",
+      "options": [
+        "Fully developed",
+        "Non-existent",
+        "A late but growing field",
+        "Declining"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A late but growing field"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>African Context</h4>Africa entered the DH scene later than Europe/America due to infrastructure gaps.<br>However, there is now a <strong>rapid increase</strong> in digitization and DH centers.<br>Major hubs exist in Nigeria, South Africa, and Egypt.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Nigeria",
+      "Digitization",
+      "Higher Education"
+    ],
+    "Question": {
+      "content": "Which Nigerian universities are actively digitizing academic and historical materials?",
+      "type": "OBJ",
+      "options": [
+        "University of Ibadan",
+        "University of Lagos",
+        "University of Ilorin",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Nigerian Progress</h4>Institutions across Nigeria are preserving their archives in digital formats.<br>UI, UNILAG, and UNILORIN have led initiatives in <strong>open access</strong> repositories.<br>This ensures local research is visible to the global community.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "ADHO",
+      "Organizations",
+      "Conferences"
+    ],
+    "Question": {
+      "content": "Which organization is responsible for hosting the annual Digital Humanities Conference?",
+      "type": "OBJ",
+      "options": [
+        "UNESCO",
+        "ADHO",
+        "MLA",
+        "NEH"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ADHO"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Global Governance</h4>The <strong>Alliance of Digital Humanities Organizations</strong> (ADHO) is the umbrella body.<br>It coordinates various regional DH associations worldwide.<br>The annual conference is the most prestigious event in the field.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Pedagogy",
+      "Teaching",
+      "Technology"
+    ],
+    "Question": {
+      "content": "Digital Humanities enhances teaching primarily through which method?",
+      "type": "OBJ",
+      "options": [
+        "Memorization",
+        "Interactive digital tools",
+        "Chalkboard use",
+        "Dictation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Interactive digital tools"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Interactive Learning</h4>DH replaces passive learning with <strong>active engagement</strong>.<br>Tools allow students to build maps, timelines, or databases themselves.<br>This creates a more profound understanding of the subject matter.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Digital Storytelling",
+      "Narrative",
+      "Multimedia"
+    ],
+    "Question": {
+      "content": "What is an example of digital storytelling within the Digital Humanities?",
+      "type": "OBJ",
+      "options": [
+        "Handwritten folklore",
+        "Printed novels only",
+        "Multimedia narrative projects",
+        "Oral interviews alone"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Multimedia narrative projects"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Digital Stories</h4>This involves using <strong>multiple media types</strong> (audio, video, text) to tell a story.<br>It often features interactive elements where the user can choose their path.<br>It is a modern way of preserving and sharing cultural narratives.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Ethics",
+      "Data Privacy",
+      "Algorithms"
+    ],
+    "Question": {
+      "content": "Which of the following are ethical concerns in Digital Humanities?",
+      "type": "OBJ",
+      "options": [
+        "Data privacy",
+        "Intellectual property",
+        "Algorithmic bias",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>DH Ethics</h4>Scholars must ensure that <strong>sensitive data</strong> is protected.<br>They also address how code can unintentionally favor certain viewpoints (bias).<br>Intellectual property is a major issue when digitizing existing books or art.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Zotero",
+      "Research",
+      "Reference Management"
+    ],
+    "Question": {
+      "content": "Which tool helps researchers manage references and citations in Digital Humanities?",
+      "type": "OBJ",
+      "options": [
+        "NVivo",
+        "Zotero",
+        "Canva",
+        "OBS Studio"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Zotero"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Reference Management</h4><strong>Zotero</strong> is a free, easy-to-use tool to help you collect and organize research.<br>It can automatically format bibliographies in styles like MLA or APA.<br>It integrates directly with web browsers and word processors.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Perseus Project",
+      "Digital Classics",
+      "Harvard"
+    ],
+    "Question": {
+      "content": "At which university did the Perseus Project begin?",
+      "type": "OBJ",
+      "options": [
+        "Oxford University",
+        "Harvard University",
+        "Yale University",
+        "Cambridge University"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Harvard University"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Classic DH Projects</h4>The <strong>Perseus Digital Library</strong> started at Harvard in the late 1980s.<br>It is a flagship project focusing on the history and culture of the Greco-Roman world.<br>It provides free digital access to primary source texts and images.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Inclusivity",
+      "Diversity",
+      "Social Impact"
+    ],
+    "Question": {
+      "content": "How does Digital Humanities support inclusivity in academia?",
+      "type": "OBJ",
+      "options": [
+        "Limiting access",
+        "Amplifying marginalized voices",
+        "Ignoring cultural diversity",
+        "Reducing collaboration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amplifying marginalized voices"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Inclusivity in DH</h4>DH tools allow for the recovery of histories that were previously <strong>overlooked</strong>.<br>Digital archives can preserve minority languages and indigenous cultures.<br>It makes knowledge free and accessible regardless of geographical location.</div>"
+    }
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Digital Archives",
+      "Cultural Heritage",
+      "Preservation"
+    ],
+    "Question": {
+      "content": "What is the primary benefit of digital archives in the context of the humanities?",
+      "type": "OBJ",
+      "options": [
+        "Data loss",
+        "Cultural heritage preservation",
+        "Plagiarism",
+        "Text deletion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cultural heritage preservation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Preservation</h4>Digital archives protect physical artifacts from <strong>decay and loss</strong>.<br>They allow rare documents to be accessed globally without damaging the original.<br>This ensures that cultural history is saved for future generations.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "H-Net",
+      "History",
+      "Networks"
+    ],
+    "Question": {
+      "content": "In which year was the H-Net (Humanities & Social Sciences Online) founded?",
+      "type": "OBJ",
+      "options": [
+        "1985",
+        "1992",
+        "2004",
+        "2010"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1992"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Founding of H-Net</h4>H-Net was established in <strong>1992</strong> to harness the potential of the internet.<br>It created an online space for scholars to communicate and share resources.<br>It remains a vital platform for academic discussion in the humanities.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Research Methods",
+      "Quantitative",
+      "Qualitative"
+    ],
+    "Question": {
+      "content": "How can the nature of research within Digital Humanities be described?",
+      "type": "OBJ",
+      "options": [
+        "Quantitative only",
+        "Qualitative only",
+        "Both qualitative and quantitative",
+        "Neither"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both qualitative and quantitative"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Mixed Methods</h4>DH uses <strong>Quantitative</strong> methods (counting words, statistics) to find patterns.<br>It uses <strong>Qualitative</strong> methods (interpretation, context) to explain meaning.<br>Combining both provides a more comprehensive view of the subject.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Data Visualization",
+      "Tableau",
+      "PowerBI"
+    ],
+    "Question": {
+      "content": "What is the primary use of software tools like Tableau and PowerBI in DH?",
+      "type": "OBJ",
+      "options": [
+        "Writing essays",
+        "Data visualization",
+        "Text encoding",
+        "Video recording"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Data visualization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Visualization</h4>These tools transform complex raw data into <strong>charts and graphs</strong>.<br>Visualizing data helps scholars spot trends that aren't obvious in text.<br>It makes research results much easier for the general public to understand.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Annotation",
+      "Hypothesis",
+      "Collaborative Tools"
+    ],
+    "Question": {
+      "content": "Which tool is specifically designed to support web-based annotation?",
+      "type": "OBJ",
+      "options": [
+        "Grammarly",
+        "Hypothesis",
+        "Turnitin",
+        "QuillBot"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hypothesis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Web Annotation</h4><strong>Hypothesis</strong> allows users to highlight and comment on any live webpage.<br>It enables groups to have discussions directly on top of digital texts.<br>This mimics the traditional practice of writing notes in the margins of books.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "TEI",
+      "Text Encoding",
+      "Standards"
+    ],
+    "Question": {
+      "content": "In which year did the Text Encoding Initiative (TEI) begin?",
+      "type": "OBJ",
+      "options": [
+        "1977",
+        "1987",
+        "1997",
+        "2007"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1987"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>TEI Origins</h4>The TEI was launched in <strong>1987</strong> to create a standard for digital texts.<br>It uses XML to describe the structure and features of written documents.<br>This ensures that digital books can be read by different software systems.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Collaboration",
+      "Networking",
+      "Research"
+    ],
+    "Question": {
+      "content": "How does Digital Humanities encourage collaborative research between scholars?",
+      "type": "OBJ",
+      "options": [
+        "Isolating scholars",
+        "Restricting access",
+        "Connecting institutions digitally",
+        "Avoiding technology"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Connecting institutions digitally"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Digital Connectivity</h4>DH uses the internet to break down <strong>geographical barriers</strong>.<br>Researchers in Nigeria can work on the same dataset as scholars in the UK.<br>Collaboration leads to shared resources and more diverse viewpoints.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "AI",
+      "ChatGPT",
+      "Learning Tools"
+    ],
+    "Question": {
+      "content": "Which of the following is an example of an AI-assisted learning tool?",
+      "type": "OBJ",
+      "options": [
+        "AntConc",
+        "ChatGPT",
+        "EndNote",
+        "OBS Studio"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ChatGPT"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>AI in Education</h4><strong>ChatGPT</strong> uses artificial intelligence to generate text and answer queries.<br>In DH, it can help students understand complex concepts through dialogue.<br>It represents the latest shift toward AI-driven humanities research.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Open Access",
+      "Publishing",
+      "Knowledge Sharing"
+    ],
+    "Question": {
+      "content": "Digital Humanities enhances academic publication through which of these methods?",
+      "type": "OBJ",
+      "options": [
+        "Print-only journals",
+        "Open-access platforms",
+        "Oral presentations only",
+        "Handwritten manuscripts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Open-access platforms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Open Access</h4>DH promotes <strong>Open Access</strong>, making research free for everyone to read.<br>It removes \"paywalls\" that prevent students from accessing expensive journals.<br>This democratizes knowledge and increases the visibility of the author's work.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "DHSI",
+      "Canada",
+      "Training"
+    ],
+    "Question": {
+      "content": "In which country is the Digital Humanities Summer Institute (DHSI) hosted?",
+      "type": "OBJ",
+      "options": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Canada"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>DHSI Location</h4>The <strong>DHSI</strong> is primarily hosted at the University of Victoria in <strong>Canada</strong>.<br>It is one of the world's largest training events for digital scholarship.<br>Scholars gather there annually to learn new technical skills in a community setting.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Competitiveness",
+      "Skills",
+      "Training"
+    ],
+    "Question": {
+      "content": "How does Digital Humanities support global competitiveness in the academic world?",
+      "type": "OBJ",
+      "options": [
+        "Ignoring technology",
+        "Promoting continuous digital training",
+        "Avoiding innovation",
+        "Rejecting collaboration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Promoting continuous digital training"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Global Standards</h4>Staying competitive requires mastering modern <strong>digital tools</strong> and methods.<br>Continuous training ensures researchers can handle big data and AI.<br>This allows local scholars to contribute to and lead global conversations.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Infrastructure",
+      "Data Management",
+      "Research"
+    ],
+    "Question": {
+      "content": "Digital Humanities research often utilizes which of the following digital infrastructures?",
+      "type": "OBJ",
+      "options": [
+        "Cloud storage",
+        "Digital repositories",
+        "Online databases",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>DH Ecosystem</h4>DH relies on a variety of digital tools to manage and share information.<br><strong>Cloud storage</strong> allows for seamless collaboration across different regions.<br><strong>Repositories</strong> ensure that data remains accessible and safe for years to come.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "History",
+      "IBM",
+      "Roberto Busa"
+    ],
+    "Question": {
+      "content": "In which year did IBM officially begin supporting Roberto Busa's Index Thomisticus project?",
+      "type": "OBJ",
+      "options": [
+        "1939",
+        "1949",
+        "1959",
+        "1969"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1949"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>The IBM Partnership</h4>The partnership between Father Busa and Thomas J. Watson of IBM began in <strong>1949</strong>.<br>IBM provided the mainframe computers and technical support needed for the project.<br>This meeting is often cited as the \"birth\" of humanities computing.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": [
+      "Methodology",
+      "Research",
+      "Structure"
+    ],
+    "Question": {
+      "content": "Why is Digital Humanities characterized as being highly methodological?",
+      "type": "OBJ",
+      "options": [
+        "Rejects methods",
+        "Uses structured digital approaches",
+        "Avoids analysis",
+        "Depends on intuition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Uses structured digital approaches"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Structured Analysis</h4>DH uses <strong>structured data</strong> (like XML or databases) to ensure accuracy.<br>Instead of just guessing, scholars use repeatable steps to analyze texts.<br>This rigor makes humanities findings more transparent and verifiable.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": [
+      "Education",
+      "Pedagogy",
+      "Innovation"
+    ],
+    "Question": {
+      "content": "What is a primary benefit of incorporating Digital Humanities into educational systems?",
+      "type": "OBJ",
+      "options": [
+        "Reduced access",
+        "Passive learning",
+        "Innovation in pedagogy",
+        "Elimination of humanities"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Innovation in pedagogy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Teaching Innovation</h4><strong>Pedagogy</strong> refers to the method and practice of teaching.<br>DH introduces tools that allow for interactive mapping and 3D modeling.<br>This makes learning more engaging compared to traditional lecture-only styles.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": [
+      "Virtual Learning",
+      "Zoom",
+      "Distance Education"
+    ],
+    "Question": {
+      "content": "Which platform is commonly used to conduct virtual field trips in DH teaching?",
+      "type": "OBJ",
+      "options": [
+        "Zoom",
+        "Microsoft Word",
+        "Zotero",
+        "SPSS"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Zoom"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Virtual Spaces</h4><strong>Zoom</strong> facilitates real-time video tours of museums or historical sites.<br>It allows students to visit distant places without the cost of travel.<br>This is essential for global learning and remote education.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": [
+      "Cultural Studies",
+      "Primary Sources",
+      "Digitization"
+    ],
+    "Question": {
+      "content": "How does Digital Humanities support the study of culture and history?",
+      "type": "OBJ",
+      "options": [
+        "Data destruction",
+        "Digitized primary sources",
+        "Text censorship",
+        "Manual archiving only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Digitized primary sources"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Primary Evidence</h4>DH provides high-resolution access to <strong>original documents</strong> and letters.<br>Scholars can study manuscripts from their homes instead of traveling to archives.<br>This increases the speed and accuracy of cultural research.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": [
+      "Africa",
+      "ICT",
+      "Growth"
+    ],
+    "Question": {
+      "content": "What is the main driver behind the growth of Digital Humanities in Africa?",
+      "type": "OBJ",
+      "options": [
+        "Declining Internet use",
+        "Rising ICT adoption",
+        "Lack of funding",
+        "Technological rejection"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rising ICT adoption"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>African ICT Rise</h4>Growth is driven by increased <strong>Internet penetration</strong> and mobile phone use.<br>As more Africans get online, the demand for digital cultural content grows.<br>This adoption allows local universities to compete on a global stage.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": [
+      "Scholars",
+      "Skills",
+      "Digital Advanced"
+    ],
+    "Question": {
+      "content": "Digital Humanities scholars are best described by which of the following terms?",
+      "type": "OBJ",
+      "options": [
+        "Digitically reluctant only",
+        "Digitically enabled or advanced",
+        "Anti-technology",
+        "Non-collaborative"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Digitically enabled or advanced"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Advanced Scholarship</h4>A DH scholar is someone who uses <strong>technology as a lens</strong> for research.<br>They are proficient in both traditional humanities and digital tools.<br>This dual skill set makes them \"enabled\" for the modern job market.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "topic": [
+      "Funding",
+      "NEH",
+      "Grants"
+    ],
+    "Question": {
+      "content": "Which organization is a major funder of Digital Humanities start-up grants?",
+      "type": "OBJ",
+      "options": [
+        "MLA",
+        "NEH",
+        "UNESCO",
+        "IBM"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "NEH"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Financial Support</h4>The <strong>National Endowment for the Humanities (NEH)</strong> has a dedicated DH office.<br>They provide the capital needed to start innovative digital projects.<br>Grants often support software development and project workshops.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "topic": [
+      "Data Processing",
+      "Efficiency",
+      "Research"
+    ],
+    "Question": {
+      "content": "In what way does Digital Humanities most significantly improve humanities research?",
+      "type": "OBJ",
+      "options": [
+        "Reducing analysis",
+        "Simplifying data processing",
+        "Avoiding interpretation",
+        "Rejecting computation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Simplifying data processing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Efficient Processing</h4>DH allows computers to sort through <strong>millions of documents</strong> in seconds.<br>This saves scholars years of manual work (like hand-copying text).<br>Processing efficiency leaves more time for the final interpretive analysis.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "topic": [
+      "Future",
+      "Rare Materials",
+      "Accessibility"
+    ],
+    "Question": {
+      "content": "What is one major projected future direction for the field of Digital Humanities?",
+      "type": "OBJ",
+      "options": [
+        "Decline of digital archives",
+        "Increased access to rare materials",
+        "End of collaboration",
+        "Reduction in tools"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Increased access to rare materials"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>Future Outlook</h4>The future will likely see the <strong>digitization of everything</strong> in archives.<br>Rare and fragile materials will be visible to everyone with an internet link.<br>This democratizes information beyond elite institutions.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "topic": [
+      "DH Goals",
+      "Integration",
+      "Scholarship"
+    ],
+    "Question": {
+      "content": "What is the ultimate aim of the Digital Humanities discipline?",
+      "type": "OBJ",
+      "options": [
+        "Replace humanities",
+        "Merge technology with humanistic inquiry",
+        "Promote computer science only",
+        "Eliminate traditional scholarship"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Merge technology with humanistic inquiry"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 10px;'>The Final Goal</h4>DH does not want to destroy the old ways, but <strong>enhance</strong> them.<br>It seeks to use the best of technology to answer human questions.<br>This results in a more robust and inclusive form of scholarship.</div>"
+    }
+  }
+]
