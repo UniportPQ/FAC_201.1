@@ -1,0 +1,1099 @@
+[  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Digital Humnaities",
+    "code": "FAC 201.1",
+    "session": "Chapter 6",
+    "topics": ["Digital Humanities", "Data Mining", "Research Methods", "History of DH", "Grants", "Project Analysis", "Research Tools", "GIS", "Geography", "Information Systems", "Research Methodology", "Software", "Academia", "Open Source", "GIScience", "History of GIS", "Science History", "Archaeology", "Historical GIS", "History Research", "Spatial History", "Deep Mapping", "Linguistics", "Corpus Linguistics", "Penn Treebank", "Historical English", "Computational Linguistics", "Artificial Intelligence", "Language Processing"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  
+  {
+    "type": "heading",
+    "heading": "Chapter Six",
+    "Subheading": "New Media and the Arts"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Digital Humanities",
+      "New Media Art",
+      "Digital Tools"
+    ],
+    "Question": {
+      "content": "New media art leverages tools including all of the following EXCEPT:",
+      "type": "OBJ",
+      "options": [
+        "Computer graphics and digital animation",
+        "Traditional oil painting techniques",
+        "Virtual and augmented reality",
+        "Artificial intelligence"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Traditional oil painting techniques"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining New Media</h4>\n <p>New media art relies on computational and digital technologies for creation.<br>Traditional oil painting is a physical, analog medium that predates the digital era.<br>Modern tools like AI and VR are core components of the new media landscape.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Digital Humanities",
+      "Digital Shift",
+      "Art History"
+    ],
+    "Question": {
+      "content": "The transition from traditional art-making methods to digital tools and platforms is referred to as:",
+      "type": "OBJ",
+      "options": [
+        "The digital shift",
+        "The artistic revolution",
+        "The technological transformation",
+        "The creative evolution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The digital shift"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Digital Shift</h4>\n <p>This term describes the movement of cultural production into digital formats.<br>It involves moving from physical canvases to digital screens and software.<br>It marks a fundamental change in how art is produced and consumed.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Digital Humanities",
+      "New Media Art",
+      "Interactivity"
+    ],
+    "Question": {
+      "content": "Which characteristic is NOT typically associated with new media art?",
+      "type": "OBJ",
+      "options": [
+        "Digital technologies as primary tools",
+        "Interactivity with viewers",
+        "Global connectivity",
+        "Limited audience participation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Limited audience participation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Audience Engagement</h4>\n <p>New media art usually encourages high levels of participation and interaction.<br>Limited participation is a trait of traditional, 'look-but-don't-touch' art galleries.<br>Interactivity allows the audience to become part of the artwork itself.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Digital Humanities",
+      "Virtual Reality",
+      "Augmented Reality"
+    ],
+    "Question": {
+      "content": "Technologies that allow audiences to step inside digital worlds or see physical spaces enhanced with digital overlays create:",
+      "type": "OBJ",
+      "options": [
+        "Traditional exhibitions",
+        "Passive viewing experiences",
+        "Limited artistic expression",
+        "Multisensory experiences blurring real and virtual"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Multisensory experiences blurring real and virtual"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Immersive Tech</h4>\n <p>VR (Virtual Reality) and AR (Augmented Reality) engage sight, sound, and touch.<br>These tools break the boundary between the physical and digital realms.<br>This creates a deeply immersive environment for the user.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Digital Humanities",
+      "Multimedia",
+      "Digital Performance"
+    ],
+    "Question": {
+      "content": "New media art often blends multiple forms (visual, auditory, and performative) resulting in:",
+      "type": "OBJ",
+      "options": [
+        "Multimedia installations and digital performances",
+        "Simplified artworks",
+        "Single-medium presentations",
+        "Traditional sculptures"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Multimedia installations and digital performances"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Convergence of Media</h4>\n <p>New media is defined by the blending of different creative disciplines.<br>Artists use sound, video, and live action simultaneously in one work.<br>This results in complex, multi-layered 'multimedia' experiences.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Blockchain",
+      "NFTs",
+      "Digital Art"
+    ],
+    "Question": {
+      "content": "The rise of blockchain and NFTs has revolutionized:",
+      "type": "OBJ",
+      "options": [
+        "Traditional painting methods",
+        "Physical sculpture techniques",
+        "The way digital art is bought, sold, and authenticated",
+        "Classical music composition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The way digital art is bought, sold, and authenticated"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Ownership</h4>\n <p>Blockchain provides a secure, public ledger to prove who owns a digital file.<br>NFTs (Non-Fungible Tokens) allow digital art to have 'scarcity' like a physical painting.<br>This enables artists to sell digital works for significant value.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Graphic Design",
+      "Software",
+      "Digital Tools"
+    ],
+    "Question": {
+      "content": "Graphic design software used by visual artists includes all EXCEPT:",
+      "type": "OBJ",
+      "options": [
+        "Adobe Photoshop",
+        "Canva",
+        "CorelDRAW",
+        "Logic Pro"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Logic Pro"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Tool Specialization</h4>\n <p>Photoshop, Canva, and CorelDRAW are focused on visual and graphic elements.<br>Logic Pro is a Digital Audio Workstation (DAW) used specifically for music production.<br>Artists must choose tools based on their specific creative medium.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "3D Modeling",
+      "Software",
+      "Animation"
+    ],
+    "Question": {
+      "content": "Programs such as Blender, Maya, and ZBrush enable:",
+      "type": "OBJ",
+      "options": [
+        "Audio recording and mixing",
+        "Document editing",
+        "The creation of lifelike 3D models and virtual worlds",
+        "Database management"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The creation of lifelike 3D models and virtual worlds"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>3D Design</h4>\n <p>These softwares are the industry standard for three-dimensional computer graphics.<br>They allow artists to sculpt, texture, and animate objects in 3D space.<br>This tech is vital for modern movies, video games, and architecture.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Digital Humanities",
+      "Music Production",
+      "DAW"
+    ],
+    "Question": {
+      "content": "Digital audio workstations (DAWs) have revolutionized music by allowing musicians to:",
+      "type": "OBJ",
+      "options": [
+        "Only play traditional instruments",
+        "Eliminate all electronic sounds",
+        "Record only live performances",
+        "Layer hundreds of tracks and produce from home studios"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Layer hundreds of tracks and produce from home studios"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Democratizing Music</h4>\n <p>DAWs allow for complex multi-track recording on a standard computer.<br>Musicians no longer need expensive professional studios to create high-quality hits.<br>This has led to the rise of 'bedroom producers' worldwide.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Open-source",
+      "Software",
+      "Digital Art"
+    ],
+    "Question": {
+      "content": "Open-source software like GIMP and Blender:",
+      "type": "OBJ",
+      "options": [
+        "Requires expensive licenses",
+        "Is unavailable to most users",
+        "Only works on specific devices",
+        "Lowers cost barriers for aspiring artists"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lowers cost barriers for aspiring artists"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Open Source Benefits</h4>\n <p>Open-source software is free to use and distribute.<br>This allows beginners to access powerful creative tools without paying high monthly fees.<br>It fosters a community-driven approach to software development.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Collaboration",
+      "Cloud Computing",
+      "Digital Tools"
+    ],
+    "Question": {
+      "content": "Cloud-based services that enable artistic collaboration include:",
+      "type": "OBJ",
+      "options": [
+        "Traditional mail services",
+        "Physical meeting spaces only",
+        "Google Drive, Dropbox, and Figma",
+        "Telephone networks"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Google Drive, Dropbox, and Figma"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Cloud</h4>\n <p>Cloud services store files on the internet rather than just one computer.<br>Figma allows multiple designers to work on the same file in real-time.<br>This makes global teamwork easy and instantaneous.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "COVID-19",
+      "Digital Collaboration",
+      "Art"
+    ],
+    "Question": {
+      "content": "During the COVID-19 pandemic, digital collaboration became vital because:",
+      "type": "OBJ",
+      "options": [
+        "Artists found new ways to work together despite physical restrictions",
+        "Traditional methods became more popular",
+        "All art production stopped",
+        "Only local collaborations were possible"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Artists found new ways to work together despite physical restrictions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Resilience through Tech</h4>\n <p>Lockdowns prevented physical gatherings in studios and galleries.<br>Digital tools allowed the creative industry to continue functioning remotely.<br>This accelerated the adoption of virtual galleries and online rehearsals.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Social Media",
+      "Art Distribution",
+      "Community Building"
+    ],
+    "Question": {
+      "content": "Social media platforms enable artists to:",
+      "type": "OBJ",
+      "options": [
+        "Hide their work from audiences",
+        "Only communicate privately",
+        "Share work instantly with global audiences and build communities",
+        "Limit their creative output"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Share work instantly with global audiences and build communities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Visibility</h4>\n <p>Platforms like Instagram and TikTok act as global, 24/7 galleries.<br>Artists can receive instant feedback and find patrons across the world.<br>It bypasses traditional 'gatekeepers' like physical gallery owners.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Digital Installations",
+      "Immersive Environments",
+      "Sensors"
+    ],
+    "Question": {
+      "content": "Digital installations combine screens, projections, and interactive sensors to create:",
+      "type": "OBJ",
+      "options": [
+        "Traditional paintings",
+        "Static sculptures",
+        "Written manuscripts",
+        "Immersive environments"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Immersive environments"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Interactive Art</h4>\n <p>Sensors detect the movement of the audience to change the art dynamically.<br>Projections surround the viewer, making them feel 'inside' the work.<br>This creates a total environmental experience rather than a single object.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Net Art",
+      "Internet Art",
+      "Online Spaces"
+    ],
+    "Question": {
+      "content": "Net art, also known as internet art, is created specifically for:",
+      "type": "OBJ",
+      "options": [
+        "Physical galleries only",
+        "Private collections",
+        "Online spaces",
+        "Museum archives"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Online spaces"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Web as a Canvas</h4>\n <p>Net art is designed to exist and be experienced via a web browser.<br>It often uses website code (HTML/JS) as its primary artistic medium.<br>Taking it out of the browser often changes or breaks the artwork.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Generative Art",
+      "Algorithms",
+      "Artificial Intelligence"
+    ],
+    "Question": {
+      "content": "Generative art involves:",
+      "type": "OBJ",
+      "options": [
+        "Traditional painting techniques",
+        "Manual sculpture methods",
+        "Classical music composition",
+        "Algorithms and artificial intelligence"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Algorithms and artificial intelligence"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Algorithmic Creation</h4>\n <p>In generative art, the artist sets 'rules' or uses AI to produce the work.<br>The computer makes decisions based on these rules to create unique results.<br>It shifts the artist's role from creator to system designer.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Digital Humanities",
+      "AI Art",
+      "Artists"
+    ],
+    "Question": {
+      "content": "The Turkish-American artist who utilizes data and AI to create large-scale installations is:",
+      "type": "OBJ",
+      "options": [
+        "Marina Abramović",
+        "Banksy",
+        "Refik Anadol",
+        "Yayoi Kusama"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Refik Anadol"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Refik Anadol</h4>\n <p>Anadol is a pioneer in 'data painting' and 'latent cinema.'<br>He uses machine learning algorithms to turn massive datasets into fluid, visual spectacles.<br>His work often covers entire building facades or museum walls.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "NFTs",
+      "Blockchain",
+      "Digital Economy"
+    ],
+    "Question": {
+      "content": "NFTs (Non-Fungible Tokens) allow artists to:",
+      "type": "OBJ",
+      "options": [
+        "Only create physical artworks",
+        "Avoid digital technology",
+        "Work only in traditional media",
+        "Create unique digital artworks that can be owned and traded on blockchain platforms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Create unique digital artworks that can be owned and traded on blockchain platforms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Ownership</h4>\n <p>NFTs provide a 'certificate of authenticity' for digital files.<br>This solves the problem of infinite copying by identifying a 'true' original.<br>It creates a marketplace where digital files have real-world monetary value.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Digital Media",
+      "Audience Roles",
+      "Interactivity"
+    ],
+    "Question": {
+      "content": "One transformative impact of digital media is shifting audience roles from:",
+      "type": "OBJ",
+      "options": [
+        "Passive observers to active participants",
+        "Active participants to passive observers",
+        "Creators to consumers",
+        "Critics to supporters"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Passive observers to active participants"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Active Audience</h4>\n <p>Digital art often requires the audience to click, move, or speak to progress.<br>This breaks the traditional 'museum rule' of just standing and looking.<br>The viewer becomes a co-creator of the artistic experience.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Crowdfunding",
+      "Art Funding",
+      "Patreon"
+    ],
+    "Question": {
+      "content": "Crowdfunding platforms like Patreon allow:",
+      "type": "OBJ",
+      "options": [
+        "Only corporations to fund art",
+        "Government-only art funding",
+        "Fans to support artists directly with monthly contributions",
+        "No interaction between artists and supporters"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fans to support artists directly with monthly contributions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Direct Support</h4>\n <p>Crowdfunding removes the middleman (like record labels or galleries).<br>Artists can receive steady income directly from their most loyal fans.<br>This creates a sustainable 'creator economy' for niche art forms.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Virtual Reality",
+      "Hardware",
+      "Gaming"
+    ],
+    "Question": {
+      "content": "Virtual Reality headsets include:",
+      "type": "OBJ",
+      "options": [
+        "Nintendo Game Boy and PlayStation 2",
+        "Traditional cameras and projectors",
+        "Standard computer monitors",
+        "Oculus Quest, HTC Vive, and PlayStation VR"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oculus Quest, HTC Vive, and PlayStation VR"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>VR Hardware</h4>\n <p>These devices use head-mounted displays to block out the physical world.<br>They track head movements to simulate being inside a 360-degree environment.<br>Oculus (Meta), HTC, and Sony are the leading manufacturers in this tech.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Museums",
+      "Virtual Reality",
+      "Cultural Heritage"
+    ],
+    "Question": {
+      "content": "The Louvre Museum and British Museum offer VR experiences that:",
+      "type": "OBJ",
+      "options": [
+        "Only show modern art",
+        "Replace all physical visits permanently",
+        "Recreate ancient sites and allow inspection of rare artefacts",
+        "Are unavailable to public audiences"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Recreate ancient sites and allow inspection of rare artefacts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Heritage</h4>\n <p>VR allows visitors to 'see' items that are too fragile for physical handling.<br>It can digitally reconstruct buildings that were destroyed centuries ago.<br>This makes history accessible to anyone with an internet connection.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "VR Theatre",
+      "Performance Art",
+      "Interactivity"
+    ],
+    "Question": {
+      "content": "In VR theatre and performance, audience members can:",
+      "type": "OBJ",
+      "options": [
+        "Only sit in fixed seats",
+        "Never interact with the environment",
+        "Step inside virtual sets and move freely through performance spaces",
+        "Only watch from a single viewpoint"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Step inside virtual sets and move freely through performance spaces"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Immersive Theatre</h4>\n <p>VR theater breaks the 'fourth wall' by putting the viewer on stage.<br>The audience can explore the set and choose where to look at any time.<br>This creates a personal and unique experience for every viewer.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "3D Painting",
+      "Software",
+      "Digital Art"
+    ],
+    "Question": {
+      "content": "Software like Tilt Brush and Gravity Sketch allows artists to:",
+      "type": "OBJ",
+      "options": [
+        "Edit documents",
+        "Create traditional paintings",
+        "Draw and sculpt in 3D space",
+        "Record audio"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Draw and sculpt in 3D space"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Painting in Air</h4>\n <p>Tilt Brush allows artists to use their controllers as 'brushes' in VR.<br>Instead of flat lines, they create volumetric shapes you can walk through.<br>It combines the feel of painting with the depth of sculpture.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Performance Art",
+      "Climate Change",
+      "VR Art"
+    ],
+    "Question": {
+      "content": "Marina Abramović's VR piece 'Rising' addresses:",
+      "type": "OBJ",
+      "options": [
+        "Ancient mythology",
+        "Classical literature",
+        "Climate change and rising sea levels",
+        "Renaissance art"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Climate change and rising sea levels"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Artistic Activism</h4>\n <p>In 'Rising,' viewers face a digital version of the artist in a melting glass tank.<br>The piece uses VR to build empathy for ecological disasters.<br>It highlights the immediate threat of global warming through immersive tech.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Augmented Reality",
+      "Virtual Reality",
+      "Technology Comparison"
+    ],
+    "Question": {
+      "content": "Augmented Reality (AR) differs from VR by:",
+      "type": "OBJ",
+      "options": [
+        "Creating entirely digital environments",
+        "Eliminating all physical surroundings",
+        "Overlaying digital elements onto the real world",
+        "Only working in museums"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Overlaying digital elements onto the real world"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>AR vs. VR</h4>\n <p>VR replaces your reality; AR adds to your reality.<br>AR users still see the actual room they are standing in.<br>Digital objects appear to 'sit' on real-world surfaces like tables or floors.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Augmented Reality",
+      "Hardware",
+      "Smartphones"
+    ],
+    "Question": {
+      "content": "AR is accessible through:",
+      "type": "OBJ",
+      "options": [
+        "Only expensive laboratory equipment",
+        "Traditional telescopes",
+        "Smartphones, tablets, and smart glass",
+        "Printed books only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Smartphones, tablets, and smart glass"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Accessible Tech</h4>\n <p>Most modern smartphones have the sensors needed to run AR apps.<br>This makes AR much more common than VR, which requires a headset.<br>Apps like Pokémon GO or IKEA Place are prime examples of this.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Museums",
+      "Augmented Reality",
+      "Visitor Experience"
+    ],
+    "Question": {
+      "content": "Museums use AR to enrich visitor experiences by:",
+      "type": "OBJ",
+      "options": [
+        "Removing all digital content",
+        "Limiting information access",
+        "Preventing visitor interaction",
+        "Showing 3D reconstructions of how objects were used historically"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Showing 3D reconstructions of how objects were used historically"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bringing History to Life</h4>\n <p>Visitors can point their phones at a broken statue to see its original form.<br>It provides a 'layer' of educational context without cluttering the physical space.<br>This turns static exhibits into dynamic learning tools.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Social Media",
+      "AR Filters",
+      "Digital Art"
+    ],
+    "Question": {
+      "content": "AR filters on Instagram and Snapchat have become:",
+      "type": "OBJ",
+      "options": [
+        "Obsolete technology",
+        "Banned in most countries",
+        "A playground for digital artists",
+        "Only for commercial use"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A playground for digital artists"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Micro-Artworks</h4>\n <p>Filters allow artists to distribute their work to millions of users instantly.<br>They allow people to wear 'digital makeup' or masks designed by creators.<br>This is currently the most widespread use of AR in the world.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Interactive Media",
+      "Audience Empowerment",
+      "Co-creation"
+    ],
+    "Question": {
+      "content": "Interactive media empowers viewers to become:",
+      "type": "OBJ",
+      "options": [
+        "Passive consumers only",
+        "Disconnected from the art",
+        "Collaborators in the artwork",
+        "Traditional critics exclusively"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Collaborators in the artwork"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Shared Creation</h4>\n <p>The artwork changes based on the audience's choices or presence.<br>This means the art is never the same twice and depends on the user.<br>It empowers the viewer to feel ownership over the experience.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Video Games",
+      "Digital Art",
+      "Game Design"
+    ],
+    "Question": {
+      "content": "Video games praised for artistic value include:",
+      "type": "OBJ",
+      "options": [
+        "Spreadsheet applications",
+        "Word processors",
+        "Journey, Gris, and The Legend of Zelda",
+        "Email clients"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Journey, Gris, and The Legend of Zelda"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Games as Art</h4>\n <p>These games are famous for their beautiful visual style and soundtracks.<br>They focus on emotional storytelling rather than just high scores.<br>Many critics now consider game design a legitimate form of high art.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "teamLab",
+      "Art Collectives",
+      "Interactive Installations"
+    ],
+    "Question": {
+      "content": "teamLab, a Japanese art collective, is famous for creating:",
+      "type": "OBJ",
+      "options": [
+        "Traditional oil paintings",
+        "Classical sculptures",
+        "Large-scale digital installations that react to visitor movements",
+        "Printed manuscripts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Large-scale digital installations that react to visitor movements"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>teamLab Installations</h4>\n <p>They create digital 'borders' of light and water that change as you walk.<br>The art isn't a recording; it's being calculated in real-time by computers.<br>Their 'Borderless' museum in Tokyo is a world-famous attraction.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Digital Storytelling",
+      "Narrative",
+      "Multimedia"
+    ],
+    "Question": {
+      "content": "Digital storytelling combines traditional narrative forms with:",
+      "type": "OBJ",
+      "options": [
+        "Only written text",
+        "Ancient oral traditions exclusively",
+        "Digital technologies and multimedia tools",
+        "Silent performances"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Digital technologies and multimedia tools"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Modern Narratives</h4>\n <p>It mixes text with video, interactive links, and audio.<br>This allows stories to be non-linear, where you can choose your own path.<br>It bridges the gap between old-fashioned books and new-age tech.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Digital Storytelling",
+      "Multimedia",
+      "Interactive Features"
+    ],
+    "Question": {
+      "content": "Unlike conventional stories, digital storytelling often weaves together:",
+      "type": "OBJ",
+      "options": [
+        "Only printed text",
+        "Single-medium presentations",
+        "Text, images, video, animation, music, and interactive features",
+        "Handwritten manuscripts exclusively"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Text, images, video, animation, music, and interactive features"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Multimedia Integration</h4>\n <p>Digital storytelling is defined by its use of varied media types.<br>It moves beyond the linear 'read-only' nature of traditional books.<br>This combination creates a richer, more sensory-driven narrative experience.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Modern Filmmaking",
+      "Digital Tools",
+      "CGI"
+    ],
+    "Question": {
+      "content": "In modern filmmaking, digital tools enable filmmakers to:",
+      "type": "OBJ",
+      "options": [
+        "Avoid all special effects",
+        "Use only black and white film",
+        "Eliminate post-production",
+        "Blend live-action footage with CGI and special effects"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Blend live-action footage with CGI and special effects"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hybrid Cinema</h4>\n <p>Digital technology allows for 'seamless' integration of computer-generated imagery.<br>Filmmakers can place real actors in entirely digital environments.<br>This expands the possibilities for storytelling beyond physical sets.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "National Theatre Live",
+      "Digital Humanities",
+      "Broadcasting"
+    ],
+    "Question": {
+      "content": "The National Theatre Live in the UK:",
+      "type": "OBJ",
+      "options": [
+        "Only performs in London",
+        "Has discontinued all productions",
+        "Broadcasts live plays to cinemas and homes worldwide",
+        "Prohibits digital recording"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Broadcasts live plays to cinemas and homes worldwide"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Reach</h4>\n <p>This initiative uses high-definition broadcasting to democratize theatre.<br>It allows people in different continents to watch London plays in real-time.<br>This is a key example of how digital media expands cultural access.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Interactive E-books",
+      "Hypertext Fiction",
+      "Narrative Path"
+    ],
+    "Question": {
+      "content": "Interactive e-books and hypertext fiction give readers:",
+      "type": "OBJ",
+      "options": [
+        "No control over the story",
+        "Only one fixed narrative path",
+        "The freedom to make choices leading to multiple endings",
+        "No engagement with content"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The freedom to make choices leading to multiple endings"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Non-Linear Narratives</h4>\n <p>Hypertext fiction uses links to allow readers to jump between story parts.<br>The reader's choices directly influence the outcome of the plot.<br>This turns reading into an active, game-like experience.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Digital Storytelling",
+      "Alexander and Levine",
+      "Participatory Culture"
+    ],
+    "Question": {
+      "content": "According to Alexander and Levine (2008), digital storytelling supports:",
+      "type": "OBJ",
+      "options": [
+        "Passive consumption only",
+        "Limited community involvement",
+        "A participatory culture where audiences become storytellers",
+        "Exclusive professional authorship"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A participatory culture where audiences become storytellers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>User-Led Creation</h4>\n <p>The scholars argue that digital tools lower the barrier to creation.<br>Ordinary people can now share their own stories using simple apps.<br>This shift blurs the line between the author and the audience.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Nigerian Digital Storytelling",
+      "Web Series",
+      "Story Hub"
+    ],
+    "Question": {
+      "content": "Nigerian digital storytelling initiatives include:",
+      "type": "OBJ",
+      "options": [
+        "Only traditional oral performances",
+        "No digital platforms",
+        "Web series on YouTube and organizations like Story Hub",
+        "Exclusively foreign productions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Web series on YouTube and organizations like Story Hub"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Nigerian Digital Space</h4>\n <p>YouTube has become a major hub for Nigerian creators to share local stories.<br>Story Hub and similar groups focus on documenting Nigerian experiences digitally.<br>This movement creates a global platform for local cultural narratives.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Online Exhibitions",
+      "Virtual Tours",
+      "Digital Access"
+    ],
+    "Question": {
+      "content": "Online exhibitions use technologies including all EXCEPT:",
+      "type": "OBJ",
+      "options": [
+        "High-resolution images allowing zoom details",
+        "360-degree virtual tours",
+        "Video interviews and interactive guides",
+        "Prohibition of digital access"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prohibition of digital access"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Open Access</h4>\n <p>The goal of online exhibitions is to *increase* digital access, not prohibit it.<br>Tools like 360-degree tours recreate the feeling of walking in a gallery.<br>High-res zooms let viewers see brushstrokes better than they could in person.</p>\n</div>"
+    }
+  }]
