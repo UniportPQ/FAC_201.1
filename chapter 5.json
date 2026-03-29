@@ -1,0 +1,1079 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Digital Humnaities",
+    "code": "FAC 201.1",
+    "session": "Chapter 5",
+    "topics":["Digital Humanities", "Data Mining", "Research Methods", "History of DH", "Grants", "Project Analysis", "Research Tools", "GIS", "Geography", "Information Systems", "Research Methodology", "Software", "Academia", "Open Source", "GIScience", "History of GIS", "Science History", "Archaeology", "Historical GIS", "History Research", "Spatial History", "Deep Mapping", "Linguistics", "Corpus Linguistics", "Penn Treebank", "Historical English", "Computational Linguistics", "Artificial Intelligence", "Language Processing"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "Chapter Five",
+    "Subheading": "Digital Tools for Humanities Research"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Digital Humanities",
+      "Data Mining",
+      "Research Methods"
+    ],
+    "Question": {
+      "content": "Data mining in digital humanities usually involves which of the following processes?",
+      "type": "OBJ",
+      "options": [
+        "Physical excavation of artifacts",
+        "Performing extraction of information from texts and metadata",
+        "Creating new languages",
+        "Deleting unnecessary files"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Performing extraction of information from texts and metadata"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Data Mining</h4>\n <p>The solution is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Core Concept</strong><br>\n Data mining refers to discovering patterns in large data sets.<br>\n In humanities, this means pulling structured info from books or digital records.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Digital Humanities",
+      "History of DH",
+      "Grants"
+    ],
+    "Question": {
+      "content": "Which organization launched the 'digging into data challenge' in 2009?",
+      "type": "OBJ",
+      "options": [
+        "The Library of Congress",
+        "The National Endowment for the Humanities",
+        "Oxford University",
+        "UNESCO"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The National Endowment for the Humanities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Funding DH</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Fact</strong><br>\n The NEH (USA) collaborated with international agencies to start this challenge.<br>\n It aimed to address how 'big data' changes research in humanities.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Digital Humanities",
+      "Project Analysis",
+      "Research Tools"
+    ],
+    "Question": {
+      "content": "Which two tools were used in the successful Old Bailey project from the digging into data challenge?",
+      "type": "OBJ",
+      "options": [
+        "ArcGIS and MapInfo",
+        "Zotero and TAPoR",
+        "QGIS and Grass",
+        "EndNote and Praat"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Zotero and TAPoR"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Old Bailey Project</h4>\n <p>The correct option is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Tool Usage</strong><br>\n TAPoR provides text analysis tools while Zotero manages citations.<br>\n Together they helped analyze massive historical court records.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "GIS",
+      "Geography",
+      "Information Systems"
+    ],
+    "Question": {
+      "content": "How is a Geographic Information System (GIS) best understood?",
+      "type": "OBJ",
+      "options": [
+        "A simple mapping tool",
+        "A video editing platform",
+        "A smart database management system designed for location-linked data",
+        "A text analysis program"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A smart database management system designed for location-linked data"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining GIS</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Functionality</strong><br>\n GIS isn't just a map; it's a database where every entry has a coordinate.<br>\n This allows users to analyze spatial relationships and patterns.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "GIS",
+      "Research Methodology"
+    ],
+    "Question": {
+      "content": "Which question is NOT typically asked in GIS research?",
+      "type": "OBJ",
+      "options": [
+        "How is this data distributed across the study area?",
+        "Why is this found here and not there?",
+        "What color should the map be?",
+        "What else is found at places where this is found?"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "What color should the map be?"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Spatial Analysis</h4>\n <p>The answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n Map color is a design choice (cartography), not a research question.<br>\n GIS research focuses on distribution, correlation, and spatial logic.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "GIS",
+      "Software",
+      "Academia"
+    ],
+    "Question": {
+      "content": "Which is the dominant commercial GIS software used in the academic world?",
+      "type": "OBJ",
+      "options": [
+        "Quantum GIS",
+        "MapInfo",
+        "ArcGIS",
+        "gvSIG"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ArcGIS"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Industry Standards</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Commercial Context</strong><br>\n ArcGIS by Esri is the most widely used paid software in universities.<br>\n QGIS is its most popular free competitor.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "GIS",
+      "Open Source",
+      "Software"
+    ],
+    "Question": {
+      "content": "Free, open-source GIS alternatives include all EXCEPT which of the following?",
+      "type": "OBJ",
+      "options": [
+        "Quantum GIS (QGIS)",
+        "Grass",
+        "ArcGIS",
+        "gvSIG"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ArcGIS"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Software Types</h4>\n <p>The answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Reasoning</strong><br>\n ArcGIS is proprietary (paid) software.<br>\n QGIS, Grass, and gvSIG are all community-driven and free to use.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "GIS",
+      "GIScience",
+      "Geography"
+    ],
+    "Question": {
+      "content": "What is the academic field dedicated to understanding how geographical information can be best studied called?",
+      "type": "OBJ",
+      "options": [
+        "Geographic Information System (GIS)",
+        "Geographical Information Science (GISc)",
+        "Spatial Humanities",
+        "Historical GIS"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Geographical Information Science (GISc)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>System vs Science</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Difference</strong><br>\n GIS (System) refers to the tools and tech.<br>\n GISc (Science) refers to the theory and conceptual study of spatial data.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "History of GIS",
+      "Science History"
+    ],
+    "Question": {
+      "content": "In which field did GIS primarily begin in the 1960s?",
+      "type": "OBJ",
+      "options": [
+        "The humanities",
+        "The Earth sciences",
+        "Literary studies",
+        "Archaeological research"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Earth sciences"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Origins of GIS</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Context</strong><br>\n It was first used for land use management and environmental mapping.<br>\n Roger Tomlinson, the 'Father of GIS', developed it for the Canada Land Inventory.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Digital Humanities",
+      "Archaeology",
+      "History of GIS"
+    ],
+    "Question": {
+      "content": "Starting with which discipline did the humanities first embrace GIS in the early 1980s?",
+      "type": "OBJ",
+      "options": [
+        "History",
+        "Literature",
+        "Philosophy",
+        "Archaeology"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Archaeology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Humanities Adoption</h4>\n <p>The answer is <strong>D</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Archaeological Use</strong><br>\n Archaeologists were early adopters because their data is inherently spatial.<br>\n They used it to map site locations and artifact distribution.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Historical GIS",
+      "History Research"
+    ],
+    "Question": {
+      "content": "In the 1990s, what was the primary focus of historians using GIS?",
+      "type": "OBJ",
+      "options": [
+        "Literary texts",
+        "Qualitative interview",
+        "Quantitative information such as demographic or environmental data",
+        "Musical compositions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Quantitative information such as demographic or environmental data"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Early Historical GIS</h4>\n <p>The answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Historical Focus</strong><br>\n Early work focused on mapping census data and land ownership.<br>\n This required hard numbers that could be easily plotted on a map.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Spatial History",
+      "Historical GIS"
+    ],
+    "Question": {
+      "content": "What does the rebranding of 'historical GIS' as 'spatial history' emphasize?",
+      "type": "OBJ",
+      "options": [
+        "The importance of technology over research questions",
+        "The importance of historical research questions over underlying technology",
+        "The superiority of GIS software",
+        "The need for better mapping tools"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The importance of historical research questions over underlying technology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Shift in Focus</h4>\n <p>The solution is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Perspective</strong><br>\n 'Spatial History' puts the 'History' first.<br>\n It treats geography as a way to answer humanistic questions, not just a technical exercise.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Deep Mapping",
+      "Digital Humanities",
+      "Geography"
+    ],
+    "Question": {
+      "content": "What does 'deep mapping' represent in the context of geographical information?",
+      "type": "OBJ",
+      "options": [
+        "A strict reliance on traditional GIS",
+        "Only quantitative analysis",
+        "A different way of thinking about using geographical information beyond traditional GIS",
+        "Abandoned GIS techniques"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A different way of thinking about using geographical information beyond traditional GIS"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Deep Mapping</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Innovation</strong><br>\n Deep mapping includes stories, emotions, and memories associated with a place.<br>\n It goes deeper than just coordinates and terrain.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Linguistics",
+      "Corpus Linguistics",
+      "Penn Treebank"
+    ],
+    "Question": {
+      "content": "The Penn Treebank is an example of which type of digital resource?",
+      "type": "OBJ",
+      "options": [
+        "A GIS database",
+        "A text encoding system",
+        "A parsed corpus",
+        "A visualization tool"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A parsed corpus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Computational Linguistics</h4>\n <p>The answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Definition</strong><br>\n A parsed corpus is a collection of text with structural tags (like parts of speech).<br>\n It allows computers to understand the grammar of the sentences.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Linguistics",
+      "Corpus Linguistics",
+      "Historical English"
+    ],
+    "Question": {
+      "content": "The Penn Parsed Corpora of Historical English has been modified for historical corpora in which group of languages?",
+      "type": "OBJ",
+      "options": [
+        "French, Portuguese, and Icelandic",
+        "Spanish, German, and Italian",
+        "Chinese, Japanese, and Korean",
+        "Arabic, Hebrew, and Persian"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "French, Portuguese, and Icelandic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Global Adaptation</h4>\n <p>The correct answer is <strong>A</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Context</strong><br>\n The framework used for English was adapted to analyze the history of these languages.<br>\n This helps researchers compare linguistic evolution across cultures.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Computational Linguistics",
+      "Artificial Intelligence",
+      "Language Processing"
+    ],
+    "Question": {
+      "content": "What is the primary aim of computational linguists regarding computers and human language?",
+      "type": "OBJ",
+      "options": [
+        "Replace human language entirely",
+        "Converse and grasp natural language in a manner similar to human abilities",
+        "Eliminate the need for translation",
+        "Create new artificial languages"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Converse and grasp natural language in a manner similar to human abilities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Natural Language Understanding</h4>\n <p>The correct option is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Core Goal</strong><br>\n Computational linguistics seeks to model human language processing.<br>\n This allows machines to interact with us using natural speech and text.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Computational Linguistics",
+      "Text Processing"
+    ],
+    "Question": {
+      "content": "In computational linguistics, text processing occurs when attention is focused on which of the following?",
+      "type": "OBJ",
+      "options": [
+        "The auditory expressions generated during conversation",
+        "Mathematical equations",
+        "The written or read words",
+        "Visual images"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The written or read words"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Text vs Speech</h4>\n <p>The solution is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Processing Focus</strong><br>\n While linguistics covers speech, <em>text processing</em> specifically deals with written symbols.<br>\n It involves analyzing syntax and semantics within digital documents.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Theoretical Computational Linguistics",
+      "Linguistics Components"
+    ],
+    "Question": {
+      "content": "Which fundamental building blocks are examined by Theoretical Computational Linguistics?",
+      "type": "OBJ",
+      "options": [
+        "Hardware and software",
+        "Databases and networks",
+        "Phonology, morphology, syntax, semantics, and discourse",
+        "Colors, shapes, and patterns"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phonology, morphology, syntax, semantics, and discourse"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Linguistic Pillars</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Theoretic Focus</strong><br>\n These are the core levels of language analysis from sound (phonology) to meaning (semantics) and context (discourse).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Applied Computational Linguistics",
+      "Terminology"
+    ],
+    "Question": {
+      "content": "What is another common name for Applied Computational Linguistics?",
+      "type": "OBJ",
+      "options": [
+        "Human Language Technology",
+        "Machine Intelligence Systems",
+        "Digital Information Processing",
+        "Automated Communication Studies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Human Language Technology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Applied Tech</h4>\n <p>The correct option is <strong>A</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Industry Term</strong><br>\n HLT is the common industry term used when these theories are applied to create apps like Siri or Google Translate.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Mark-up Languages",
+      "Data Structures"
+    ],
+    "Question": {
+      "content": "How are mark-up tags typically organized in a document?",
+      "type": "OBJ",
+      "options": [
+        "A random structure",
+        "Alphabetical order",
+        "A hierarchical structure",
+        "Chronological order"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A hierarchical structure"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Tag Organization</h4>\n <p>The answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Hierarchy</strong><br>\n Tags follow a tree-like structure (nested) where 'parent' tags contain 'child' tags, such as &lt;body&gt; containing &lt;p&gt;.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "HTML",
+      "Mark-up Languages",
+      "Digital Humanities"
+    ],
+    "Question": {
+      "content": "What is the key difference between HTML and other mark-up languages used in digital humanities?",
+      "type": "OBJ",
+      "options": [
+        "HTML is newer",
+        "HTML tells browsers how to display text; others highlight content",
+        "HTML is more complex",
+        "HTML cannot be used for texts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "HTML tells browsers how to display text; others highlight content"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Display vs. Content</h4>\n <p>The solution is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n HTML is for <em>presentation</em> (making things look good).<br>\n Other mark-up (like XML/TEI) describes <em>what the data is</em> (meaning/structure).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "TEI",
+      "Text Encoding",
+      "Digital Humanities"
+    ],
+    "Question": {
+      "content": "What does the acronym TEI stand for?",
+      "type": "OBJ",
+      "options": [
+        "Technical Encoding Initiative",
+        "Textual Enhancement Integration",
+        "Text Encoding Initiative",
+        "Technology Education Interface"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Text Encoding Initiative"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DH Standards</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Background</strong><br>\n TEI is the international standard for representing literary and historical texts in digital form.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "TEI",
+      "Software",
+      "Oxygen"
+    ],
+    "Question": {
+      "content": "Which commonly used editor has the TEI system built into it?",
+      "type": "OBJ",
+      "options": [
+        "Microsoft Word",
+        "Oxygen",
+        "Notepad",
+        "Adobe Acrobat"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oxygen"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>XML Editing</h4>\n <p>The answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Usage</strong><br>\n Oxygen XML Editor is the professional standard for DH scholars working with TEI/XML files.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Distant Reading",
+      "Digital Humanities scholars"
+    ],
+    "Question": {
+      "content": "With which scholar is 'Distant Reading' most closely associated?",
+      "type": "OBJ",
+      "options": [
+        "Lev Manovich",
+        "Franco Moretti",
+        "Marshall McLuhan",
+        "Pierre Lévy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Franco Moretti"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Literary Theory</h4>\n <p>The correct option is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Scholar</strong><br>\n Franco Moretti pioneered Distant Reading, using computers to analyze thousands of books at once rather than reading individual ones.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Cultural Analytics",
+      "Lev Manovich"
+    ],
+    "Question": {
+      "content": "Who coined the term 'Cultural Analytics' to focus on analyzing massive collections of images?",
+      "type": "OBJ",
+      "options": [
+        "Franco Moretti",
+        "Jerome McGann",
+        "Alan Turing",
+        "Lev Manovich"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lev Manovich"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Visual DH</h4>\n <p>The correct answer is <strong>D</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Definition</strong><br>\n Lev Manovich uses computational methods to analyze visual culture like Instagram photos or film frames.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Distant Reading",
+      "Research Methods"
+    ],
+    "Question": {
+      "content": "How is 'Distant Reading' best described?",
+      "type": "OBJ",
+      "options": [
+        "Reading texts very slowly",
+        "Looking at huge amounts of text without reading the entire thing",
+        "Only reading summaries",
+        "Avoiding all textual analysis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Looking at huge amounts of text without reading the entire thing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Scaling Reading</h4>\n <p>The answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Core Idea</strong><br>\n It involves using computers to find patterns or trends across an entire library of books.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Europeana",
+      "Digitization Initiatives"
+    ],
+    "Question": {
+      "content": "Which digitization initiative has made resources from major European libraries accessible?",
+      "type": "OBJ",
+      "options": [
+        "Project Gutenberg",
+        "Google Books",
+        "Europeana Travel",
+        "Internet Archive"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Europeana Travel"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Libraries</h4>\n <p>The correct option is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Context</strong><br>\n Europeana provides access to millions of digitized items from European museums, archives, and libraries.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Reference Management",
+      "Scholarly Tools"
+    ],
+    "Question": {
+      "content": "Which reference management software is commonly used by arts scholars?",
+      "type": "OBJ",
+      "options": [
+        "Adobe Photoshop and Illustrator",
+        "EndNote and Zotero",
+        "Final Cut Pro and Premiere",
+        "AutoCAD and SketchUp"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "EndNote and Zotero"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Citations</h4>\n <p>The correct option is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Function</strong><br>\n These tools help scholars collect, organize, and cite bibliographic references automatically.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Crowdsourcing",
+      "The Bentham Project"
+    ],
+    "Question": {
+      "content": "What is the Bentham Project an example of?",
+      "type": "OBJ",
+      "options": [
+        "GIS mapping",
+        "Text encoding",
+        "Collaborative crowdsourcing for transcribing historical manuscripts",
+        "Machine translation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Collaborative crowdsourcing for transcribing historical manuscripts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Crowdsourced DH</h4>\n <p>The correct option is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Overview</strong><br>\n The project asked the public to help transcribe the massive collection of Jeremy Bentham's handwritten notes.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Text Mining",
+      "Digital Humanities research"
+    ],
+    "Question": {
+      "content": "What does text mining help scholars find in the arts?",
+      "type": "OBJ",
+      "options": [
+        "Only grammar errors",
+        "Facts, hidden meanings, and complex patterns in language systems",
+        "Spelling mistakes exclusively",
+        "Font styles and sizes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Facts, hidden meanings, and complex patterns in language systems"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Advanced Text Analysis</h4>\n <p>The solution is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Purpose</strong><br>\n Text mining looks beyond the surface level to find stylistic trends and recurring themes in literature.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Data Visualization",
+      "Gapminder Project"
+    ],
+    "Question": {
+      "content": "What does the Gapminder Project effectively demonstrate?",
+      "type": "OBJ",
+      "options": [
+        "Text analysis techniques",
+        "Development numbers across time through data visualization",
+        "Audio processing methods",
+        "Image editing capabilities"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Development numbers across time through data visualization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Gapminder</h4>\n <p>The correct option is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Visualization</strong><br>\n It uses animated bubble charts to show global trends in health and wealth over centuries.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "GIS",
+      "Modeling"
+    ],
+    "Question": {
+      "content": "GIS can create 3D models and maps that show which of the following?",
+      "type": "OBJ",
+      "options": [
+        "Only current city layouts",
+        "Future predictions exclusively",
+        "How cities have changed over the years",
+        "Theoretical landscapes only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "How cities have changed over the years"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Temporal GIS</h4>\n <p>The correct option is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Timeline</strong><br>\n GIS allows researchers to layer historical maps over current ones to track urban growth or destruction.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "GIS",
+      "Database Management"
+    ],
+    "Question": {
+      "content": "What is a major challenge of building a GIS database?",
+      "type": "OBJ",
+      "options": [
+        "Is too simple",
+        "Takes a considerable amount of time",
+        "Requires no technical knowledge",
+        "Cannot handle spatial data"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Takes a considerable amount of time"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Database Challenges</h4>\n <p>The solution is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Time Factor</strong><br>\n Creating a GIS database requires gathering, cleaning, and georeferencing massive amounts of complex data.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "GIS",
+      "History of GIS",
+      "Quantitative Data"
+    ],
+    "Question": {
+      "content": "What kind of data was GIS originally developed to handle?",
+      "type": "OBJ",
+      "options": [
+        "Qualitative data using humanities approaches",
+        "Only textual information",
+        "Quantitative data in Earth and social sciences",
+        "Musical compositions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Quantitative data in Earth and social sciences"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>GIS Origins</h4>\n <p>The correct option is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Science Foundation</strong><br>\n GIS was built for hard data like soil types and topography.<br>\n Its use in the humanities for qualitative data came much later.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Mark-up Languages",
+      "Text Encoding"
+    ],
+    "Question": {
+      "content": "In addition to being intellectually engaging, how is the process of mark-up described?",
+      "type": "OBJ",
+      "options": [
+        "Quick and simple",
+        "Automated and effortless",
+        "Slow and demanding",
+        "Impossible to learn"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Slow and demanding"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Effort of Encoding</h4>\n <p>The solution is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Reality Check</strong><br>\n Manually tagging every word or structure in a historical text requires immense precision and patience.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Computational Linguistics",
+      "Speech Processing"
+    ],
+    "Question": {
+      "content": "In computational linguistics, what does speech processing involve concentration on?",
+      "type": "OBJ",
+      "options": [
+        "Written text only",
+        "The auditory expressions generated during conversation",
+        "Visual images",
+        "Mathematical formulas"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The auditory expressions generated during conversation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Processing Sounds</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Analysis</strong><br>\n Unlike text processing, speech processing deals with waveforms, pitch, and acoustic signals.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Cultural Analytics",
+      "Image Analysis"
+    ],
+    "Question": {
+      "content": "Cultural Analytics explores ways to process digital image files based on which features?",
+      "type": "OBJ",
+      "options": [
+        "File size and format only",
+        "Color, value, or differences from a norm",
+        "Creation date exclusively",
+        "Author information"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Color, value, or differences from a norm"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Analyzing Images</h4>\n <p>The correct option is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Visual Features</strong><br>\n It looks at pixel-level data like brightness and saturation to find artistic patterns across large collections.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Distant Reading",
+      "Cultural Analytics",
+      "Research Ethics"
+    ],
+    "Question": {
+      "content": "How are the decisions about what to measure or count in distant reading and cultural analytics categorized?",
+      "type": "OBJ",
+      "options": [
+        "Completely objective facts",
+        "Irrelevant to outcomes",
+        "Interpretive acts that shape research results",
+        "Made randomly"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Interpretive acts that shape research results"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Human Element</h4>\n <p>The solution is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Subjectivity</strong><br>\n Choosing what data points to focus on is a human choice that reflects the researcher's bias or hypothesis.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Text Mining",
+      "Linguistics",
+      "African Languages"
+    ],
+    "Question": {
+      "content": "Which group of languages with less digital resources are currently targets for text mining tools?",
+      "type": "OBJ",
+      "options": [
+        "English and Spanish",
+        "French and German",
+        "Igbo and Nigerian Pidgin",
+        "Latin and Greek"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Igbo and Nigerian Pidgin"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Under-resourced Languages</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Regional Focus</strong><br>\n Researchers are working to build digital tools for local languages that have historically lacked computer support.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Digital Humanities",
+      "Arts Research"
+    ],
+    "Question": {
+      "content": "Fundamentally, what do digital tools do for the arts discipline?",
+      "type": "OBJ",
+      "options": [
+        "Replace human scholars entirely",
+        "Complicate the research process unnecessarily",
+        "Expand the horizons of humanistic inquiry",
+        "Limit access to cultural materials"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Expand the horizons of humanistic inquiry"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Purpose of DH</h4>\n <p>The answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Core Aim</strong><br>\n Digital tools are meant to augment research, allowing scholars to ask new questions and handle larger scales of data.\n </div>\n</div>"
+    }
+  }
+]
+
