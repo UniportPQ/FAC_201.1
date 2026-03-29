@@ -1,0 +1,1912 @@
+[
+    {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Digital Humnaities",
+    "code": "FAC 201.1",
+    "session": "Chapter 7",
+    "topics":["Knowledge Production", "Paradigm Shift", "Marketable Skills", "Digital Tools", "Oral History", "Indigenous Knowledge", "Infrastructure", "Digital Entrepreneurship", "Monetization", "Scholarly Competencies", "Consultancy", "Cultural Heritage", "Self-publishing", "Scholarly Communication", "University of Ibadan", "Digitization Centre", "CrashCourse", "Content Entrepreneurship", "Freelancing", "Digital Proficiency", "Content Creation", "Digital Media", "Design Tools"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "CHAPTER SEVEN",
+    "Subheading": "ENTREPRENEURSHIP IN DIGITAL HUMANITIES"
+  },
+
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Digital Humanities",
+      "Knowledge Production",
+      "Paradigm Shift"
+    ],
+    "Question": {
+      "content": "Digital Humanities represents a paradigm shift in:",
+      "type": "OBJ",
+      "options": [
+        "Traditional teaching methods only",
+        "Library cataloging systems",
+        "How knowledge is produced, shared, and monetized",
+        "Physical classroom arrangements"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "How knowledge is produced, shared, and monetized"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Paradigm Shift</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Analysis</strong><br>\n DH changes the core of academia by using digital tools to not just study culture,<br>but to create scalable, often commercializable, digital products and platforms.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Digital Humanities",
+      "Marketable Skills",
+      "Digital Tools"
+    ],
+    "Question": {
+      "content": "Marketable digital skills offered by Digital Humanities include all EXCEPT:",
+      "type": "OBJ",
+      "options": [
+        "Data visualization and digital archiving",
+        "Web development and content creation",
+        "Traditional manuscript illumination",
+        "Digital storytelling"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Traditional manuscript illumination"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital vs. Traditional</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Reasoning</strong><br>\n While beautiful, traditional manuscript illumination is a manual, analog craft.<br>DH focuses on computational skills like web development and data analysis.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Digital Humanities",
+      "Oral History",
+      "Indigenous Knowledge"
+    ],
+    "Question": {
+      "content": "A student proficient in oral history and video editing can develop:",
+      "type": "OBJ",
+      "options": [
+        "Traditional print encyclopedias",
+        "Monetizable documentaries on indigenous knowledge systems",
+        "Physical museum exhibits only",
+        "Handwritten manuscripts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Monetizable documentaries on indigenous knowledge systems"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Skill Application</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Monetization</strong><br>\n Combining humanities research (oral history) with digital production (video editing)<br>creates high-value content for streaming, education, or cultural archives.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Digital Humanities",
+      "Infrastructure",
+      "Digital Entrepreneurship"
+    ],
+    "Question": {
+      "content": "The infrastructure supporting digital entrepreneurship includes:",
+      "type": "OBJ",
+      "options": [
+        "Only physical libraries",
+        "Traditional publishing houses exclusively",
+        "Postal service networks",
+        "Social media platforms, e-learning portals, and crowdfunding websites"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Social media platforms, e-learning portals, and crowdfunding websites"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Ecosystem</h4>\n <p>The correct answer is <strong>D</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Connectivity</strong><br>\n These tools form the digital backbone that allows entrepreneurs to market,<br>teach, and fund their projects globally without physical storefronts.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Digital Humanities",
+      "Monetization",
+      "Scholarly Competencies"
+    ],
+    "Question": {
+      "content": "Monetizing DH skills involves:",
+      "type": "OBJ",
+      "options": [
+        "Translating scholarly competencies into marketable services or products",
+        "Abandoning all academic pursuits",
+        "Focusing only on theoretical research",
+        "Avoiding all commercial activities"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Translating scholarly competencies into marketable services or products"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Applied Humanities</h4>\n <p>The correct answer is <strong>A</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Translation</strong><br>\n It means taking academic expertise (like linguistics or history) and turning it<br>into something businesses pay for, like SEO content or digital archives.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Digital Humanities",
+      "Consultancy",
+      "Cultural Heritage"
+    ],
+    "Question": {
+      "content": "DH professionals can offer consultancy services to:",
+      "type": "OBJ",
+      "options": [
+        "Only government agencies",
+        "Educational institutions, museums, and cultural heritage organizations",
+        "Manufacturing companies exclusively",
+        "Agricultural cooperatives only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Educational institutions, museums, and cultural heritage organizations"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DH Consulting</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Target Markets</strong><br>\n These sectors need DH experts to help with digitization projects,<br>interactive exhibits, and managing digital assets.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Digital Humanities",
+      "Self-publishing",
+      "Scholarly Communication"
+    ],
+    "Question": {
+      "content": "Digital self-publishing allows humanities scholars to:",
+      "type": "OBJ",
+      "options": [
+        "Only work with traditional publishers",
+        "Avoid all audience engagement",
+        "Bypass traditional publishers and reach audiences directly",
+        "Eliminate all forms of peer review"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bypass traditional publishers and reach audiences directly"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Disintermediation</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Effect</strong><br>\n Scholars can use blogs, Kindle, or Substack to share their research,<br>speeding up publication and maintaining control over their intellectual property.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Digital Humanities",
+      "University of Ibadan",
+      "Digitization Centre"
+    ],
+    "Question": {
+      "content": "The Digitization Centre at the University of Ibadan represents:",
+      "type": "OBJ",
+      "options": [
+        "A foreign-only initiative",
+        "An effort to discourage digital innovation",
+        "Platform for training, collaboration, and entrepreneurship in Nigeria",
+        "A purely theoretical research center"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Platform for training, collaboration, and entrepreneurship in Nigeria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Local Hubs</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Significance</strong><br>\n It serves as a practical space for Nigerian scholars to gain technical<br>skills and foster innovative digital projects in the local context.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Digital Humanities",
+      "CrashCourse",
+      "Content Entrepreneurship"
+    ],
+    "Question": {
+      "content": "The \"CrashCourse\" series on YouTube exemplifies:",
+      "type": "OBJ",
+      "options": [
+        "Traditional academic publishing",
+        "Content-based platform entrepreneurship",
+        "Closed-access scholarship",
+        "Print media distribution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Content-based platform entrepreneurship"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Edutainment</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Model</strong><br>\n CrashCourse turns educational content into high-quality digital videos,<br>monetizing via ads and sponsorships while providing open-access knowledge.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Digital Humanities",
+      "Freelancing",
+      "Digital Proficiency"
+    ],
+    "Question": {
+      "content": "According to data from Upwork and Fiverr, there is growing demand for freelancers who can blend:",
+      "type": "OBJ",
+      "options": [
+        "Only technical skills",
+        "Storytelling, historical accuracy, and digital proficiency",
+        "Exclusively programming languages",
+        "Traditional craftsmanship alone"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Storytelling, historical accuracy, and digital proficiency"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Freelance Mix</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Hybrid Skills</strong><br>\n Clients want content that is both technologically advanced and<br>intellectually deep, combining humanity-style research with digital execution.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Digital Humanities",
+      "Content Creation",
+      "Digital Media"
+    ],
+    "Question": {
+      "content": "Digital content creation involves production of material such as:",
+      "type": "OBJ",
+      "options": [
+        "Only printed newspapers",
+        "Handwritten letters exclusively",
+        "Traditional oil painting",
+        "Blog posts, videos, podcasts, and social media content"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Blog posts, videos, podcasts, and social media content"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Mediums</h4>\n <p>The correct answer is <strong>D</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Scope</strong><br>\n Content creation in the digital age spans multiple formats designed<br>for online consumption and engagement.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Digital Humanities",
+      "Design Tools",
+      "Accessibility"
+    ],
+    "Question": {
+      "content": "Tools like Adobe Creative Cloud and Canva are:",
+      "type": "OBJ",
+      "options": [
+        "Inaccessible to most users",
+        "Only for professional studios",
+        "Accessible and user-friendly for high-quality content production",
+        "Exclusively for print media"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Accessible and user-friendly for high-quality content production"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Democratization</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Utility</strong><br>\n These tools (especially Canva) allow people without deep graphic design<br>backgrounds to create professional visuals for their businesses or research.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Digital Humanities",
+      "Freelancing",
+      "Academic Services"
+    ],
+    "Question": {
+      "content": "DH freelancers can offer services including:",
+      "type": "OBJ",
+      "options": [
+        "Only manual labor",
+        "Traditional farming techniques",
+        "Academic editing, transcription, and website development",
+        "Physical construction work"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Academic editing, transcription, and website development"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DH Services</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Professional Path</strong><br>\n These services capitalize on the scholar's attention to detail and literacy,<br>augmented by digital skills to meet modern market needs.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Digital Humanities",
+      "Freelancing",
+      "Nigerian Platforms"
+    ],
+    "Question": {
+      "content": "Nigerian platforms connecting freelancers with regional clients include:",
+      "type": "OBJ",
+      "options": [
+        "Only international platforms",
+        "Traditional employment agencies exclusively",
+        "Asuqu and Terawork",
+        "Physical job centers only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Asuqu and Terawork"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Local Gig Economy</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Context</strong><br>\n While Upwork is global, Asuqu and Terawork are specific Nigerian marketplaces<br>tailored to connecting local talent with African business needs.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Digital Humanities",
+      "Career Skills",
+      "Digital Literacy"
+    ],
+    "Question": {
+      "content": "Core skills for a DH career include all EXCEPT:",
+      "type": "OBJ",
+      "options": [
+        "Digital literacy and coding",
+        "Research and critical thinking",
+        "Rejection of all technological tools",
+        "Storytelling and project management"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rejection of all technological tools"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DH Skillset</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Logic</strong><br>\n Digital Humanities is fundamentally built on the integration of technology.<br>Rejecting tech tools would make a career in DH impossible.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Digital Humanities",
+      "Academia",
+      "Career Paths"
+    ],
+    "Question": {
+      "content": "In academia, DH graduates can pursue:",
+      "type": "OBJ",
+      "options": [
+        "Only administrative roles",
+        "Teaching and research positions in digital scholarship",
+        "No career opportunities",
+        "Manual labor positions exclusively"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Teaching and research positions in digital scholarship"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Academic Integration</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Opportunities</strong><br>\n Universities are increasingly hiring experts who can bridge the gap between<br>humanities content and computational methods for research and teaching.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Digital Humanities",
+      "Library Science",
+      "Metadata"
+    ],
+    "Question": {
+      "content": "Libraries and archives offer DH roles such as:",
+      "type": "OBJ",
+      "options": [
+        "Only janitorial services",
+        "Digital archivists and metadata specialists",
+        "Traditional book binding only",
+        "Physical security exclusively"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Digital archivists and metadata specialists"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Information Management</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Roles</strong><br>\n Metadata specialists organize digital data so it is searchable,<br>while digital archivists ensure the long-term preservation of digital records.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Digital Humanities",
+      "Tech Industry",
+      "User Experience"
+    ],
+    "Question": {
+      "content": "The tech industry provides DH-trained individuals roles in:",
+      "type": "OBJ",
+      "options": [
+        "Only hardware manufacturing",
+        "User experience design and data analysis",
+        "Physical assembly lines",
+        "Traditional engineering exclusively"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "User experience design and data analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Industry Relevance</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Application</strong><br>\n DH training in understanding human culture and behavior is vital for<br>UX design, ensuring software is intuitive for actual human users.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Digital Humanities",
+      "Africa Digital Humanities",
+      "Capacity Building"
+    ],
+    "Question": {
+      "content": "The Africa Digital Humanities Summer Institute aims to:",
+      "type": "OBJ",
+      "options": [
+        "Discourage digital innovation",
+        "Limit access to training",
+        "Create awareness and build capacity in DH",
+        "Promote only Western models"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Create awareness and build capacity in DH"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>African Institutes</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Mission</strong><br>\n These institutes provide critical training to African scholars, helping<br>them apply digital methods to African languages, history, and culture.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Digital Humanities",
+      "Career Challenges",
+      "Awareness"
+    ],
+    "Question": {
+      "content": "Challenges to DH careers include:",
+      "type": "OBJ",
+      "options": [
+        "Too much infrastructure",
+        "Excessive funding availability",
+        "Limited awareness of DH as a viable career path",
+        "Overwhelming industry support"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Limited awareness of DH as a viable career path"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Career Roadblocks</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Obstacle</strong><br>\n Many students and employers are still unaware of how humanities skills<br>translate into the digital economy, leading to fewer formal job titles.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Digital Humanities",
+      "Masakhane Project",
+      "Machine Translation"
+    ],
+    "Question": {
+      "content": "The Masakhane project focuses on:",
+      "type": "OBJ",
+      "options": [
+        "European language preservation only",
+        "Developing machine translation for African languages",
+        "Eliminating indigenous languages",
+        "Promoting only English content"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Developing machine translation for African languages"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Masakhane Project</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Goal</strong><br>\n This is a grassroots AI project aimed at putting African languages<br>on the map of modern Natural Language Processing (NLP).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Digital Humanities",
+      "Localized Initiatives",
+      "Cultural Diversity"
+    ],
+    "Question": {
+      "content": "According to Nekoto et al. (2020), localized DH initiatives should reflect:",
+      "type": "OBJ",
+      "options": [
+        "Only Western perspectives",
+        "Linguistic and cultural diversity",
+        "Monolingual approaches",
+        "Colonial frameworks exclusively"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Linguistic and cultural diversity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Localization</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Theory</strong><br>\n Digital tools must be adapted to local contexts rather than just adopting<br>global models that may ignore local linguistic nuances.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Digital Humanities",
+      "Indigenous Knowledge",
+      "Funding"
+    ],
+    "Question": {
+      "content": "Indigenous knowledge systems through digital storytelling can attract funding from:",
+      "type": "OBJ",
+      "options": [
+        "No sources whatsoever",
+        "Only family members",
+        "International donors and cultural organizations",
+        "Exclusively private investors"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "International donors and cultural organizations"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Preservation Funding</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Sources</strong><br>\n Global bodies like UNESCO fund digital projects that preserve<br>intangible cultural heritage and indigenous wisdom.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Digital Humanities",
+      "Entrepreneurship",
+      "University Support"
+    ],
+    "Question": {
+      "content": "Universities can support DH entrepreneurship by establishing:",
+      "type": "OBJ",
+      "options": [
+        "Only traditional lecture halls",
+        "Physical libraries exclusively",
+        "Innovation hubs and digital humanities labs",
+        "Barriers to technological access"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Innovation hubs and digital humanities labs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Incubation</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Infrastructure</strong><br>\n These dedicated spaces provide the hardware, software, and community<br>needed for students to launch digital startups.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Digital Humanities",
+      "Public-private Partnerships",
+      "DH Startups"
+    ],
+    "Question": {
+      "content": "Public-private partnerships can offer support for:",
+      "type": "OBJ",
+      "options": [
+        "Only theoretical research",
+        "DH startups in cultural heritage and digital education",
+        "Traditional manufacturing only",
+        "Agricultural projects exclusively"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "DH startups in cultural heritage and digital education"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Collaboration</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Impact</strong><br>\n By combining government goals with private sector agility, DH startups<br>can scale solutions for digital learning and culture.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Digital Humanities",
+      "UNESCO",
+      "Digital Transformation"
+    ],
+    "Question": {
+      "content": "UNESCO and the European Commission are promoting:",
+      "type": "OBJ",
+      "options": [
+        "Elimination of digital technologies",
+        "The digital transformation of cultural sectors",
+        "Return to analog methods",
+        "Closure of cultural institutions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The digital transformation of cultural sectors"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Global Policy</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Initiative</strong><br>\n These organizations push for the digitization of galleries, libraries,<br>archives, and museums (GLAM) to ensure global accessibility.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Digital Humanities",
+      "African Challenges",
+      "Infrastructure"
+    ],
+    "Question": {
+      "content": "A major challenge in Africa is:",
+      "type": "OBJ",
+      "options": [
+        "Too much digital infrastructure",
+        "Excessive institutional support",
+        "Inadequate digital infrastructure and internet connectivity",
+        "Overwhelming funding availability"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Inadequate digital infrastructure and internet connectivity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Digital Divide</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Constraint</strong><br>\n High data costs and unstable power supply remain significant barriers<br>to the widespread adoption of DH practices across the continent.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Digital Humanities",
+      "Institutional Awareness",
+      "Student Access"
+    ],
+    "Question": {
+      "content": "Limited institutional awareness of DH means students may lack access to:",
+      "type": "OBJ",
+      "options": [
+        "Traditional textbooks",
+        "Physical classrooms",
+        "Mentors, lab spaces, and digital archives",
+        "Printed materials"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mentors, lab spaces, and digital archives"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Resources</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Gaps</strong><br>\n Without specialized labs or mentors who understand digital tools,<br>humanities students cannot easily practice the technical side of the field.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Digital Humanities",
+      "STEM vs Humanities",
+      "Grants"
+    ],
+    "Question": {
+      "content": "Unlike STEM fields, humanities often face:",
+      "type": "OBJ",
+      "options": [
+        "Excessive investment",
+        "Too many grants",
+        "Being overlooked for entrepreneurship grants and innovation competitions",
+        "Overwhelming private sector support"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Being overlooked for entrepreneurship grants and innovation competitions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Funding Disparity</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Challenge</strong><br>\n Innovation funding is typically channeled toward science and engineering,<br>often leaving out creative and cultural digital ventures.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Digital Humanities",
+      "Business Development",
+      "Curriculum"
+    ],
+    "Question": {
+      "content": "Many DH programs lack modules focused on:",
+      "type": "OBJ",
+      "options": [
+        "Theoretical approaches",
+        "Digital tools training",
+        "Business development and financial literacy",
+        "Academic research"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Business development and financial literacy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Entrepreneurial Gap</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Missing Link</strong><br>\n To succeed as entrepreneurs, DH students need to learn how to manage<br>finances and pitch products, not just perform research.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Digital Humanities",
+      "Entrepreneurship",
+      "Cultural Perception"
+    ],
+    "Question": {
+      "content": "Cultural perceptions sometimes view humanities disciplines as:",
+      "type": "OBJ",
+      "options": [
+        "Highly profitable",
+        "The most valuable fields",
+        "Non-profitable or purely academic",
+        "Exclusively entrepreneurial"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non-profitable or purely academic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Societal Views</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Stigma</strong><br>\n Traditional views often pigeonhole the humanities into teaching and research,<br>overlooking their potential to drive economic value through digital innovation.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Digital Humanities",
+      "Language Barriers",
+      "Entrepreneurship"
+    ],
+    "Question": {
+      "content": "Language barriers affect DH entrepreneurship because:",
+      "type": "OBJ",
+      "options": [
+        "All platforms support all languages equally",
+        "English dominates while indigenous languages lack digital tool support",
+        "African languages are overrepresented online",
+        "Translation is unnecessary"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "English dominates while indigenous languages lack digital tool support"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Hegemony</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Constraint</strong><br>\n Most AI and digital tools are trained on English, making it harder for<br>local entrepreneurs to build digital products for indigenous language speakers.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Digital Humanities",
+      "Platforms",
+      "Content Restrictions"
+    ],
+    "Question": {
+      "content": "Dependence on third-party platforms like YouTube creates:",
+      "type": "OBJ",
+      "options": [
+        "Complete security",
+        "Guaranteed income",
+        "Vulnerability to algorithm changes and content restrictions",
+        "Absolute creative freedom"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Vulnerability to algorithm changes and content restrictions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Platform Risk</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Analysis</strong><br>\n Digital entrepreneurs are at the mercy of platform owners who can change<br>monetization rules or visibility overnight without warning.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Digital Humanities",
+      "Digital Transformation",
+      "Collaboration"
+    ],
+    "Question": {
+      "content": "According to Burdick et al. (2012), digital transformation has enabled humanities to become:",
+      "type": "OBJ",
+      "options": [
+        "More isolated",
+        "Less relevant",
+        "More collaborative and publicly engaged",
+        "Exclusively theoretical"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "More collaborative and publicly engaged"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Public Humanities</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Effect</strong><br>\n Digital tools break down walls between the university and the world,<br>allowing scholars to share and co-create knowledge with the public.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Digital Humanities",
+      "Transkribus",
+      "Machine Learning"
+    ],
+    "Question": {
+      "content": "The Transkribus platform employs machine learning to:",
+      "type": "OBJ",
+      "options": [
+        "Create new languages",
+        "Transcribe historical manuscripts with high accuracy",
+        "Delete old documents",
+        "Prevent scholarly research"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Transcribe historical manuscripts with high accuracy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>OCR for History</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Technology</strong><br>\n Transkribus uses AI to recognize complex historical handwriting, saving<br>researchers thousands of hours of manual transcription work.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Digital Humanities",
+      "Transkribus",
+      "SaaS"
+    ],
+    "Question": {
+      "content": "According to Muehlberger et al. (2019), Transkribus presents business opportunities through:",
+      "type": "OBJ",
+      "options": [
+        "Traditional publishing models",
+        "Software-as-a-service models for libraries and museums",
+        "Physical book sales",
+        "Manual transcription services"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Software-as-a-service (SaaS) models for libraries and museums"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DH Business Models</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Innovation</strong><br>\n By providing a subscription-based digital tool, Transkribus shows how<br>academic projects can transition into sustainable digital businesses.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Digital Humanities",
+      "Virtual Reenactment",
+      "Time Looper"
+    ],
+    "Question": {
+      "content": "The Time Looper project enables:",
+      "type": "OBJ",
+      "options": [
+        "Time travel",
+        "Physical reconstruction of buildings",
+        "Virtual reenactments of historical events",
+        "Deletion of historical records"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Virtual reenactments of historical events"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Historical VR</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Application</strong><br>\n This project uses VR to let users witness past events in their original<br>locations, turning history into an immersive educational experience.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Digital Humanities",
+      "AR/VR",
+      "Tourism and Education"
+    ],
+    "Question": {
+      "content": "Pfosser, Vrochidis, and Kompatsiaris (2020) observe that AR/VR innovations are commercially viable in:",
+      "type": "OBJ",
+      "options": [
+        "Only academic journals",
+        "The tourism and education sectors",
+        "Manufacturing exclusively",
+        "Agricultural production"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The tourism and education sectors"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Commercial Viability</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Market</strong><br>\n AR/VR creates high-value experiences for tourists and interactive lessons<br>for students, making these primary markets for DH entrepreneurs.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Digital Humanities",
+      "Blockchain",
+      "NFTs"
+    ],
+    "Question": {
+      "content": "Blockchain technology in DH is used particularly for:",
+      "type": "OBJ",
+      "options": [
+        "Traditional book publishing",
+        "Physical art sales only",
+        "Non-fungible tokens (NFTs) authenticating digital artworks",
+        "Eliminating digital content"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non-fungible tokens (NFTs) authenticating digital artworks"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Authenticity</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Mechanism</strong><br>\n Blockchain provides a tamper-proof certificate of origin, allowing<br>digital creations to be collected and traded securely like physical art.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Digital Humanities",
+      "Entrepreneurship Goals",
+      "Reimagining Humanities"
+    ],
+    "Question": {
+      "content": "The goal of DH entrepreneurship is to:",
+      "type": "OBJ",
+      "options": [
+        "Commercialize all humanities completely",
+        "Eliminate critical inquiry",
+        "Reimagine humanities as active participants in shaping the digital world",
+        "Replace all traditional scholarship"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reimagine humanities as active participants in shaping the digital world"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Core Purpose</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Vision</strong><br>\n DH entrepreneurship isn't just about money; it's about ensuring humanistic<br>values—like ethics and history—guide our digital future.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Digital Humanities",
+      "Entrepreneurship",
+      "Cultural Perception"
+    ],
+    "Question": {
+      "content": "Cultural perceptions sometimes view humanities disciplines as:",
+      "type": "OBJ",
+      "options": [
+        "Highly profitable",
+        "The most valuable fields",
+        "Non-profitable or purely academic",
+        "Exclusively entrepreneurial"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non-profitable or purely academic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Societal Views</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Stigma</strong><br>\n Traditional views often pigeonhole the humanities into teaching and research,<br>overlooking their potential to drive economic value through digital innovation.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Digital Humanities",
+      "Language Barriers",
+      "Entrepreneurship"
+    ],
+    "Question": {
+      "content": "Language barriers affect DH entrepreneurship because:",
+      "type": "OBJ",
+      "options": [
+        "All platforms support all languages equally",
+        "English dominates while indigenous languages lack digital tool support",
+        "African languages are overrepresented online",
+        "Translation is unnecessary"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "English dominates while indigenous languages lack digital tool support"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Hegemony</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Constraint</strong><br>\n Most AI and digital tools are trained on English, making it harder for<br>local entrepreneurs to build digital products for indigenous language speakers.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Digital Humanities",
+      "Platforms",
+      "Content Restrictions"
+    ],
+    "Question": {
+      "content": "Dependence on third-party platforms like YouTube creates:",
+      "type": "OBJ",
+      "options": [
+        "Complete security",
+        "Guaranteed income",
+        "Vulnerability to algorithm changes and content restrictions",
+        "Absolute creative freedom"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Vulnerability to algorithm changes and content restrictions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Platform Risk</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Analysis</strong><br>\n Digital entrepreneurs are at the mercy of platform owners who can change<br>monetization rules or visibility overnight without warning.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Digital Humanities",
+      "Digital Transformation",
+      "Collaboration"
+    ],
+    "Question": {
+      "content": "According to Burdick et al. (2012), digital transformation has enabled humanities to become:",
+      "type": "OBJ",
+      "options": [
+        "More isolated",
+        "Less relevant",
+        "More collaborative and publicly engaged",
+        "Exclusively theoretical"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "More collaborative and publicly engaged"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Public Humanities</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Effect</strong><br>\n Digital tools break down walls between the university and the world,<br>allowing scholars to share and co-create knowledge with the public.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Digital Humanities",
+      "Transkribus",
+      "Machine Learning"
+    ],
+    "Question": {
+      "content": "The Transkribus platform employs machine learning to:",
+      "type": "OBJ",
+      "options": [
+        "Create new languages",
+        "Transcribe historical manuscripts with high accuracy",
+        "Delete old documents",
+        "Prevent scholarly research"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Transcribe historical manuscripts with high accuracy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>OCR for History</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Technology</strong><br>\n Transkribus uses AI to recognize complex historical handwriting, saving<br>researchers thousands of hours of manual transcription work.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Digital Humanities",
+      "Transkribus",
+      "SaaS"
+    ],
+    "Question": {
+      "content": "According to Muehlberger et al. (2019), Transkribus presents business opportunities through:",
+      "type": "OBJ",
+      "options": [
+        "Traditional publishing models",
+        "Software-as-a-service models for libraries and museums",
+        "Physical book sales",
+        "Manual transcription services"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Software-as-a-service (SaaS) models for libraries and museums"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DH Business Models</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Innovation</strong><br>\n By providing a subscription-based digital tool, Transkribus shows how<br>academic projects can transition into sustainable digital businesses.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Digital Humanities",
+      "Virtual Reenactment",
+      "Time Looper"
+    ],
+    "Question": {
+      "content": "The Time Looper project enables:",
+      "type": "OBJ",
+      "options": [
+        "Time travel",
+        "Physical reconstruction of buildings",
+        "Virtual reenactments of historical events",
+        "Deletion of historical records"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Virtual reenactments of historical events"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Historical VR</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Application</strong><br>\n This project uses VR to let users witness past events in their original<br>locations, turning history into an immersive educational experience.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Digital Humanities",
+      "AR/VR",
+      "Tourism and Education"
+    ],
+    "Question": {
+      "content": "Pfosser, Vrochidis, and Kompatsiaris (2020) observe that AR/VR innovations are commercially viable in:",
+      "type": "OBJ",
+      "options": [
+        "Only academic journals",
+        "The tourism and education sectors",
+        "Manufacturing exclusively",
+        "Agricultural production"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The tourism and education sectors"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Commercial Viability</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Market</strong><br>\n AR/VR creates high-value experiences for tourists and interactive lessons<br>for students, making these primary markets for DH entrepreneurs.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Digital Humanities",
+      "Blockchain",
+      "NFTs"
+    ],
+    "Question": {
+      "content": "Blockchain technology in DH is used particularly for:",
+      "type": "OBJ",
+      "options": [
+        "Traditional book publishing",
+        "Physical art sales only",
+        "Non-fungible tokens (NFTs) authenticating digital artworks",
+        "Eliminating digital content"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non-fungible tokens (NFTs) authenticating digital artworks"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Authenticity</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Mechanism</strong><br>\n Blockchain provides a tamper-proof certificate of origin, allowing<br>digital creations to be collected and traded securely like physical art.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Digital Humanities",
+      "Entrepreneurship Goals",
+      "Reimagining Humanities"
+    ],
+    "Question": {
+      "content": "The goal of DH entrepreneurship is to:",
+      "type": "OBJ",
+      "options": [
+        "Commercialize all humanities completely",
+        "Eliminate critical inquiry",
+        "Reimagine humanities as active participants in shaping the digital world",
+        "Replace all traditional scholarship"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reimagine humanities as active participants in shaping the digital world"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Core Purpose</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Vision</strong><br>\n DH entrepreneurship isn't just about money; it's about ensuring humanistic<br>values—like ethics and history—guide our digital future.\n </div>\n</div>"
+    }
+  },
+ {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Digital Humanities",
+      "Entrepreneurship",
+      "Cultural Perception"
+    ],
+    "Question": {
+      "content": "Cultural perceptions sometimes view humanities disciplines as:",
+      "type": "OBJ",
+      "options": [
+        "Highly profitable",
+        "The most valuable fields",
+        "Non-profitable or purely academic",
+        "Exclusively entrepreneurial"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non-profitable or purely academic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Societal Views</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Stigma</strong><br>\n Traditional views often pigeonhole the humanities into teaching and research,<br>overlooking their potential to drive economic value through digital innovation.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Digital Humanities",
+      "Language Barriers",
+      "Entrepreneurship"
+    ],
+    "Question": {
+      "content": "Language barriers affect DH entrepreneurship because:",
+      "type": "OBJ",
+      "options": [
+        "All platforms support all languages equally",
+        "English dominates while indigenous languages lack digital tool support",
+        "African languages are overrepresented online",
+        "Translation is unnecessary"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "English dominates while indigenous languages lack digital tool support"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Hegemony</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Constraint</strong><br>\n Most AI and digital tools are trained on English, making it harder for<br>local entrepreneurs to build digital products for indigenous language speakers.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Digital Humanities",
+      "Platforms",
+      "Content Restrictions"
+    ],
+    "Question": {
+      "content": "Dependence on third-party platforms like YouTube creates:",
+      "type": "OBJ",
+      "options": [
+        "Complete security",
+        "Guaranteed income",
+        "Vulnerability to algorithm changes and content restrictions",
+        "Absolute creative freedom"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Vulnerability to algorithm changes and content restrictions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Platform Risk</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Analysis</strong><br>\n Digital entrepreneurs are at the mercy of platform owners who can change<br>monetization rules or visibility overnight without warning.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Digital Humanities",
+      "Digital Transformation",
+      "Collaboration"
+    ],
+    "Question": {
+      "content": "According to Burdick et al. (2012), digital transformation has enabled humanities to become:",
+      "type": "OBJ",
+      "options": [
+        "More isolated",
+        "Less relevant",
+        "More collaborative and publicly engaged",
+        "Exclusively theoretical"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "More collaborative and publicly engaged"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Public Humanities</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Effect</strong><br>\n Digital tools break down walls between the university and the world,<br>allowing scholars to share and co-create knowledge with the public.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Digital Humanities",
+      "Transkribus",
+      "Machine Learning"
+    ],
+    "Question": {
+      "content": "The Transkribus platform employs machine learning to:",
+      "type": "OBJ",
+      "options": [
+        "Create new languages",
+        "Transcribe historical manuscripts with high accuracy",
+        "Delete old documents",
+        "Prevent scholarly research"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Transcribe historical manuscripts with high accuracy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>OCR for History</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Technology</strong><br>\n Transkribus uses AI to recognize complex historical handwriting, saving<br>researchers thousands of hours of manual transcription work.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Digital Humanities",
+      "Transkribus",
+      "SaaS"
+    ],
+    "Question": {
+      "content": "According to Muehlberger et al. (2019), Transkribus presents business opportunities through:",
+      "type": "OBJ",
+      "options": [
+        "Traditional publishing models",
+        "Software-as-a-service models for libraries and museums",
+        "Physical book sales",
+        "Manual transcription services"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Software-as-a-service (SaaS) models for libraries and museums"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DH Business Models</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Innovation</strong><br>\n By providing a subscription-based digital tool, Transkribus shows how<br>academic projects can transition into sustainable digital businesses.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Digital Humanities",
+      "Virtual Reenactment",
+      "Time Looper"
+    ],
+    "Question": {
+      "content": "The Time Looper project enables:",
+      "type": "OBJ",
+      "options": [
+        "Time travel",
+        "Physical reconstruction of buildings",
+        "Virtual reenactments of historical events",
+        "Deletion of historical records"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Virtual reenactments of historical events"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Historical VR</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Application</strong><br>\n This project uses VR to let users witness past events in their original<br>locations, turning history into an immersive educational experience.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Digital Humanities",
+      "AR/VR",
+      "Tourism and Education"
+    ],
+    "Question": {
+      "content": "Pfosser, Vrochidis, and Kompatsiaris (2020) observe that AR/VR innovations are commercially viable in:",
+      "type": "OBJ",
+      "options": [
+        "Only academic journals",
+        "The tourism and education sectors",
+        "Manufacturing exclusively",
+        "Agricultural production"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The tourism and education sectors"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Commercial Viability</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Market</strong><br>\n AR/VR creates high-value experiences for tourists and interactive lessons<br>for students, making these primary markets for DH entrepreneurs.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Digital Humanities",
+      "Blockchain",
+      "NFTs"
+    ],
+    "Question": {
+      "content": "Blockchain technology in DH is used particularly for:",
+      "type": "OBJ",
+      "options": [
+        "Traditional book publishing",
+        "Physical art sales only",
+        "Non-fungible tokens (NFTs) authenticating digital artworks",
+        "Eliminating digital content"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non-fungible tokens (NFTs) authenticating digital artworks"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Authenticity</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Mechanism</strong><br>\n Blockchain provides a tamper-proof certificate of origin, allowing<br>digital creations to be collected and traded securely like physical art.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Digital Humanities",
+      "Entrepreneurship Goals",
+      "Reimagining Humanities"
+    ],
+    "Question": {
+      "content": "The goal of DH entrepreneurship is to:",
+      "type": "OBJ",
+      "options": [
+        "Commercialize all humanities completely",
+        "Eliminate critical inquiry",
+        "Reimagine humanities as active participants in shaping the digital world",
+        "Replace all traditional scholarship"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reimagine humanities as active participants in shaping the digital world"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Core Purpose</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Vision</strong><br>\n DH entrepreneurship isn't just about money; it's about ensuring humanistic<br>values—like ethics and history—guide our digital future.\n </div>\n</div>"
+    }
+  }
+,  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Digital Humanities",
+      "Entrepreneurship",
+      "Cultural Perception"
+    ],
+    "Question": {
+      "content": "Cultural perceptions sometimes view humanities disciplines as:",
+      "type": "OBJ",
+      "options": [
+        "Highly profitable",
+        "The most valuable fields",
+        "Non-profitable or purely academic",
+        "Exclusively entrepreneurial"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non-profitable or purely academic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Societal Views</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Stigma</strong><br>\n Traditional views often pigeonhole the humanities into teaching and research,<br>overlooking their potential to drive economic value through digital innovation.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Digital Humanities",
+      "Language Barriers",
+      "Entrepreneurship"
+    ],
+    "Question": {
+      "content": "Language barriers affect DH entrepreneurship because:",
+      "type": "OBJ",
+      "options": [
+        "All platforms support all languages equally",
+        "English dominates while indigenous languages lack digital tool support",
+        "African languages are overrepresented online",
+        "Translation is unnecessary"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "English dominates while indigenous languages lack digital tool support"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Hegemony</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Constraint</strong><br>\n Most AI and digital tools are trained on English, making it harder for<br>local entrepreneurs to build digital products for indigenous language speakers.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Digital Humanities",
+      "Platforms",
+      "Content Restrictions"
+    ],
+    "Question": {
+      "content": "Dependence on third-party platforms like YouTube creates:",
+      "type": "OBJ",
+      "options": [
+        "Complete security",
+        "Guaranteed income",
+        "Vulnerability to algorithm changes and content restrictions",
+        "Absolute creative freedom"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Vulnerability to algorithm changes and content restrictions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Platform Risk</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Analysis</strong><br>\n Digital entrepreneurs are at the mercy of platform owners who can change<br>monetization rules or visibility overnight without warning.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Digital Humanities",
+      "Digital Transformation",
+      "Collaboration"
+    ],
+    "Question": {
+      "content": "According to Burdick et al. (2012), digital transformation has enabled humanities to become:",
+      "type": "OBJ",
+      "options": [
+        "More isolated",
+        "Less relevant",
+        "More collaborative and publicly engaged",
+        "Exclusively theoretical"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "More collaborative and publicly engaged"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Public Humanities</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Effect</strong><br>\n Digital tools break down walls between the university and the world,<br>allowing scholars to share and co-create knowledge with the public.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Digital Humanities",
+      "Transkribus",
+      "Machine Learning"
+    ],
+    "Question": {
+      "content": "The Transkribus platform employs machine learning to:",
+      "type": "OBJ",
+      "options": [
+        "Create new languages",
+        "Transcribe historical manuscripts with high accuracy",
+        "Delete old documents",
+        "Prevent scholarly research"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Transcribe historical manuscripts with high accuracy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>OCR for History</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Technology</strong><br>\n Transkribus uses AI to recognize complex historical handwriting, saving<br>researchers thousands of hours of manual transcription work.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Digital Humanities",
+      "Transkribus",
+      "SaaS"
+    ],
+    "Question": {
+      "content": "According to Muehlberger et al. (2019), Transkribus presents business opportunities through:",
+      "type": "OBJ",
+      "options": [
+        "Traditional publishing models",
+        "Software-as-a-service models for libraries and museums",
+        "Physical book sales",
+        "Manual transcription services"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Software-as-a-service (SaaS) models for libraries and museums"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DH Business Models</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Innovation</strong><br>\n By providing a subscription-based digital tool, Transkribus shows how<br>academic projects can transition into sustainable digital businesses.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Digital Humanities",
+      "Virtual Reenactment",
+      "Time Looper"
+    ],
+    "Question": {
+      "content": "The Time Looper project enables:",
+      "type": "OBJ",
+      "options": [
+        "Time travel",
+        "Physical reconstruction of buildings",
+        "Virtual reenactments of historical events",
+        "Deletion of historical records"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Virtual reenactments of historical events"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Historical VR</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Application</strong><br>\n This project uses VR to let users witness past events in their original<br>locations, turning history into an immersive educational experience.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Digital Humanities",
+      "AR/VR",
+      "Tourism and Education"
+    ],
+    "Question": {
+      "content": "Pfosser, Vrochidis, and Kompatsiaris (2020) observe that AR/VR innovations are commercially viable in:",
+      "type": "OBJ",
+      "options": [
+        "Only academic journals",
+        "The tourism and education sectors",
+        "Manufacturing exclusively",
+        "Agricultural production"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The tourism and education sectors"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Commercial Viability</h4>\n <p>The correct answer is <strong>B</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Market</strong><br>\n AR/VR creates high-value experiences for tourists and interactive lessons<br>for students, making these primary markets for DH entrepreneurs.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Digital Humanities",
+      "Blockchain",
+      "NFTs"
+    ],
+    "Question": {
+      "content": "Blockchain technology in DH is used particularly for:",
+      "type": "OBJ",
+      "options": [
+        "Traditional book publishing",
+        "Physical art sales only",
+        "Non-fungible tokens (NFTs) authenticating digital artworks",
+        "Eliminating digital content"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Non-fungible tokens (NFTs) authenticating digital artworks"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Authenticity</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Mechanism</strong><br>\n Blockchain provides a tamper-proof certificate of origin, allowing<br>digital creations to be collected and traded securely like physical art.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Digital Humanities",
+      "Entrepreneurship Goals",
+      "Reimagining Humanities"
+    ],
+    "Question": {
+      "content": "The goal of DH entrepreneurship is to:",
+      "type": "OBJ",
+      "options": [
+        "Commercialize all humanities completely",
+        "Eliminate critical inquiry",
+        "Reimagine humanities as active participants in shaping the digital world",
+        "Replace all traditional scholarship"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reimagine humanities as active participants in shaping the digital world"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Core Purpose</h4>\n <p>The correct answer is <strong>C</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Vision</strong><br>\n DH entrepreneurship isn't just about money; it's about ensuring humanistic<br>values—like ethics and history—guide our digital future.\n </div>\n</div>"
+    }
+  }
+]
+
