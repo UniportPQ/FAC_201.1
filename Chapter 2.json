@@ -1,0 +1,940 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Digital Humnaities",
+    "code": "FAC 201.1",
+    "session": "Chapter 2",
+    "topics": ["Humanities Disciplines", "Core Concepts", "Digital vs Analogue", "Definition", "Goals", "History", "Pioneers", "Index Thomisticus", "Technology", "Programming Languages", "Milestones", "Digital Library Initiative", "Organizations", "ADHO", "Stages of Development", "Institutions", "Algorithmic Criticism", "Methods", "Digital Archives", "Advantages", "Arts", "Concordance", "Tools", "Text Analysis", "GIS", "Linguistic Annotation", "Distant Reading", "Franco Moretti", "TimelineJS", "OCR", "Research Efficiency", "Cultural Heritage", "Nigeria", "Interdisciplinary Collaboration", "Access", "Digital Libraries", "Benefits", "Citation Management", "Corpus Linguistics", "Multimodal Scholarship", "African Scholarship", "Global Visibility", "Career Skills", "Digital Literacy", "Crowdsourcing", "Ethics", "Data Privacy", "NLP", "African Languages", "AI", "Machine Learning", "Digital Repositories", "Preservation"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "Chapter Two",
+    "Subheading": "Digital Humanities and Computing in the Arts"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Digital Humanities", "Arts", "Humanities"],
+    "Question": {
+      "content": "The term \"The Arts\" as used in Digital Humanities specifically refers to:",
+      "type": "OBJ",
+      "options": [
+        "Visual arts and performing arts exclusively",
+        "Computer-generated artistic works",
+        "Disciplines studying human culture, experience, and creative expressions",
+        "Mathematical and scientific applications in creativity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Disciplines studying human culture, experience, and creative expressions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>\"The Arts\" in Digital Humanities</h4><p>The answer is <strong>C</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Why C?</strong><br>In the context of Digital Humanities, \"The Arts\" is not limited to visual or computer-generated art. It broadly refers to <em>humanities disciplines</em> — fields that study human culture, experience, values, and creative expression (e.g., literature, history, philosophy, music).</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Think of it this way: Digital Humanities applies computing tools to <em>human-centred</em> disciplines, not just art studios.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Digital Humanities", "Computing", "Interface"],
+    "Question": {
+      "content": "Which of the following best describes the concept of \"interface\" in the context of computing and the arts?",
+      "type": "OBJ",
+      "options": [
+        "The software used to create digital art",
+        "The hardware components of a computer system",
+        "The method of storing digital artifacts",
+        "The boundary between humans and computers"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The boundary between humans and computers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is an Interface?</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Definition</strong><br>An <em>interface</em> is the point of interaction between a human and a computer system. It is literally the \"boundary\" where the user gives input and the machine returns output.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Example: A touchscreen, a keyboard, or a web page are all interfaces — they sit between you and the computer's internal workings.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Digital Humanities", "Computing", "Hardware", "Software"],
+    "Question": {
+      "content": "Computing fundamentally involves two aspects. Which option correctly identifies them?",
+      "type": "OBJ",
+      "options": [
+        "Bespoke hardware and corresponding software",
+        "Hardware efficiency and network communication",
+        "Processing speed and user interface design",
+        "Internet connectivity and data storage"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bespoke hardware and corresponding software"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Two Fundamentals of Computing</h4><p>The answer is <strong>A</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Hardware + Software</strong><br>At its core, computing depends on:<br>• <strong>Hardware</strong> — the physical machine (bespoke = custom-built for a purpose)<br>• <strong>Software</strong> — the programs that run on that hardware</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Neither works alone — hardware without software is just metal, and software without hardware has nowhere to run.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Digital Humanities", "Humanities", "Culture"],
+    "Question": {
+      "content": "According to the text, the humanities engage primarily with:",
+      "type": "OBJ",
+      "options": [
+        "Scientific experimentation and data collection",
+        "Technological advancement and innovation",
+        "Mathematical modeling of cultural phenomena",
+        "Questions of value, culture, traditions, and meanings behind human creativity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Questions of value, culture, traditions, and meanings behind human creativity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What Do the Humanities Study?</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Core Focus</strong><br>The humanities are not science-based. They focus on <em>human experience</em> — asking \"why\" and \"what does it mean\" rather than \"how does it work\" scientifically.<br>Fields include: history, philosophy, literature, art, and cultural studies.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Science asks: <em>How does the brain work?</em> Humanities asks: <em>What does it mean to be human?</em></div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Digital Humanities", "History of Computing", "Terminology"],
+    "Question": {
+      "content": "The term initially used to refer to the use of computer technology in the arts was:",
+      "type": "OBJ",
+      "options": [
+        "Digital humanities",
+        "Computational arts",
+        "Humanities computing",
+        "Arts technology"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Humanities computing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Original Term</h4><p>The answer is <strong>C</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Timeline</strong><br>Before the field was rebranded, the use of computers in humanistic research was called <em>Humanities Computing</em>. The shift to \"Digital Humanities\" came later as the field broadened.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Humanities Computing → Digital Humanities: same field, evolving name.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Digital Humanities", "Internet Archive", "History"],
+    "Question": {
+      "content": "The Internet Archive, founded in 1996, was established by:",
+      "type": "OBJ",
+      "options": [
+        "Roberto Busa",
+        "Brewster Kahle",
+        "A consortium of universities",
+        "The Library of Congress"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Brewster Kahle"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Internet Archive</h4><p>The answer is <strong>B</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Founder</strong><br><em>Brewster Kahle</em> founded the Internet Archive in 1996. It is a non-profit digital library providing free access to digitized books, websites, audio, and video.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 You may know it as the home of the <strong>Wayback Machine</strong> — which saves snapshots of websites over time.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Digital Humanities", "Humanities Computing", "History"],
+    "Question": {
+      "content": "The transition from humanities computing to digital humanities represents:",
+      "type": "OBJ",
+      "options": [
+        "A shift from using technology as a support tool to integrating it as fundamental to research",
+        "The replacement of traditional humanities with computer science",
+        "A reduction in the importance of textual analysis",
+        "The elimination of qualitative research methods"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A shift from using technology as a support tool to integrating it as fundamental to research"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Humanities Computing → Digital Humanities</h4><p>The answer is <strong>A</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>The Key Shift</strong><br>In <em>Humanities Computing</em>, technology was just a tool (like a calculator). In <em>Digital Humanities</em>, technology becomes central to how research is designed, conducted, and shared — not just an add-on.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Think: using a computer to type a paper (tool) vs. using algorithms to analyze 10,000 texts for patterns (fundamental).</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Digital Humanities", "Technology", "Advanced Technologies"],
+    "Question": {
+      "content": "Which of the following is NOT mentioned as an advanced technology used in digital humanities?",
+      "type": "OBJ",
+      "options": [
+        "Data visualization",
+        "Digital mapping",
+        "Machine learning",
+        "Quantum computing"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Quantum computing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Technologies in Digital Humanities</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>What IS used:</strong><br>• Data visualization — turning data into charts/maps<br>• Digital mapping — geographic analysis of historical/cultural data<br>• Machine learning — pattern recognition in large text/image datasets</div><div style='background: var(--warningBg); padding: 10px; border-radius: 6px;'>⚠️ <strong>Quantum computing</strong> is an emerging technology not yet part of standard Digital Humanities practice — hence it is the odd one out.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Digital Humanities", "Computer Science", "Humanities", "Interdisciplinary"],
+    "Question": {
+      "content": "The apparent disparity between computer science and humanities stems from:",
+      "type": "OBJ",
+      "options": [
+        "Different funding sources",
+        "Different publication standards",
+        "Geographical separation of departments",
+        "The precision of computer science versus the speculative nature of humanities"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The precision of computer science versus the speculative nature of humanities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why the Two Fields Seem So Different</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>The Core Tension</strong><br>Computer science deals in <em>exact, verifiable</em> outcomes (code either runs or it doesn't). Humanities deals in <em>interpretation, meaning, and debate</em> — there's rarely one right answer. This methodological difference creates an apparent gap between the two fields.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Digital Humanities bridges this gap by applying precise tools to speculative questions.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Digital Humanities", "Arts", "Digital Technology"],
+    "Question": {
+      "content": "Digital technology's role in the arts includes all of the following EXCEPT:",
+      "type": "OBJ",
+      "options": [
+        "Preserving objects such as music and visual performances",
+        "Making artifacts accessible through digital archives",
+        "Replacing traditional humanities research entirely",
+        "Providing digital tools for analytical approaches"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Replacing traditional humanities research entirely"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What Digital Technology Does (and Doesn't Do)</h4><p>The answer is <strong>C</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Digital technology supports humanities — it doesn't replace it.</strong><br>Options A, B, and D are all legitimate roles of digital technology in the arts. Option C is false — digital tools are meant to <em>augment</em> traditional research, not eliminate it.</div><div style='background: var(--warningBg); padding: 10px; border-radius: 6px;'>⚠️ Questions with \"EXCEPT\" or \"NOT\" ask for the <em>false</em> option — read carefully!</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Digital Humanities", "Electronic Literature", "Digital Art"],
+    "Question": {
+      "content": "Electronic literature, digital art, and interactive digital experiences demonstrate:",
+      "type": "OBJ",
+      "options": [
+        "The relationship between computer technology and the arts",
+        "The superiority of digital over traditional art forms",
+        "The decline of traditional artistic practices",
+        "The commercialization of the humanities"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The relationship between computer technology and the arts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Creativity</h4><p>The answer is <strong>A</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>What They Show</strong><br>Electronic literature, digital art, and interactive experiences are examples where <em>computing and creativity intersect</em>. They don't show that digital is better than traditional — they simply illustrate a growing relationship between the two worlds.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Example: An interactive poem that changes based on user clicks — it's both technology and art.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Digital Humanities", "Art History", "History"],
+    "Question": {
+      "content": "In art history, digital humanities has become familiar over approximately the past:",
+      "type": "OBJ",
+      "options": [
+        "Five years",
+        "Ten years",
+        "Two decades",
+        "Three decades"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Two decades"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Humanities in Art History</h4><p>The answer is <strong>C — Two decades</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Context</strong><br>Digital humanities began gaining prominence in art history over roughly the last <em>two decades</em> (approximately 2000s onward), as digitization projects, online archives, and computational analysis became more accessible.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Memorize: Not too recent (5/10 yrs), not too old (3 decades) — two decades is the answer.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Digital Humanities", "Multimedia", "History of Technology"],
+    "Question": {
+      "content": "The possibility of providing multimedia information including images, audio, and video emerged in:",
+      "type": "OBJ",
+      "options": [
+        "The late 1990s",
+        "The early 1990s",
+        "The early 2000s",
+        "The early 1980s"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The early 1990s"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Rise of Multimedia</h4><p>The answer is <strong>B — The early 1990s</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Why the early 1990s?</strong><br>The World Wide Web launched in 1991, and the early 1990s saw the first graphical browsers (like Mosaic, 1993) that allowed multimedia content — images, and eventually audio/video — to be shared digitally.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Before the web (1980s), computers were mostly text-only. Multimedia became possible as the internet grew in the early 90s.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Digital Humanities", "Algorithmic Art", "Digital Art", "Creativity"],
+    "Question": {
+      "content": "Algorithmically generated art represents:",
+      "type": "OBJ",
+      "options": [
+        "A temporary trend in digital art",
+        "A replacement for human creativity",
+        "An inferior form of artistic expression",
+        "A new frontier in artistic creation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A new frontier in artistic creation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Algorithmically Generated Art</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>What It Represents</strong><br>Art created by algorithms (e.g., AI-generated paintings, generative music) is viewed positively in Digital Humanities as an <em>expansion</em> of artistic possibility — a new frontier, not a threat or a fad.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Think of tools like DALL-E or Midjourney — they open new creative possibilities rather than closing old ones.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Digital Humanities", "Digital Environments", "Comparative Analysis"],
+    "Question": {
+      "content": "Digital environments provide the ability to:",
+      "type": "OBJ",
+      "options": [
+        "Eliminate the need for physical archives",
+        "Replace human interpretation with algorithms",
+        "Standardize all artistic expression",
+        "Bring together many versions of a single work for comparative analysis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bring together many versions of a single work for comparative analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What Digital Environments Enable</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Key Benefit</strong><br>One powerful advantage of digital environments is that multiple versions of a text, artwork, or document (from different libraries or eras) can be gathered in one place and compared side by side — something nearly impossible with physical archives alone.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Example: Comparing 10 different manuscript versions of Shakespeare's Hamlet digitally, without travelling to 10 different countries.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["Digital Humanities", "Humanities Research", "Digital Tools"],
+    "Question": {
+      "content": "Contemporary humanities research has shifted beyond privileging:",
+      "type": "OBJ",
+      "options": [
+        "Quantitative methods",
+        "Digital tools",
+        "The textual to include graphical methods",
+        "Collaborative research"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The textual to include graphical methods"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Shift in Humanities Research</h4><p>The answer is <strong>C</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Beyond Text</strong><br>Traditionally, humanities research was almost entirely text-based (reading and writing). Modern Digital Humanities has expanded this to include <em>graphical methods</em> — maps, visualizations, timelines, and image analysis — broadening the scope of what counts as research.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Digital Humanities", "Research Tools", "Citation", "Software"],
+    "Question": {
+      "content": "Software programs like Endnote and Zotero are utilized in research for:",
+      "type": "OBJ",
+      "options": [
+        "Creating digital art",
+        "Analyzing musical compositions",
+        "Ensuring proper citation and avoiding plagiarism",
+        "Digitizing manuscripts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ensuring proper citation and avoiding plagiarism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Endnote & Zotero</h4><p>The answer is <strong>C</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Reference Management Software</strong><br>Endnote and Zotero are <em>reference management tools</em>. They help researchers organize sources, auto-format citations (APA, MLA, Chicago, etc.), and avoid accidental plagiarism by keeping track of where information came from.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Think of them as a smart bibliography builder — you collect sources, it formats your reference list.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Digital Humanities", "Music", "Sound Computing"],
+    "Question": {
+      "content": "The field of sound and music computing employs skills to:",
+      "type": "OBJ",
+      "options": [
+        "Replace traditional musicians",
+        "Eliminate the need for music education",
+        "Standardize all musical compositions",
+        "Develop new computational tools for understanding and manipulating sound and music"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Develop new computational tools for understanding and manipulating sound and music"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sound and Music Computing</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>What It Does</strong><br>Sound and music computing is an interdisciplinary field combining music, computer science, and signal processing. Its goal is to build tools that help us <em>understand, analyze, generate, and manipulate</em> sound — not replace musicians.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Digital Humanities", "Streaming", "Music", "Accessibility"],
+    "Question": {
+      "content": "Streaming platforms like YouTube and Spotify have made sharing music:",
+      "type": "OBJ",
+      "options": [
+        "More expensive",
+        "Available only to professionals",
+        "Limited to certain genres",
+        "Seamless across the globe"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Seamless across the globe"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Impact of Streaming Platforms</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Global Reach</strong><br>YouTube and Spotify allow anyone with internet access to share and discover music from anywhere in the world instantly — making music distribution truly <em>global and seamless</em>.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Digital Humanities", "History", "Digital Tools"],
+    "Question": {
+      "content": "The early focus of digital humanities included:",
+      "type": "OBJ",
+      "options": [
+        "Social media analysis",
+        "Video game development",
+        "Mobile application design",
+        "Electronic texts, lexicographical archives, and concordances"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electronic texts, lexicographical archives, and concordances"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Early Digital Humanities Focus</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Origins of the Field</strong><br>Digital Humanities began with text-based work — digitizing literary texts, building <em>concordances</em> (word-frequency indexes), and creating lexicographical archives. Roberto Busa's Index Thomisticus (1940s–50s) is a famous early example.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 A concordance lists every word in a text and where it appears — very useful for literary and biblical scholarship.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["Digital Humanities", "Performing Arts", "Digital Media"],
+    "Question": {
+      "content": "In performing arts, digital media has enabled the incorporation of technology in:",
+      "type": "OBJ",
+      "options": [
+        "Stage planning, automated lighting, and visualization",
+        "Ticket sales only",
+        "Costume design exclusively",
+        "Audience seating arrangements"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Stage planning, automated lighting, and visualization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Media in Performing Arts</h4><p>The answer is <strong>A</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>How Technology Enhances Performance</strong><br>Digital tools are used extensively in live performances for:<br>• <strong>Stage planning</strong> — 3D modelling of set designs<br>• <strong>Automated lighting</strong> — programmable lighting rigs<br>• <strong>Visualization</strong> — projections and digital backdrops</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["Digital Humanities", "Archivi Project", "Digitization", "Nigeria"],
+    "Question": {
+      "content": "The Archivi project focuses on digitizing:",
+      "type": "OBJ",
+      "options": [
+        "Ancient Egyptian hieroglyphics",
+        "South African legal documents",
+        "West African musical instruments",
+        "Nigerian newspaper pages from 1994 to 2008"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nigerian newspaper pages from 1994 to 2008"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Archivi Project</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Project Focus</strong><br>The Archivi project is a digitization initiative focused specifically on preserving <em>Nigerian newspaper pages from 1994 to 2008</em> — an important period of Nigerian political and social history.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 This is a key fact to memorize — note the specific country (Nigeria) and date range (1994–2008).</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["Digital Humanities", "Timbaktu Project", "Mali", "Manuscripts"],
+    "Question": {
+      "content": "The Timbaktu Project aims to:",
+      "type": "OBJ",
+      "options": [
+        "Build new libraries in Mali",
+        "Train digital humanities scholars",
+        "Develop new software for archiving",
+        "Preserve and digitize ancient manuscripts from Timbuktu"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Preserve and digitize ancient manuscripts from Timbuktu"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Timbaktu Project</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>About the Project</strong><br>Timbuktu (Mali) was a major centre of Islamic scholarship in medieval Africa, home to hundreds of thousands of ancient manuscripts. The Timbaktu Project aims to <em>digitally preserve</em> these fragile, irreplaceable documents.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Digitization here is an act of cultural preservation — protecting African intellectual heritage from decay and loss.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["Digital Humanities", "SAHO", "South Africa", "Digital Archives"],
+    "Question": {
+      "content": "South African History Online (SAHO) is:",
+      "type": "OBJ",
+      "options": [
+        "A social media platform",
+        "A digital art gallery",
+        "A music streaming service",
+        "An online database of historical documents and multimedia resources"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "An online database of historical documents and multimedia resources"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>SAHO — South African History Online</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>What SAHO Is</strong><br>SAHO is a digital humanities initiative providing free online access to South African historical records, documents, photographs, and multimedia content — making history accessible to all South Africans.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["Digital Humanities", "Onitsha Market Literature", "Nigeria", "Digitization"],
+    "Question": {
+      "content": "The Onitsha Market Literature Collection digitizes materials primarily published in:",
+      "type": "OBJ",
+      "options": [
+        "The 1950s",
+        "The 1960s",
+        "The 1970s",
+        "The 1980s"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The 1950s"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Onitsha Market Literature</h4><p>The answer is <strong>A — The 1950s</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Background</strong><br>Onitsha Market Literature refers to popular pamphlets and booklets sold in the Onitsha market (Nigeria), primarily published in the <em>1950s</em>. They covered topics like romance, morality, and politics — an important part of Nigerian literary history.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 This is a specific fact — memorize: Onitsha Market Literature = 1950s.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["Digital Humanities", "SADiLaR", "South Africa", "Language"],
+    "Question": {
+      "content": "SADiLaR stands for:",
+      "type": "OBJ",
+      "options": [
+        "South African Digital Library and Research",
+        "Southern Africa Digital Literacy and Resources",
+        "South African Development Initiative for Language and Research",
+        "South African Centre for Digital Language Resources"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "South African Centre for Digital Language Resources"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is SADiLaR?</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Full Name</strong><br><strong>S</strong>outh <strong>A</strong>frican <strong>C</strong>entre for <strong>Di</strong>gital <strong>La</strong>nguage <strong>R</strong>esources — SADiLaR supports digital humanities research with a focus on South Africa's many languages and linguistic heritage.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Tip: The <b>La</b> in SADiLaR hints at <strong>La</strong>nguage — helping you remember it's about language resources.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": ["Digital Humanities", "SADiLaR", "South Africa", "Language"],
+    "Question": {
+      "content": "SADiLaR focuses on:",
+      "type": "OBJ",
+      "options": [
+        "All of South Africa's official languages",
+        "English only",
+        "Indigenous languages exclusively",
+        "European languages used in South Africa"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of South Africa's official languages"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>SADiLaR's Language Scope</h4><p>The answer is <strong>A</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Inclusive Coverage</strong><br>South Africa has <em>11 official languages</em> (including Zulu, Xhosa, Afrikaans, English, and others). SADiLaR's mandate covers <em>all</em> of them — not just English or indigenous languages alone.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": ["Digital Humanities", "Pompey Project", "Rome", "Archaeology"],
+    "Question": {
+      "content": "The Pompey project involves:",
+      "type": "OBJ",
+      "options": [
+        "Digitizing ancient Roman texts",
+        "Creating a database of Roman emperors",
+        "Translating Latin manuscripts",
+        "Virtual reconstruction of Rome's first theatre using AR and 3-D modeling"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Virtual reconstruction of Rome's first theatre using AR and 3-D modeling"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Pompey Project</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>What It Does</strong><br>The Pompey Project uses <em>Augmented Reality (AR)</em> and <em>3D modeling</em> to virtually reconstruct the Theatre of Pompey — the first permanent stone theatre in ancient Rome. It allows scholars and the public to experience a building that no longer physically exists.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 This is a great example of Digital Humanities bringing ancient history back to life through technology.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": ["Digital Humanities", "Roberto Busa", "Index Thomisticus", "History"],
+    "Question": {
+      "content": "Roberto Busa's Index Thomisticus used which technology?",
+      "type": "OBJ",
+      "options": [
+        "Early computers with magnetic tape",
+        "Digital scanners",
+        "Optical character recognition",
+        "Punch cards"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Punch cards"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Roberto Busa and Punch Cards</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>A Pioneering Project</strong><br>In the late 1940s, Father Roberto Busa partnered with IBM to index the complete works of St. Thomas Aquinas. The technology used was <em>punch cards</em> — the dominant data input method of early computing, predating modern keyboards and screens.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 The Index Thomisticus is widely regarded as the <strong>first Digital Humanities project</strong> in history.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": ["Digital Humanities", "Index Thomisticus", "Roberto Busa", "History"],
+    "Question": {
+      "content": "The Index Thomisticus created a lemmatized collection of works by:",
+      "type": "OBJ",
+      "options": [
+        "Aristotle",
+        "St. Augustine",
+        "St. Thomas Aquinas",
+        "Plato"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "St. Thomas Aquinas"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Index Thomisticus — Whose Works?</h4><p>The answer is <strong>C</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>About the Index</strong><br>The <em>Index Thomisticus</em> (\"Index of Thomas\") is a complete, lemmatized (root-word indexed) concordance of the writings of <strong>St. Thomas Aquinas</strong>, the 13th-century theologian and philosopher. Roberto Busa spent decades creating it with IBM's help.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 \"Lemmatized\" means words are grouped by their root form — e.g., \"runs\", \"ran\", \"running\" all grouped under \"run\".</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": ["Digital Humanities", "Open Restitution Africa", "Cultural Heritage", "Africa"],
+    "Question": {
+      "content": "Open Restitution Africa is described as:",
+      "type": "OBJ",
+      "options": [
+        "A European-led initiative",
+        "A commercial venture",
+        "A government agency",
+        "An Africa-led project for restitution of African material culture"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "An Africa-led project for restitution of African material culture"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Open Restitution Africa</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>What It Is</strong><br><em>Restitution</em> refers to returning cultural artifacts taken (often during colonialism) back to their countries of origin. Open Restitution Africa is an <em>Africa-led</em> digital initiative that tracks and advocates for the return of African cultural objects held in foreign museums and collections.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Key word: <strong>Africa-led</strong> — it's driven by Africans, not European institutions, distinguishing it from option A.</div></div>"
+    }
+  },
+  {
+  "type": "Question",
+  "name": "Question 32",
+  "topic": ["Digital Humanities", "Open Restitution Africa", "Cultural Heritage"],
+  "Question": {
+    "content": "Open Restitution Africa empowers stakeholders to:",
+    "type": "OBJ",
+    "options": [
+      "Sell African artifacts",
+      "Export cultural materials",
+      "Create digital replicas for profit",
+      "Make knowledge-based decisions about cultural heritage"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Make knowledge-based decisions about cultural heritage"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Open Restitution Africa — Its Purpose</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Empowerment Through Knowledge</strong><br>Open Restitution Africa provides data and information about African cultural objects held abroad, so that African communities, governments, and institutions can make <em>informed, knowledge-based decisions</em> about claiming and managing their cultural heritage.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 It's not about selling or profit — it's about <strong>informed advocacy</strong> for cultural restitution.</div></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 33",
+  "topic": ["Digital Humanities", "Musicology", "DRM", "Digital Resources"],
+  "Question": {
+    "content": "Digital Resources for Musicology (DRM) provides:",
+    "type": "OBJ",
+    "options": [
+      "Music streaming services",
+      "Music composition software",
+      "Online music lessons",
+      "Links to open-access projects for musicians and musicologists"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Links to open-access projects for musicians and musicologists"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is DRM?</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>A Research Hub</strong><br>Digital Resources for Musicology (DRM) is not a streaming or teaching platform. It serves as a <em>gateway</em> — connecting musicians and musicologists to open-access digital projects, archives, and research tools relevant to music scholarship.</div></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 34",
+  "topic": ["Digital Humanities", "Musicology", "DRM", "Organization"],
+  "Question": {
+    "content": "DRM is organized:",
+    "type": "OBJ",
+    "options": [
+      "Chronologically by historical period",
+      "By geographical region",
+      "By musical genre",
+      "Topically with a search tool"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Topically with a search tool"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>How DRM is Organised</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Topic-Based with Search</strong><br>Rather than sorting by date, location, or genre, DRM arranges its resources <em>topically</em> (by subject/theme) and provides a search tool to help users quickly locate what they need.</div></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 35",
+  "topic": ["Digital Humanities", "Computing", "Humanities", "Interdisciplinary"],
+  "Question": {
+    "content": "The challenges between computing and humanities include tensions between:",
+    "type": "OBJ",
+    "options": [
+      "Different languages",
+      "Public and private institutions",
+      "Traditional and modern art forms",
+      "Quantitative and qualitative approaches"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Quantitative and qualitative approaches"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Core Tension in Digital Humanities</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>The Methodological Divide</strong><br>• <strong>Computing</strong> favours <em>quantitative</em> approaches — numbers, measurements, statistics, algorithms.<br>• <strong>Humanities</strong> favours <em>qualitative</em> approaches — interpretation, meaning, narrative, context.<br>Bridging these two mindsets is one of Digital Humanities' central challenges.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Quantitative = \"How many times does this word appear?\" Qualitative = \"What does this word mean in context?\"</div></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 36",
+  "topic": ["Digital Humanities", "Computing", "Humanities", "Purpose"],
+  "Question": {
+    "content": "According to the text, both computers and humanities serve purposes determined by:",
+    "type": "OBJ",
+    "options": [
+      "Government policies",
+      "Market forces",
+      "Humans, not by the objects themselves",
+      "Academic institutions"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Humans, not by the objects themselves"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Who Determines Purpose?</h4><p>The answer is <strong>C</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Human Agency</strong><br>Both a computer and a humanities discipline are tools/frameworks. Their purpose is not inherent — it is determined by the <em>humans</em> who use them. A computer doesn't decide what it's for; people do.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Technology is neutral — humans give it direction and meaning.</div></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 37",
+  "topic": ["Digital Humanities", "Humanities", "Human Culture"],
+  "Question": {
+    "content": "The humanities concentrate on examination and interpretation of:",
+    "type": "OBJ",
+    "options": [
+      "Natural phenomena",
+      "Mathematical equations",
+      "Scientific experiments",
+      "Objects created by humans and their significance"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Objects created by humans and their significance"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What Humanities Examines</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Human Creations</strong><br>The humanities focus on things <em>humans have made</em> — texts, art, music, laws, languages, historical events — and ask: what do they mean? why were they created? what do they reveal about human experience?</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Natural phenomena (option A) belong to science; human-made objects and their meanings belong to the humanities.</div></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 38",
+  "topic": ["Digital Humanities", "Interdisciplinary", "Computing", "Humanities"],
+  "Question": {
+    "content": "Cross-disciplinary research between computing and humanities is enabled because:",
+    "type": "OBJ",
+    "options": [
+      "They use identical methodologies",
+      "They have merged into a single field",
+      "They share the same research questions",
+      "Both disciplines aim to understand the world using different approaches"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Both disciplines aim to understand the world using different approaches"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Cross-Disciplinary Research Works</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Shared Goal, Different Methods</strong><br>Computing and humanities don't share the same methods or questions, but they share a common <em>underlying goal</em>: understanding the world and human experience. This common purpose is what makes collaboration between the two meaningful and productive.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 They haven't merged — they complement each other while remaining distinct disciplines.</div></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 39",
+  "topic": ["Digital Humanities", "Performing Arts", "Digital Media", "Technology"],
+  "Question": {
+    "content": "Teleprompters and interactive digital media in performing arts serve to:",
+    "type": "OBJ",
+    "options": [
+      "Replace live performers",
+      "Reduce production costs",
+      "Limit audience interaction",
+      "Enhance the overall experience in theatre, dance, and film"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Enhance the overall experience in theatre, dance, and film"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Media in Performing Arts</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Augmenting, Not Replacing</strong><br>Teleprompters (helping performers remember lines) and interactive digital media (live projections, AR overlays, audience engagement tools) are used to <em>enhance</em> the performance experience — making it richer, more immersive, and more dynamic for audiences and performers alike.</div></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 40",
+  "topic": ["Digital Humanities", "Music", "Digitization", "Global Access"],
+  "Question": {
+    "content": "The digitization of music has enabled:",
+    "type": "OBJ",
+    "options": [
+      "The elimination of traditional instruments",
+      "Standardization of all musical genres",
+      "Reduction in music quality",
+      "Sharing and creation of music on a global scale"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Sharing and creation of music on a global scale"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Impact of Music Digitization</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Global Music Culture</strong><br>Digitization has transformed music from a local, physical product (vinyl, CDs) into a globally shareable digital asset. Artists can now <em>create, distribute, and collaborate</em> with audiences and musicians worldwide — breaking down geographical barriers entirely.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 A musician in Port Harcourt can release a song today and have it heard in Tokyo by tomorrow — that's the power of digitization.</div></div>"
+  }
+}]
