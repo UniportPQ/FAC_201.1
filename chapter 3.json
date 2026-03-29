@@ -1,0 +1,943 @@
+[
+    {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Digital Humnaities",
+    "code": "FAC 201.1",
+    "session": "Chapter 3",
+    "topics": ["Research", "Technology", "History", "Interdisciplinary", "Positioning", "Computer Science", "Humanities", "Osinski", "Visual Media", "Research Methods", "Interdisciplinarity", "Methodology", "Terminology", "Linguistics", "Biology", "Scope", "Institutions", "Academia", "Research Centres", "Theory and Practice", "Interdisciplinary Programs", "Computational Methods", "Digitization", "Natural Language Processing", "Data Visualization", "Network Analysis", "Geospatial Analysis", "Archives", "Optical Character Recognition", "Virtual Reality", "Machine Learning", "Qualitative Research", "Theoretical Questions", "Advantages", "Annotation"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+
+  {
+    "type": "heading",
+    "heading": "Chapter Three",
+    "Subheading": "Methodological and Interdisciplinary Scope of Digital Humanities"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Digital Humanities", "Research", "Technology", "History"],
+    "Question": {
+      "content": "According to the text, since the late 20th century, humanists have identified new research possibilities arising from:",
+      "type": "OBJ",
+      "options": [
+        "Government funding for digital projects",
+        "The combination of widespread digitization and incorporation of modern technology into research work",
+        "International collaboration among universities",
+        "Private sector investment in humanities research"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The combination of widespread digitization and incorporation of modern technology into research work"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>New Research Possibilities in the Late 20th Century</h4><p>The answer is <strong>B</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>What Changed?</strong><br>From the late 1990s onward, two forces converged to open up new research possibilities for humanists:<br>• <strong>Widespread digitization</strong> — converting texts, images, and records into digital form<br>• <strong>Modern technology in research</strong> — using computers to analyze, visualize, and share findings</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 It wasn't funding or government policy alone — it was the <em>technological shift itself</em> that created new possibilities.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Digital Humanities", "Interdisciplinary", "Positioning"],
+    "Question": {
+      "content": "Digital humanities is positioned at the intersection of:",
+      "type": "OBJ",
+      "options": [
+        "Social sciences and natural sciences",
+        "Traditional humanities research and computational methods",
+        "Linguistics and mathematics",
+        "Philosophy and engineering"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Traditional humanities research and computational methods"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Where Does DH Sit?</h4><p>The answer is <strong>B</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>The Intersection</strong><br>Digital Humanities sits exactly where <em>traditional humanities</em> (history, literature, philosophy, art) meets <em>computational methods</em> (data analysis, algorithms, digital tools). It is neither purely one nor the other.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Think of it as a Venn diagram: one circle is humanities, one is computing — DH lives in the overlap.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Digital Humanities", "Interdisciplinary", "Computer Science", "Humanities"],
+    "Question": {
+      "content": "The interdisciplinary nature of digital humanities is fundamentally defined by its position at the intersection of:",
+      "type": "OBJ",
+      "options": [
+        "History and literature",
+        "Media studies and cultural studies",
+        "Linguistics and anthropology",
+        "Computer science and the humanities"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Computer science and the humanities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Defining Intersection</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Fundamental Definition</strong><br>While DH touches many fields, its <em>defining</em> interdisciplinary character comes from the meeting of <strong>computer science</strong> (tools, methods, data) and <strong>the humanities</strong> (questions, interpretations, culture). All other combinations are secondary.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Digital Humanities", "Osinski", "Visual Media", "Research Methods"],
+    "Question": {
+      "content": "According to Osinski (2018), some humanists now argue that movies, picture collections, and data visualizations can:",
+      "type": "OBJ",
+      "options": [
+        "Replace all forms of written scholarship",
+        "Eliminate the need for traditional research methods",
+        "Reduce research costs significantly",
+        "Convey meaning and narrative as effectively as textual forms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Convey meaning and narrative as effectively as textual forms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Osinski (2018) on Visual Media</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>The Argument</strong><br>Osinski argues that visual and data-driven formats — films, image collections, infographics — are not inferior to text. They can communicate complex meaning and narrative <em>just as effectively</em> as written scholarship, opening up new forms of humanistic expression.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 This does NOT mean replacing text — it means expanding what counts as valid scholarly communication.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Digital Humanities", "Interdisciplinarity", "Methodology"],
+    "Question": {
+      "content": "The term interdisciplinarity (ID) refers to:",
+      "type": "OBJ",
+      "options": [
+        "Combining elements of knowledge from two or more specialized fields to holistically understand and solve a problem",
+        "The exclusive use of computational methods in research",
+        "The replacement of traditional disciplines with new ones",
+        "The standardization of research methods across all fields"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Combining elements of knowledge from two or more specialized fields to holistically understand and solve a problem"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is Interdisciplinarity?</h4><p>The answer is <strong>A</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Definition</strong><br>Interdisciplinarity (ID) means drawing on knowledge, methods, and insights from <em>two or more disciplines</em> to tackle a problem that no single field can fully address on its own. The goal is a more <em>holistic</em> understanding.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Example: Studying the spread of COVID-19 using biology, data science, sociology, and history together = interdisciplinary research.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Digital Humanities", "Interdisciplinarity", "Terminology"],
+    "Question": {
+      "content": "Terms often used as synonymous with interdisciplinarity include all of the following EXCEPT:",
+      "type": "OBJ",
+      "options": [
+        "Multidisciplinarity",
+        "Transdisciplinarity",
+        "Interprofessionalism",
+        "Unidisciplinarity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Unidisciplinarity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Synonyms for Interdisciplinarity</h4><p>The answer is <strong>D</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Why D is the Odd One Out</strong><br>• <strong>Multidisciplinarity</strong> — multiple disciplines working side by side<br>• <strong>Transdisciplinarity</strong> — disciplines merging beyond their boundaries<br>• <strong>Interprofessionalism</strong> — professionals from different fields collaborating<br>• <strong>Unidisciplinarity</strong> — working within a <em>single</em> discipline — the exact <em>opposite</em> of interdisciplinarity</div><div style='background: var(--warningBg); padding: 10px; border-radius: 6px;'>⚠️ \"EXCEPT\" questions — find the item that does <em>not</em> belong.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Digital Humanities", "Interdisciplinarity", "Methodology"],
+    "Question": {
+      "content": "Narrow interdisciplinarity involves disciplines with:",
+      "type": "OBJ",
+      "options": [
+        "Completely opposing methodologies",
+        "No common research interests",
+        "Relatively compatible methods and epistemologies",
+        "Identical theoretical frameworks"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Relatively compatible methods and epistemologies"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Narrow vs Broad Interdisciplinarity</h4><p>The answer is <strong>C</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Narrow Interdisciplinarity</strong><br>When the collaborating disciplines already share <em>similar methods and ways of knowing</em> (epistemologies), their collaboration is called <em>narrow</em> interdisciplinarity — the bridging effort is relatively small because the fields are already close.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Example: History and literature — both text-based, both interpretive. Easy to collaborate = narrow interdisciplinarity.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Digital Humanities", "Interdisciplinarity", "Linguistics", "Biology"],
+    "Question": {
+      "content": "An example of broad interdisciplinarity mentioned in the text is the bridge between:",
+      "type": "OBJ",
+      "options": [
+        "History and literature",
+        "English and philosophy",
+        "Linguistics and biology",
+        "Music and art history"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Linguistics and biology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Broad Interdisciplinarity</h4><p>The answer is <strong>C</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Why Linguistics + Biology = Broad?</strong><br><em>Broad</em> interdisciplinarity involves fields with very different methods and epistemologies — requiring much more effort to integrate. Linguistics (language, meaning, human communication) and Biology (life sciences, genetics, organisms) are quite far apart, making their combination a good example of <em>broad</em> interdisciplinarity.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Example application: Biolinguistics — studying the biological basis of language in humans.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Digital Humanities", "Interdisciplinary", "Scope"],
+    "Question": {
+      "content": "Common topics in DH that reveal its interdisciplinary scope include all EXCEPT:",
+      "type": "OBJ",
+      "options": [
+        "Computational linguistics",
+        "Digital collections",
+        "Pure mathematical theory",
+        "New methods of analysis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pure mathematical theory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DH Topics — The Odd One Out</h4><p>The answer is <strong>C</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Why Pure Mathematical Theory Doesn't Fit</strong><br>DH topics like computational linguistics, digital collections, and new analytical methods all combine humanities with technology. <em>Pure mathematical theory</em> is an abstract, self-contained discipline with no inherent humanities application — it doesn't reflect DH's interdisciplinary nature.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Digital Humanities", "Institutions", "Academia"],
+    "Question": {
+      "content": "DH scholars are associated with various institutional structures including:",
+      "type": "OBJ",
+      "options": [
+        "Only computer science departments",
+        "Traditional departments, interdisciplinary fields, and professions like librarianship",
+        "Exclusively newly created DH centers",
+        "Only humanities departments"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Traditional departments, interdisciplinary fields, and professions like librarianship"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Where DH Scholars Work</h4><p>The answer is <strong>B</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Diverse Institutional Homes</strong><br>DH is not confined to one type of department. Scholars work across:<br>• <strong>Traditional departments</strong> — English, History, Philosophy<br>• <strong>Interdisciplinary fields</strong> — Cultural Studies, Media Studies<br>• <strong>Professions</strong> — Librarianship, Archiving, Museum curation</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 This diversity reflects DH's broad, cross-cutting nature.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Digital Humanities", "Research Centres", "Theory and Practice"],
+    "Question": {
+      "content": "Research centres in DH facilitate a model where:",
+      "type": "OBJ",
+      "options": [
+        "Only theoretical work is conducted",
+        "Theory and practice meet on a broadly interdisciplinary level",
+        "Technology replaces traditional scholarship",
+        "Individual work is prioritized over collaboration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Theory and practice meet on a broadly interdisciplinary level"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DH Research Centres</h4><p>The answer is <strong>B</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Theory Meets Practice</strong><br>DH research centres are unique in that they bring together people who <em>theorize</em> about culture and meaning with those who <em>build tools</em> and <em>process data</em> — all working collaboratively across disciplines. Neither pure theory nor pure practice dominates.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Digital Humanities", "Interdisciplinary Programs", "Academia"],
+    "Question": {
+      "content": "Strong interdisciplinary programs in DH share traits such as:",
+      "type": "OBJ",
+      "options": [
+        "Exclusive focus on technological skills",
+        "Isolation from other academic units",
+        "A clear intellectual agenda, core courses, and partnerships with other units",
+        "Rejection of traditional humanities content"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A clear intellectual agenda, core courses, and partnerships with other units"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What Makes a Strong DH Program?</h4><p>The answer is <strong>C</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>Three Key Traits</strong><br>• <strong>Clear intellectual agenda</strong> — a defined focus and set of research questions<br>• <strong>Core courses</strong> — foundational training shared across students<br>• <strong>Partnerships with other units</strong> — active collaboration with other departments, not isolation</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 Strong DH programs are <em>open and connected</em>, not closed-off or purely technical.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Digital Humanities", "Computational Methods", "Humanities", "Digitization"],
+    "Question": {
+      "content": "A major factor contributing to growing interest in computational approaches within humanities is:",
+      "type": "OBJ",
+      "options": [
+        "Increased government regulations",
+        "Declining enrollment in traditional humanities courses",
+        "The widespread digitization of texts, particularly since the beginning of the 21st century",
+        "Reduction in funding for traditional research"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The widespread digitization of texts, particularly since the beginning of the 21st century"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Computational Humanities Grew</h4><p>The answer is <strong>C</strong>.</p><div style='margin-bottom: 12px;'><strong style='color: var(--strongColor);'>The Digitization Driver</strong><br>As millions of books, manuscripts, newspapers, and records were digitized from the early 2000s onward, humanists gained access to massive text collections. This made <em>computational analysis</em> (searching, pattern-finding, text mining) not just possible but necessary — sparking huge interest in DH methods.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>💡 You can't computationally analyze what isn't digital — digitization was the key that unlocked everything.</div></div>"
+    }
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Digital Humanities", "Natural Language Processing"],
+    "Question": {
+      "content": "Natural Language Processing (NLP) is a branch of",
+      "type": "OBJ",
+      "options": [
+        "Biology and chemistry",
+        "Physics and mathematics",
+        "Psychology and sociology",
+        "Linguistics and computer science"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Linguistics and computer science"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>NLP Basics</h4><p>The correct answer is Linguistics and computer science.</p><p>Step 1: NLP studies how humans use language.<br>Step 2: Computers use algorithms to process it.<br>Easy way: Think of it as teaching machines to read and talk like us!</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Digital Humanities", "Natural Language Processing"],
+    "Question": {
+      "content": "NLP began as a subfield of",
+      "type": "OBJ",
+      "options": [
+        "Artificial Intelligence",
+        "Statistics",
+        "Library science",
+        "Cognitive psychology"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Artificial Intelligence"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>NLP Origins</h4><p>The correct answer is Artificial Intelligence.</p><p>AI researchers wanted computers to understand human language.<br>Step 1: Early AI tried to copy human thinking.<br>Step 2: NLP grew from that dream.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["Digital Humanities", "Natural Language Processing"],
+    "Question": {
+      "content": "According to Jayaprada (2024), NLP is aimed at making computers",
+      "type": "OBJ",
+      "options": [
+        "Replace human translators",
+        "Learn, understand, analyse, manipulate and interpret natural languages",
+        "Eliminate the need for language learning",
+        "Standardize all human communication"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Learn, understand, analyse, manipulate and interpret natural languages"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>NLP Goal</h4><p>The correct answer is Learn, understand, analyse, manipulate and interpret natural languages.</p><p>Step 1: Computers learn words and rules.<br>Step 2: They analyse meaning just like we do.<br>Super simple: NLP makes machines language-smart!</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Digital Humanities", "Natural Language Processing"],
+    "Question": {
+      "content": "Distance reading, unlike close reading",
+      "type": "OBJ",
+      "options": [
+        "Requires reading individual texts carefully",
+        "Focuses only on modern literature",
+        "Allows for the usage of algorithms to analyse large volumes of literatures",
+        "Eliminates the need for interpretation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Allows for the usage of algorithms to analyse large volumes of literatures"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Distance vs Close Reading</h4><p>The correct answer is Allows for the usage of algorithms to analyse large volumes of literatures.</p><p>Close reading = one book slowly.<br>Distance reading = computer scans thousands fast.<br>Step 1: Feed data to algorithm.<br>Step 2: Spot big patterns.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Digital Humanities", "Natural Language Processing"],
+    "Question": {
+      "content": "Text analysis and NLP allows for the detection of emotional undertone in a text through",
+      "type": "OBJ",
+      "options": [
+        "Manual coding by researchers",
+        "Sentiment analysis",
+        "Historical comparison",
+        "Reader surveys"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sentiment analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sentiment Detection</h4><p>The correct answer is Sentiment analysis.</p><p>Step 1: NLP scans words for happy/sad clues.<br>Step 2: Scores the emotion automatically.<br>Newbie tip: Like a mood detector for text!</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Digital Humanities", "Natural Language Processing"],
+    "Question": {
+      "content": "Tools for text analysis and natural language processing include",
+      "type": "OBJ",
+      "options": [
+        "Microsoft Excel and PowerPoint",
+        "IBM Watson, Stanford NLP, CoreNLP",
+        "Adobe Photoshop and Illustrator",
+        "Google Maps and Earth"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "IBM Watson, Stanford NLP, CoreNLP"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>NLP Tools</h4><p>The correct answer is IBM Watson, Stanford NLP, CoreNLP.</p><p>These are smart programs built for language tasks.<br>Step 1: Input text.<br>Step 2: Tool analyses it instantly.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Digital Humanities", "Data Visualization"],
+    "Question": {
+      "content": "Data visualization tools such as charts, maps, and graphs are used to",
+      "type": "OBJ",
+      "options": [
+        "Replace written analysis",
+        "Demonstrate pattern, frequency, or to juxtapose ideas or variables",
+        "Eliminate the need for quantitative data",
+        "Standardize all research findings"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Demonstrate pattern, frequency, or to juxtapose ideas or variables"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Visualize Data?</h4><p>The correct answer is Demonstrate pattern, frequency, or to juxtapose ideas or variables.</p><p>Charts make numbers tell stories.<br>Step 1: Collect data.<br>Step 2: Plot it to see hidden trends easily.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["Digital Humanities", "Data Visualization"],
+    "Question": {
+      "content": "A critical concern with visualizations mentioned in the text is that they may",
+      "type": "OBJ",
+      "options": [
+        "Be too expensive to create",
+        "Require extensive training to interpret",
+        "Obscure facts or amplify biases and silences in the data",
+        "Take too long to produce"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Obscure facts or amplify biases and silences in the data"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Visualization Pitfalls</h4><p>The correct answer is Obscure facts or amplify biases and silences in the data.</p><p>Pretty charts can hide important details.<br>Step 1: Check your data.<br>Step 2: Avoid misleading pictures.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["Digital Humanities", "Data Visualization"],
+    "Question": {
+      "content": "Tools for data visualization include",
+      "type": "OBJ",
+      "options": [
+        "Gephi and Palladio",
+        "IBM Watson and Stanford NLP",
+        "Clovis, RAWGraphs, Timeline JS and Tableau",
+        "OCR and VR systems"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Clovis, RAWGraphs, Timeline JS and Tableau"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Data Viz Tools</h4><p>The correct answer is Clovis, RAWGraphs, Timeline JS and Tableau.</p><p>These turn raw numbers into beautiful, easy-to-read charts.<br>Step 1: Load your data.<br>Step 2: Pick the right tool for the job.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["Digital Humanities", "Network Analysis"],
+    "Question": {
+      "content": "Network analysis in DH involves",
+      "type": "OBJ",
+      "options": [
+        "Analyzing computer network infrastructure",
+        "Examining connections, intersections, and interactions among different nodes or entities",
+        "Creating social media platforms",
+        "Designing communication systems"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Examining connections, intersections, and interactions among different nodes or entities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Network Analysis</h4><p>The correct answer is Examining connections, intersections, and interactions among different nodes or entities.</p><p>Think of it as mapping friendships or links in literature.<br>Step 1: List all nodes.<br>Step 2: Draw the connections.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["Digital Humanities", "Network Analysis"],
+    "Question": {
+      "content": "Computational tools commonly used for network analysis include",
+      "type": "OBJ",
+      "options": [
+        "Clovis and RAWGraphs",
+        "IBM Watson and CoreNLP",
+        "Adobe Creative Suite",
+        "Gephi, Palladio, NetworkX"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Gephi, Palladio, NetworkX"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Network Tools</h4><p>The correct answer is Gephi, Palladio, NetworkX.</p><p>These programs draw and analyse relationship maps.<br>Step 1: Import data.<br>Step 2: See the network come alive.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["Digital Humanities", "Geospatial Analysis"],
+    "Question": {
+      "content": "Geospatial analysis and mapping involves",
+      "type": "OBJ",
+      "options": [
+        "Creating fictional maps for literature",
+        "Only studying contemporary urban areas",
+        "Exploration and visualization of data in relation to geographic locations using GIS",
+        "Replacing traditional cartography"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Exploration and visualization of data in relation to geographic locations using GIS"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Geospatial Mapping</h4><p>The correct answer is Exploration and visualization of data in relation to geographic locations using GIS.</p><p>GIS = Geographic Information System.<br>Step 1: Add location tags.<br>Step 2: Plot on a map.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["Digital Humanities", "Archives"],
+    "Question": {
+      "content": "In the past, access to archives was frequently restricted by",
+      "type": "OBJ",
+      "options": [
+        "Government censorship only",
+        "High research costs exclusively",
+        "Language barriers alone",
+        "Geographical limitations, preservation concerns, and physical nature of materials"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Geographical limitations, preservation concerns, and physical nature of materials"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Archive Access</h4><p>The correct answer is Geographical limitations, preservation concerns, and physical nature of materials.</p><p>Old papers were far away and fragile.<br>Step 1: Travel issue.<br>Step 2: Handle with care.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": ["Digital Humanities", "Optical Character Recognition"],
+    "Question": {
+      "content": "Optical Character Recognition (OCR) is used to",
+      "type": "OBJ",
+      "options": [
+        "Create digital art",
+        "Analyze network relationships",
+        "Design websites",
+        "Convert scanned texts into machine-readable formats"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Convert scanned texts into machine-readable formats"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>OCR Explained</h4><p>The correct answer is Convert scanned texts into machine-readable formats.</p><p>Step 1: Scan old page.<br>Step 2: OCR turns image into editable text.<br>Magic for old books!</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": ["Digital Humanities", "Virtual Reality"],
+    "Question": {
+      "content": "Virtual Reality (VR) and 3D modelling in DH allow for",
+      "type": "OBJ",
+      "options": [
+        "Replacement of museum collections",
+        "Only studying contemporary urban areas",
+        "Digital reconstruction of historical sites or artefacts",
+        "Elimination of archaeological fieldwork"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Digital reconstruction of historical sites or artefacts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>VR in DH</h4><p>The correct answer is Digital reconstruction of historical sites or artefacts.</p><p>Step 1: Scan real artefact.<br>Step 2: Build 3D model in VR.<br>You can walk through ancient Rome!</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": ["Digital Humanities", "Machine Learning"],
+    "Question": {
+      "content": "Machine learning is concerned with questions including",
+      "type": "OBJ",
+      "options": [
+        "How to replace human researchers",
+        "How to eliminate the need for data collection",
+        "How computer systems can be built to automatically improve over time",
+        "How to standardize all research methods"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "How computer systems can be built to automatically improve over time"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Machine Learning Basics</h4><p>The correct answer is How computer systems can be built to automatically improve over time.</p><p>Step 1: Give data.<br>Step 2: System learns and gets smarter.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": ["Digital Humanities", "Machine Learning"],
+    "Question": {
+      "content": "Machine learning is described as a subfield of",
+      "type": "OBJ",
+      "options": [
+        "Cognitive science",
+        "Artificial Intelligence",
+        "Information science",
+        "Statistics"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Artificial Intelligence"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>ML and AI</h4><p>The correct answer is Artificial Intelligence.</p><p>Machine learning is a smart branch inside AI.<br>Step 1: AI is the big idea.<br>Step 2: ML is the learning part.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": ["Digital Humanities", "Machine Learning"],
+    "Question": {
+      "content": "By applying machine learning techniques, researchers can",
+      "type": "OBJ",
+      "options": [
+        "Eliminate the need for human interpretation",
+        "Replace traditional humanities scholarship",
+        "Automatically detect significant patterns within complex data",
+        "Standardize all research questions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Automatically detect significant patterns within complex data"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>ML Power</h4><p>The correct answer is Automatically detect significant patterns within complex data.</p><p>Computers spot what humans might miss.<br>Step 1: Feed huge data.<br>Step 2: ML finds hidden links.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": ["Digital Humanities", "Machine Learning"],
+    "Question": {
+      "content": "Machine learning involves adaptive algorithms that",
+      "type": "OBJ",
+      "options": [
+        "Remain static once programmed",
+        "Require constant human supervision",
+        "Work only with small datasets",
+        "Improve their performance as they are exposed to more data"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Improve their performance as they are exposed to more data"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>How ML Learns</h4><p>The correct answer is Improve their performance as they are exposed to more data.</p><p>More examples = smarter model.<br>Step 1: Train with data.<br>Step 2: Test and improve.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": ["Digital Humanities", "Qualitative Research"],
+    "Question": {
+      "content": "According to Frank (2022), qualitative research methods are characterized by",
+      "type": "OBJ",
+      "options": [
+        "Always producing definitive answers",
+        "The fact that no unambiguous answers exist, and often these are not even sought",
+        "Exclusive use of computational tools",
+        "Rejection of all digital methods"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The fact that no unambiguous answers exist, and often these are not even sought"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Qualitative Research</h4><p>The correct answer is The fact that no unambiguous answers exist, and often these are not even sought.</p><p>Qualitative = exploring ideas, not just numbers.<br>Step 1: Ask open questions.<br>Step 2: Understand stories.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": ["Digital Humanities", "Methodology"],
+    "Question": {
+      "content": "A challenge for digital methodologies in humanities is that they frequently rely on",
+      "type": "OBJ",
+      "options": [
+        "Qualitative interpretations exclusively",
+        "Historical precedent",
+        "Individual researcher expertise",
+        "Structured, formal categories not always applicable in humanities"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Structured, formal categories not always applicable in humanities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Challenges</h4><p>The correct answer is Structured, formal categories not always applicable in humanities.</p><p>Human stories don't always fit neat boxes.<br>Step 1: Try digital tools.<br>Step 2: Adapt for messy real life.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": ["Digital Humanities", "Theoretical Questions"],
+    "Question": {
+      "content": "Theoretical and methodological questions introduced by digital humanities include",
+      "type": "OBJ",
+      "options": [
+        "Whether to eliminate traditional humanities entirely",
+        "How to reduce research costs",
+        "What constitutes an appropriate theoretical framework for interpreting computational results",
+        "How to standardize all research findings"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "What constitutes an appropriate theoretical framework for interpreting computational results"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DH Theory</h4><p>The correct answer is What constitutes an appropriate theoretical framework for interpreting computational results.</p><p>Computers give numbers; we need theory to explain them.<br>Step 1: Run computation.<br>Step 2: Think critically.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": ["Digital Humanities", "Advantages"],
+    "Question": {
+      "content": "One notable advantage of DH is the ability to",
+      "type": "OBJ",
+      "options": [
+        "Eliminate the need for critical analysis",
+        "Replace human interpretation with algorithms",
+        "Construct corpora using standardized vocabularies and metadata",
+        "Reduce the time required for all research to minutes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Construct corpora using standardized vocabularies and metadata"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DH Advantage</h4><p>The correct answer is Construct corpora using standardized vocabularies and metadata.</p><p>A corpus is a big collection of texts.<br>Step 1: Gather texts.<br>Step 2: Tag them neatly for easy search.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": ["Digital Humanities", "Annotation"],
+    "Question": {
+      "content": "Annotation in DH serves as",
+      "type": "OBJ",
+      "options": [
+        "A replacement for traditional citations",
+        "An optional supplement to research",
+        "A method for linking computational processing with critical analysis",
+        "A way to eliminate human interpretation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A method for linking computational processing with critical analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Annotation in DH</h4><p>The correct answer is A method for linking computational processing with critical analysis.</p><p>Step 1: Add notes to text.<br>Step 2: Connect computer results to human ideas.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": ["Digital Humanities", "Research Methodologies"],
+    "Question": {
+      "content": "The transformation in research methodologies brought about by DH allows for",
+      "type": "OBJ",
+      "options": [
+        "Only distant reading of texts",
+        "Exclusively close reading approaches",
+        "Both close and distant readings of texts",
+        "Elimination of textual analysis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both close and distant readings of texts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>DH Reading Styles</h4><p>The correct answer is Both close and distant readings of texts.</p><p>Close = deep dive one text.<br>Distant = big-picture view.<br>DH gives you both!</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": ["Digital Humanities", "Digital Approaches"],
+    "Question": {
+      "content": "Digital approaches enable",
+      "type": "OBJ",
+      "options": [
+        "Complete automation of research",
+        "More targeted sampling and potentially distinct discoveries",
+        "Elimination of the need for theoretical frameworks",
+        "Elimination of traditional qualitative approaches"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "More targeted sampling and potentially distinct discoveries"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Benefits</h4><p>The correct answer is More targeted sampling and potentially distinct discoveries.</p><p>Computers help pick the best examples.<br>Step 1: Use data smartly.<br>Step 2: Find new insights.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": ["Digital Humanities", "Integration of Technology"],
+    "Question": {
+      "content": "When digital technologies are appropriately integrated at key stages of research, they can",
+      "type": "OBJ",
+      "options": [
+        "Replace all traditional methods",
+        "Eliminate the need for peer review",
+        "Significantly enhance the accuracy, efficiency, and scalability of scholarly work",
+        "Standardize all humanities disciplines"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Significantly enhance the accuracy, efficiency, and scalability of scholarly work"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Smart Integration</h4><p>The correct answer is Significantly enhance the accuracy, efficiency, and scalability of scholarly work.</p><p>Step 1: Use tech at right moments.<br>Step 2: Get better, faster, bigger research.</p></div>"
+    }
+  }
+]
+
