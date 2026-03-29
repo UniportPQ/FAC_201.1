@@ -1,0 +1,1064 @@
+[    {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Digital Humnaities",
+    "code": "FAC 201.1",
+    "session": "Chapter 4",
+    "topics":["Digital Humanities", "Phonetics", "Linguistics", "Sociology", "Data Ethics", "Information Science", "Data Processing", "Research Methodology", "Corpus Linguistics", "Corpus Compilation", "Data Sampling", "Statistics", "Digital Research Tools", "Survey Design", "Qualitative Research", "Scientific Method", "Software Tools", "Fieldwork", "Web Scraping", "Data Collection", "Data Analysis", "Research Goals", "Exploratory Data Analysis", "History of Computing", "Distant Reading", "Concordancing", "Topic Modeling", "Natural Language Processing", "Stylometry", "Text Encoding"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "Chapter Four",
+    "Subheading": "Data Analysis in the Humanities"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Digital Humanities",
+      "Phonetics",
+      "Linguistics"
+    ],
+    "Question": {
+      "content": "Before the advent of digital technologies, vowels were analyzed using which of the following tools?",
+      "type": "OBJ",
+      "options": [
+        "Computer software programs",
+        "Spectrographs",
+        "Mobile applications",
+        "Cloud-based tools"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Spectrographs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Vowel Analysis History</h4>\n <p>The correct answer is <strong>Spectrographs</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Reasoning</strong><br>\n Before digital computers, linguists used analog spectrographs to visualize sound frequencies.<br>These machines produced physical printouts called spectrograms to identify vowel formants.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Digital Humanities",
+      "Sociology",
+      "Data Ethics"
+    ],
+    "Question": {
+      "content": "Data can reflect or cause which of the following social phenomena?",
+      "type": "OBJ",
+      "options": [
+        "Computer malfunctions",
+        "Software errors",
+        "Modern social divisions",
+        "Hardware failures"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Modern social divisions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Data and Society</h4>\n <p>The correct answer is <strong>Modern social divisions</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Social Impact</strong><br>\n In humanities, data is studied for how it reinforces or creates social hierarchies and inequalities.<br>The other options refer to technical failures rather than social consequences.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Information Science",
+      "Data Processing"
+    ],
+    "Question": {
+      "content": "When data is processed, organized, structured or presented in a given context to make it useful, what is it called?",
+      "type": "OBJ",
+      "options": [
+        "Raw data",
+        "Metadata",
+        "Information",
+        "Statistics"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Information"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Data vs. Information</h4>\n <p>The correct answer is <strong>Information</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Transformation</strong><br>\n Raw data is just symbols or numbers; once it is organized and context is added, it becomes information.<br>This is the fundamental hierarchy of knowledge management.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Digital Humanities",
+      "Research Methodology"
+    ],
+    "Question": {
+      "content": "According to Ossom-Williamson & Rambsy (2021), data-driven research deals particularly with which of these methodologies?",
+      "type": "OBJ",
+      "options": [
+        "Software development and programming",
+        "Hardware design and architecture",
+        "Network security and protocols",
+        "Data analytic and visualization methodologies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Data analytic and visualization methodologies"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Research Focus</h4>\n <p>The correct answer is <strong>Data analytic and visualization methodologies</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Scholarly Definition</strong><br>\n Digital Humanities research prioritizes how we interpret and see data.<br>Visualizing patterns is key to making sense of large humanities datasets.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Corpus Linguistics",
+      "Digital Humanities"
+    ],
+    "Question": {
+      "content": "How did Oweleke (2017) define a corpus?",
+      "type": "OBJ",
+      "options": [
+        "A small collection of digital images",
+        "A database of audio recordings",
+        "A large collection of text usually stored as database in a computer",
+        "A set of video files for analysis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A large collection of text usually stored as database in a computer"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Corpus Definition</h4>\n <p>The correct answer is <strong>A large collection of text usually stored as database in a computer</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Context</strong><br>\n A corpus is specifically a body of text used for linguistic analysis.<br>The plural form is 'corpora'.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Research Methodology",
+      "Corpus Compilation"
+    ],
+    "Question": {
+      "content": "When compiling a DIY corpus, what should be clear before collecting material?",
+      "type": "OBJ",
+      "options": [
+        "The budget for the project",
+        "The software to be used",
+        "Your research objectives and/or research questions",
+        "The publication venue"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Your research objectives and/or research questions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Planning Research</h4>\n <p>The correct answer is <strong>Your research objectives and/or research questions</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Preparation</strong><br>\n Without a clear question, you won't know what texts to include or exclude.<br>Objectives drive the criteria for data selection.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Corpus Linguistics",
+      "Data Sampling"
+    ],
+    "Question": {
+      "content": "Which of the following are important concepts in corpus compilation?",
+      "type": "OBJ",
+      "options": [
+        "Speed, simplicity, and cost",
+        "Balance, representativeness, and sample",
+        "Color, format, and size",
+        "Language, location, and time"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Balance, representativeness, and sample"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Corpus Design</h4>\n <p>The correct answer is <strong>Balance, representativeness, and sample</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Core Principles</strong><br>\n A good corpus must represent the language variety being studied accurately.<br>Balance ensures no single source dominates the results unfairly.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Research Methodology",
+      "Statistics"
+    ],
+    "Question": {
+      "content": "A survey is used to gather information with the intention of doing what?",
+      "type": "OBJ",
+      "options": [
+        "Replacing qualitative research",
+        "Eliminating the need for interviews",
+        "Generalizing results to a larger population",
+        "Creating entertainment content"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Generalizing results to a larger population"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Survey Goals</h4>\n <p>The correct answer is <strong>Generalizing results to a larger population</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Statistical Power</strong><br>\n Surveys allow researchers to sample a small group to make claims about a whole group.<br>This is the essence of quantitative inference.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Digital Research Tools",
+      "Survey Design"
+    ],
+    "Question": {
+      "content": "Digital survey tools allow for which of the following features?",
+      "type": "OBJ",
+      "options": [
+        "Reduced data accuracy",
+        "Limited geographic reach",
+        "Adaptive questioning based on previous answers",
+        "Decreased respondent engagement"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Adaptive questioning based on previous answers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Advantages</h4>\n <p>The correct answer is <strong>Adaptive questioning</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Logic Branching</strong><br>\n Modern tools like Google Forms or Qualtrics use 'skip logic'.<br>If a user answers 'No' to a question, the tool can skip irrelevant follow-ups.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Research Methodology",
+      "Qualitative Research"
+    ],
+    "Question": {
+      "content": "What does an interview involve in a research context?",
+      "type": "OBJ",
+      "options": [
+        "Anonymous data collection only",
+        "Exclusively written responses",
+        "An interviewer questioning one or more persons about a specific subject",
+        "Automated computer interactions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "An interviewer questioning one or more persons about a specific subject"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Interview Basics</h4>\n <p>The correct answer is <strong>An interviewer questioning persons about a subject</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Method</strong><br>\n Interviews are structured or semi-structured conversations.<br>They aim to gain deep, qualitative insights from participants.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Scientific Method",
+      "Research Methodology"
+    ],
+    "Question": {
+      "content": "An experiment is defined as a procedure carried out to achieve which of the following?",
+      "type": "OBJ",
+      "options": [
+        "Entertain audiences",
+        "Generate random data",
+        "Create artistic content",
+        "Support, refute, or validate a hypothesis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Support, refute, or validate a hypothesis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Purpose of Experiments</h4>\n <p>The correct answer is <strong>Support, refute, or validate a hypothesis</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Scientific Process</strong><br>\n Experiments test specific predictions under controlled conditions.<br>The outcome either confirms or denies the initial theory.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Software Tools",
+      "Statistics"
+    ],
+    "Question": {
+      "content": "SPSS is a programme used for which of the following tasks?",
+      "type": "OBJ",
+      "options": [
+        "Creating digital art",
+        "Web design and development",
+        "Video production",
+        "Performing statistical analysis on quantitative data"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Performing statistical analysis on quantitative data"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is SPSS?</h4>\n <p>The correct answer is <strong>Performing statistical analysis</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Definition</strong><br>\n SPSS stands for Statistical Package for the Social Sciences.<br>It is the industry standard for managing and analyzing complex numerical data.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Linguistics",
+      "Software Tools",
+      "Fieldwork"
+    ],
+    "Question": {
+      "content": "Toolbox is a programme used for which purpose in linguistics?",
+      "type": "OBJ",
+      "options": [
+        "Building physical structures",
+        "Interlinearizing texts in linguistic fieldwork",
+        "Creating spreadsheets",
+        "Editing photographs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Interlinearizing texts in linguistic fieldwork"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Toolbox Software</h4>\n <p>The correct answer is <strong>Interlinearizing texts</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Linguistic Task</strong><br>\n Field linguists use Toolbox to align local languages with translations and grammar codes.<br>This process is called 'interlinearization'.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Web Scraping",
+      "Data Collection"
+    ],
+    "Question": {
+      "content": "How does GeeksforGeeks (2025) define web scraping?",
+      "type": "OBJ",
+      "options": [
+        "Cleaning computer screens",
+        "An automatic method of obtaining large amounts of data from websites",
+        "Deleting unwanted files",
+        "Organizing physical documents"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "An automatic method of obtaining large amounts of data from websites"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Web Scraping</h4>\n <p>The correct answer is <strong>An automatic method of obtaining data from websites</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Process</strong><br>\n Web scraping uses bots to extract unstructured data from the web.<br>It then stores it in a structured format like a spreadsheet.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Data Analysis",
+      "Research Goals"
+    ],
+    "Question": {
+      "content": "What is the primary goal of data analysis?",
+      "type": "OBJ",
+      "options": [
+        "Complicate research processes",
+        "Transform data into useful, practical information",
+        "Generate more questions",
+        "Replace human researchers"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Transform data into useful, practical information"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Analysis Objective</h4>\n <p>The correct answer is <strong>Transform data into useful information</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Insight</strong><br>\n Raw numbers mean nothing without interpretation.<br>Analysis extracts meaning so that we can make decisions or prove theories.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Statistics",
+      "Exploratory Data Analysis"
+    ],
+    "Question": {
+      "content": "What does Exploratory Data Analysis (EDA) involve?",
+      "type": "OBJ",
+      "options": [
+        "Ignoring numerical values",
+        "The description of data using descriptive statistics",
+        "Eliminating all qualitative information",
+        "Only collecting data"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The description of data using descriptive statistics"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>EDA Basics</h4>\n <p>The correct answer is <strong>The description of data using descriptive statistics</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Summary</strong><br>\n EDA uses measures like mean, median, and mode to see what the data looks like.<br>It is the first step before doing complex statistical testing.\n </div>\n</div>"
+    }
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Digital Humanities",
+      "History of Computing"
+    ],
+    "Question": {
+      "content": "Which of the following was the first digital humanities project?",
+      "type": "OBJ",
+      "options": [
+        "Web design",
+        "Database management",
+        "Text analysis",
+        "Video production"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Text analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Historical Context</h4>\n <p>The correct answer is <strong>Text analysis</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Project Roots</strong><br>\n Father Roberto Busa's <i>Index Thomisticus</i>, started in 1949, is considered the first DH project.<br>It used IBM punch cards to analyze and index the massive works of Thomas Aquinas.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Digital Humanities",
+      "Distant Reading"
+    ],
+    "Question": {
+      "content": "What does distant reading allow researchers to do?",
+      "type": "OBJ",
+      "options": [
+        "Examine only one text carefully",
+        "Ignore all textual content",
+        "Examine large volumes of texts in a corpus",
+        "Focus exclusively on images"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Examine large volumes of texts in a corpus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Distant Reading</h4>\n <p>The correct answer is <strong>Examine large volumes of texts in a corpus</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Methodology</strong><br>\n Unlike 'close reading', distant reading uses computational tools to find patterns across thousands of books.<br>This allows for the study of literary history on a massive scale.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Linguistics",
+      "Concordancing"
+    ],
+    "Question": {
+      "content": "What does the process of concordancing involve?",
+      "type": "OBJ",
+      "options": [
+        "Creating music compositions",
+        "The arrangement of words within a text to find frequency and location",
+        "Designing websites",
+        "Editing videos"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The arrangement of words within a text to find frequency and location"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Concordance</h4>\n <p>The correct answer is <strong>The arrangement of words to find frequency and location</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Tool Use</strong><br>\n A concordance lists every occurrence of a word in its immediate context.<br>This helps linguists see how specific words are used across a text.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Topic Modeling",
+      "Natural Language Processing"
+    ],
+    "Question": {
+      "content": "What does topic modeling identify in a text?",
+      "type": "OBJ",
+      "options": [
+        "Individual sentences",
+        "Recurring themes of texts based on computational linguistics",
+        "Author biographies",
+        "Publication dates"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Recurring themes of texts based on computational linguistics"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Topic Modeling</h4>\n <p>The correct answer is <strong>Recurring themes</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>How it works</strong><br>\n It uses algorithms to discover 'topics' or groups of related words that appear together.<br>This helps summarize the content of large document collections automatically.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Stylometry",
+      "Linguistics"
+    ],
+    "Question": {
+      "content": "What does the field of stylometry involve?",
+      "type": "OBJ",
+      "options": [
+        "Fashion design analysis",
+        "Statistical analysis of writing style useful in authorship studies",
+        "Color theory in art",
+        "Musical composition techniques"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Statistical analysis of writing style useful in authorship studies"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stylometry</h4>\n <p>The correct answer is <strong>Statistical analysis of writing style</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Application</strong><br>\n It measures unique patterns in word choice and grammar (a 'fingerprint').<br>It is often used to solve mysteries of anonymous or disputed authorship.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Digital Humanities",
+      "Software Tools"
+    ],
+    "Question": {
+      "content": "How is Voyant described in digital humanities research?",
+      "type": "OBJ",
+      "options": [
+        "A hardware device",
+        "A programming language",
+        "A physical archive",
+        "A web-based set of tools for reading and analyzing digital text"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A web-based set of tools for reading and analyzing digital text"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Voyant Tools</h4>\n <p>The correct answer is <strong>A web-based set of tools</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Features</strong><br>\n Voyant is a popular DH platform used to visualize word clouds, trends, and contexts.<br>It is designed to be accessible to humanities scholars without coding skills.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Text Encoding",
+      "Standards"
+    ],
+    "Question": {
+      "content": "What does the acronym TEI stand for?",
+      "type": "OBJ",
+      "options": [
+        "Technical Engineering Interface",
+        "Text Encoding Initiative",
+        "Technology Education Institute",
+        "Textual Enhancement Integration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Text Encoding Initiative"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>TEI Standards</h4>\n <p>The correct answer is <strong>Text Encoding Initiative</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Purpose</strong><br>\n TEI provides a standard for representing digital texts in XML.<br>It ensures that scholarly texts are machine-readable and sustainable for the long term.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Natural Language Processing",
+      "Sentiment Analysis"
+    ],
+    "Question": {
+      "content": "Sentiment analysis is also known by which other term?",
+      "type": "OBJ",
+      "options": [
+        "Frequency analysis",
+        "Opinion mining or Emotion AI",
+        "Pattern recognition",
+        "Structural analysis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Opinion mining or Emotion AI"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Terminology</h4>\n <p>The correct answer is <strong>Opinion mining or Emotion AI</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Scope</strong><br>\n These terms all refer to the computational study of people's opinions, attitudes, and emotions.<br>It is widely used in marketing and social media monitoring.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Natural Language Processing",
+      "Sentiment Analysis"
+    ],
+    "Question": {
+      "content": "According to Widmer (2025), sentiment analysis uses NLP and computational linguistics for what purpose?",
+      "type": "OBJ",
+      "options": [
+        "Create new languages",
+        "Design websites",
+        "Identify, extract, and quantify subjective information from text",
+        "Delete unnecessary data"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Identify, extract, and quantify subjective information from text"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Function of NLP</h4>\n <p>The correct answer is <strong>Identify, extract, and quantify subjective information</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Subjectivity</strong><br>\n Unlike factual extraction, sentiment analysis looks for feelings and judgments.<br>It turns qualitative text into quantitative data.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Sentiment Analysis",
+      "Algorithms"
+    ],
+    "Question": {
+      "content": "What do rule-based approaches in sentiment analysis rely on?",
+      "type": "OBJ",
+      "options": [
+        "Random word selection",
+        "Video analysis",
+        "Predefined rules and dictionaries of positive and negative words",
+        "Audio processing"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Predefined rules and dictionaries of positive and negative words"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Rule-Based Logic</h4>\n <p>The correct answer is <strong>Predefined rules and dictionaries</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Method</strong><br>\n These systems check text against a list of words (lexicons) that have assigned scores.<br>For example, 'happy' (+1) vs 'sad' (-1).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Sentiment Analysis",
+      "Data Classification"
+    ],
+    "Question": {
+      "content": "How does polarity-based analysis categorize text?",
+      "type": "OBJ",
+      "options": [
+        "True or false",
+        "Long or short",
+        "Positive, negative, or neutral",
+        "Simple or complex"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Positive, negative, or neutral"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Polarity Scores</h4>\n <p>The correct answer is <strong>Positive, negative, or neutral</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Scaling</strong><br>\n Polarity tells us the direction of the emotion.<br>Neutral is used for statements of fact or mixed feelings.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Sentiment Analysis",
+      "Research Methodology"
+    ],
+    "Question": {
+      "content": "What does Aspect-Based Sentiment Analysis (ABSA) focus on?",
+      "type": "OBJ",
+      "options": [
+        "Overall document length",
+        "Evaluating specific aspects of a product or service",
+        "Grammar and spelling",
+        "Publication dates"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Evaluating specific aspects of a product or service"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>ABSA Granularity</h4>\n <p>The correct answer is <strong>Evaluating specific aspects</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Detail</strong><br>\n Instead of one score for a whole review, ABSA breaks it down.<br>Example: 'The food was great (Positive) but the service was slow (Negative)'.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Topic Modeling",
+      "Data Discovery"
+    ],
+    "Question": {
+      "content": "What fundamental question does topic modeling seek to answer?",
+      "type": "OBJ",
+      "options": [
+        "Documents are properly formatted",
+        "Given a collection of documents, we can identify what they are about",
+        "Authors are credible",
+        "Files are corrupted"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Given a collection of documents, we can identify what they are about"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Summarization</h4>\n <p>The correct answer is <strong>Identify what they are about</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Exploration</strong><br>\n It helps researchers navigate huge digital archives without reading every page.<br>It identifies the 'topics' that represent the corpus content.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Topic Modeling",
+      "Algorithms"
+    ],
+    "Question": {
+      "content": "What is Latent Dirichlet Allocation (LDA) used for?",
+      "type": "OBJ",
+      "options": [
+        "Edit images",
+        "Create videos",
+        "Find topics in textual data",
+        "Design websites"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Find topics in textual data"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>LDA Algorithm</h4>\n <p>The correct answer is <strong>Find topics in textual data</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Technical Definition</strong><br>\n LDA is the most common mathematical model used for topic discovery.<br>It assumes every document is a mixture of several topics.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Data Visualization",
+      "Information Design"
+    ],
+    "Question": {
+      "content": "According to Tableau (2025), how is data visualization defined?",
+      "type": "OBJ",
+      "options": [
+        "The verbal description of information",
+        "The graphical representation of information and data",
+        "The audio recording of data",
+        "The physical storage of documents"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The graphical representation of information and data"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Data Visualization</h4>\n <p>The correct answer is <strong>The graphical representation</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Concept</strong><br>\n It involves using charts, graphs, and maps to help humans process visual patterns.<br>This makes complex trends much easier to understand at a glance.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Data Visualization",
+      "Communication"
+    ],
+    "Question": {
+      "content": "What is a primary advantage of data visualization?",
+      "type": "OBJ",
+      "options": [
+        "Increased complexity",
+        "Reduced understanding",
+        "Easily sharing information",
+        "Limited accessibility"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Easily sharing information"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Benefits of Viz</h4>\n <p>The correct answer is <strong>Easily sharing information</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Efficiency</strong><br>\n Visuals can communicate a message faster than a table of raw numbers.<br>They are highly effective for storytelling and presentations.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Data Visualization",
+      "GIS"
+    ],
+    "Question": {
+      "content": "How does geospatial visualization show data?",
+      "type": "OBJ",
+      "options": [
+        "In chronological order",
+        "In map form using shapes and colors to show relationships with locations",
+        "In audio format",
+        "In random arrangement"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "In map form using shapes and colors to show relationships with locations"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mapping Data</h4>\n <p>The correct answer is <strong>In map form</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Geography</strong><br>\n Geospatial viz links data points to specific physical coordinates on Earth.<br>It is essential for tracking things like migration or local dialects.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Data Analysis",
+      "Descriptive Analysis"
+    ],
+    "Question": {
+      "content": "What does descriptive analysis help explain in research?",
+      "type": "OBJ",
+      "options": [
+        "Future possibilities only",
+        "What happened in the past",
+        "Unrelated events",
+        "Hypothetical scenarios exclusively"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "What happened in the past"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Descriptive vs. Predictive</h4>\n <p>The correct answer is <strong>What happened in the past</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Timeline</strong><br>\n Descriptive analysis looks backward to summarize historical data.<br>Predictive analysis is what looks forward to future possibilities.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Data Analysis",
+      "Predictive Analysis"
+    ],
+    "Question": {
+      "content": "Predictive analysis helps to project which of the following?",
+      "type": "OBJ",
+      "options": [
+        "Historical events",
+        "What might happen in the future",
+        "Current status only",
+        "Past decisions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "What might happen in the future"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Predictive Analysis</h4>\n <p>The correct answer is <strong>What might happen in the future</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Forecasting</strong><br>\n Unlike descriptive analysis which looks at the past, predictive analysis uses historical data to make educated guesses about future trends.<br>It is the 'what is likely to happen' phase of data science.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Archival Science",
+      "Digital Humanities"
+    ],
+    "Question": {
+      "content": "According to Merriam-Webster, how is an archive defined?",
+      "type": "OBJ",
+      "options": [
+        "A modern storage facility only",
+        "A place where public records or historical documents are preserved",
+        "A computer program",
+        "A temporary storage location"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A place where public records or historical documents are preserved"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Archives</h4>\n <p>The correct answer is <strong>A place where public records or historical documents are preserved</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Preservation</strong><br>\n An archive is not just a 'backup'; it is a curated collection of primary source materials.<br>These materials are kept for their long-term cultural or historical value.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Cultural Heritage",
+      "Research Data"
+    ],
+    "Question": {
+      "content": "According to Nathan (2011), what percentage of the world's recorded cultural heritage is estimated to lie on researchers' shelves?",
+      "type": "OBJ",
+      "options": [
+        "50%",
+        "70%",
+        "80%",
+        "90%"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "90%"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Heritage Gap</h4>\n <p>The correct answer is <strong>90%</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Invisible Data</strong><br>\n This statistic highlights the 'dark data' problem in humanities.<br>Most collected cultural knowledge remains in private research files rather than in public digital archives.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Digital Archiving",
+      "Audio Engineering"
+    ],
+    "Question": {
+      "content": "In what form should audio files be provided to archives for long-term preservation?",
+      "type": "OBJ",
+      "options": [
+        "MP3 files",
+        "AAC files",
+        "WAV files (linear PCM)",
+        "WMA files"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "WAV files (linear PCM)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Archival Formats</h4>\n <p>The correct answer is <strong>WAV files (linear PCM)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Quality</strong><br>\n Archives require 'lossless' formats. Unlike MP3s, which delete data to save space, WAV (PCM) preserves the original audio quality perfectly.<br>This is vital for future research accuracy.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Digital Archiving",
+      "Sustainability"
+    ],
+    "Question": {
+      "content": "How does digital archiving contribute to environmental sustainability?",
+      "type": "OBJ",
+      "options": [
+        "Increasing paper consumption",
+        "Requiring more physical storage",
+        "Reducing the need for paper and physical storage",
+        "Using more energy than traditional methods"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reducing the need for paper and physical storage"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Green Archiving</h4>\n <p>The correct answer is <strong>Reducing the need for paper and physical storage</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Eco-Impact</strong><br>\n Digital storage requires less physical space and eliminates the need for massive paper-based filing systems.<br>This lowers the carbon footprint associated with physical building maintenance and paper production.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Digital Humanities",
+      "Data Ethics"
+    ],
+    "Question": {
+      "content": "What is the result of the effective utilization of data in humanities research?",
+      "type": "OBJ",
+      "options": [
+        "Limits scholarly collaboration",
+        "Restricts access to knowledge",
+        "Enriches research and democratizes access to knowledge",
+        "Eliminates the need for interpretation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enriches research and democratizes access to knowledge"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Democratizing Data</h4>\n <p>The correct answer is <strong>Enriches research and democratizes access</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Goal</strong><br>\n Effective data use means more people can access rare texts or artifacts online.<br>It levels the playing field so students globally can study the same materials as elite scholars.\n </div>\n</div>"
+    }
+  }
+]
+
