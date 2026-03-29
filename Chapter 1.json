@@ -1,1 +1,946 @@
+[
+
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Digital Humnaities",
+    "code": "FAC 201.1",
+    "session": "Chapter 1-Intro.",
+    "topics": ["Humanities Disciplines", "Core Concepts", "Digital vs Analogue", "Definition", "Goals", "History", "Pioneers", "Index Thomisticus", "Technology", "Programming Languages", "Milestones", "Digital Library Initiative", "Organizations", "ADHO", "Stages of Development", "Institutions", "Algorithmic Criticism", "Methods", "Digital Archives", "Advantages", "Arts", "Concordance", "Tools", "Text Analysis", "GIS", "Linguistic Annotation", "Distant Reading", "Franco Moretti", "TimelineJS", "OCR", "Research Efficiency", "Cultural Heritage", "Nigeria", "Interdisciplinary Collaboration", "Access", "Digital Libraries", "Benefits", "Citation Management", "Corpus Linguistics","Multimodal Scholarship", "African Scholarship", "Global Visibility", "Career Skills", "Digital Literacy", "Crowdsourcing", "Ethics", "Data Privacy", "NLP", "African Languages", "AI", "Machine Learning", "Digital Repositories", "Preservation"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "heading",
+    "heading": "Chapter One",
+    "Subheading": "Introduction to Digital Humanities"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Digital Humanities", "Humanities Disciplines", "Core Concepts"],
+    "Question": {
+      "content": "According to Gardiner & Musto (2015), what is the core focus of humanities disciplines?",
+      "type": "OBJ",
+      "options": [
+        "Mathematical modeling of human behavior",
+        "The study of natural phenomena and scientific principles",
+        "Language, its origins, construction, development, and perception over time",
+        "Economic systems and market structures"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Language, its origins, construction, development, and perception over time"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Core Focus of Humanities</h4><p>According to <strong>Gardiner &amp; Musto (2015)</strong>, humanities disciplines are centered on <strong>language</strong> — how it originates, how it is constructed, how it develops, and how it is perceived over time.</p><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Why not the others?</strong><br>Natural phenomena &rarr; that's Science.<br>Mathematical modeling &rarr; that's Mathematics/Social Science.<br>Economic systems &rarr; that's Economics.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Digital Humanities", "Digital vs Analogue", "Core Concepts"],
+    "Question": {
+      "content": "Which of the following best describes the distinction between \"digital\" and \"analogue\" practices?",
+      "type": "OBJ",
+      "options": [
+        "Digital practices are computer-based while analogue practices are non-computer-based",
+        "Digital refers to ancient methods while analogue refers to modern methods",
+        "Digital refers only to internet-based activities",
+        "Digital and analogue are interchangeable terms"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Digital practices are computer-based while analogue practices are non-computer-based"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Digital vs Analogue</h4><p>The key distinction is straightforward:</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>Digital</strong> &rarr; involves computers and computing technology.<br><strong style='color: var(--strongColor);'>Analogue</strong> &rarr; does <em>not</em> involve computers; uses traditional/physical methods.</div><p>Think of it as: writing a paper by hand = analogue; typing it on a computer = digital.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Digital Humanities", "Humanities Disciplines", "Core Concepts"],
+    "Question": {
+      "content": "What unifying characteristic defines humanities disciplines according to the text?",
+      "type": "OBJ",
+      "options": [
+        "They analyze only contemporary cultural expressions",
+        "They study broad patterns of human society exclusively",
+        "They focus on natural world phenomena",
+        "They study human culture as created and manifested by individuals"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They study human culture as created and manifested by individuals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>What Unifies Humanities</h4><p>Humanities disciplines share a common focus: understanding <strong>human culture</strong> — the ideas, expressions, and creations that come from individual human beings.</p><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Note:</strong> This distinguishes humanities from the natural sciences (which study the physical world) and social sciences (which study broad societal patterns).</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Digital Humanities", "Definition", "Core Concepts"],
+    "Question": {
+      "content": "Digital Humanities can be best defined as:",
+      "type": "OBJ",
+      "options": [
+        "A purely technical discipline focused on software development",
+        "The digitization of library catalogs",
+        "A field combining technology with traditional humanities to enhance research, interpretation, and knowledge dissemination",
+        "The exclusive use of computers to replace traditional humanities research"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A field combining technology with traditional humanities to enhance research, interpretation, and knowledge dissemination"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Defining Digital Humanities</h4><p>Digital Humanities (DH) is an <strong>interdisciplinary field</strong> — it blends computing technology with traditional humanities scholarship to:</p><ul style='margin: 8px 0; padding-left: 20px;'><li>Enhance <strong>research</strong></li><li>Improve <strong>interpretation</strong> of texts and artifacts</li><li>Widen <strong>knowledge dissemination</strong></li></ul><p>It does <em>not</em> replace traditional humanities — it enhances it.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Digital Humanities", "Goals", "Core Concepts"],
+    "Question": {
+      "content": "Which statement best captures the goal of Digital Humanities?",
+      "type": "OBJ",
+      "options": [
+        "To focus exclusively on contemporary digital art",
+        "To eliminate the need for physical archives",
+        "To completely replace traditional research methods",
+        "To make research easier and change how we think about human culture and history"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To make research easier and change how we think about human culture and history"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Goal of Digital Humanities</h4><p>The ultimate goal of DH is to <strong>transform how scholars engage with human culture and history</strong> by making research processes easier, faster, and more accessible through technology.</p><div style='background: var(--warningBg); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Key point:</strong> DH is not about replacing traditional methods — it's about augmenting and evolving them.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Digital Humanities", "History", "Pioneers"],
+    "Question": {
+      "content": "Who is recognized as one of the early pioneers of digital humanities in the 1940s–1950s?",
+      "type": "OBJ",
+      "options": [
+        "Robert K. Logan",
+        "Franco Moretti",
+        "Roberto Busa",
+        "John Unsworth"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Roberto Busa"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Father of Digital Humanities</h4><p><strong>Roberto Busa</strong>, an Italian Jesuit priest, is widely regarded as the founding father of digital humanities. In the late 1940s, he partnered with IBM to create the <em>Index Thomisticus</em> — a massive digital concordance of the works of St. Thomas Aquinas.</p><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>His work proved that computers could be used for humanistic scholarship — a revolutionary idea at the time.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Digital Humanities", "History", "Index Thomisticus"],
+    "Question": {
+      "content": "What was the Index Thomisticus project?",
+      "type": "OBJ",
+      "options": [
+        "A comprehensive digital index of the works of St. Thomas Aquinas",
+        "An early internet search engine",
+        "A collection of ancient Greek manuscripts",
+        "A database of Renaissance art"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A comprehensive digital index of the works of St. Thomas Aquinas"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Index Thomisticus</h4><p>The <strong>Index Thomisticus</strong> was a project begun by <strong>Roberto Busa</strong> in the 1940s to create a fully searchable digital index (concordance) of all the writings of St. Thomas Aquinas — a 13th-century philosopher and theologian.</p><p>It involved over <strong>11 million words</strong> and took decades to complete, pioneering computational text analysis in the humanities.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Digital Humanities", "History", "Technology"],
+    "Question": {
+      "content": "During the mid-20th century, what technology was primarily used to convert text into digital data?",
+      "type": "OBJ",
+      "options": [
+        "Cloud computing",
+        "Punch cards and mainframe computers",
+        "Voice recognition software",
+        "Optical scanners"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Punch cards and mainframe computers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Mid-20th Century Data Tech</h4><p>Before modern computers, data was encoded using <strong>punch cards</strong> — physical cards with holes punched in specific positions representing characters or commands — processed by large <strong>mainframe computers</strong>.</p><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>Roberto Busa used this exact technology to encode the Index Thomisticus in collaboration with IBM.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Digital Humanities", "History", "Programming Languages"],
+    "Question": {
+      "content": "Which programming languages were mentioned as early tools that enabled textual analysis in digital humanities?",
+      "type": "OBJ",
+      "options": [
+        "Ruby and PHP",
+        "Python and JavaScript",
+        "HTML and CSS",
+        "FORTRAN, C, and C++"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "FORTRAN, C, and C++"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Early DH Programming Languages</h4><p><strong>FORTRAN</strong> (1957), <strong>C</strong> (1972), and <strong>C++</strong> (1983) were among the earliest programming languages used for computational text processing and analysis in humanities contexts.</p><div style='background: var(--warningBg); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Note:</strong> Python and JavaScript came later. HTML/CSS are markup/style languages, not programming languages for analysis.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Digital Humanities", "History", "Milestones"],
+    "Question": {
+      "content": "What significant milestone occurred at the University of Toronto in 1965?",
+      "type": "OBJ",
+      "options": [
+        "Development of the first word processor",
+        "The invention of the internet",
+        "Creation of a machine-readable version of Shakespeare's Works",
+        "The first digital photograph"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creation of a machine-readable version of Shakespeare's Works"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>University of Toronto, 1965</h4><p>In 1965, scholars at the <strong>University of Toronto</strong> created a <strong>machine-readable version of Shakespeare's Works</strong> — a landmark event that demonstrated how classic literary texts could be digitized for computational analysis.</p><p>This was a significant early step in making canonical texts accessible to computer-assisted research.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Digital Humanities", "History", "Digital Library Initiative"],
+    "Question": {
+      "content": "When was the Digital Library Initiative launched in the United States?",
+      "type": "OBJ",
+      "options": [
+        "1994",
+        "1949",
+        "2000",
+        "1965"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1994"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Digital Library Initiative</h4><p>The <strong>Digital Library Initiative (DLI)</strong> was launched in <strong>1994</strong> in the United States. It was a federally funded program aimed at developing digital libraries and advancing research into how large amounts of information could be stored, organized, and accessed digitally.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Digital Humanities", "History", "Organizations", "ADHO"],
+    "Question": {
+      "content": "Who helped establish the Alliance of Digital Humanities Organizations (ADHO) in 2000?",
+      "type": "OBJ",
+      "options": [
+        "Franco Moretti",
+        "Roberto Busa",
+        "Robert K. Logan",
+        "John Unsworth"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "John Unsworth"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>ADHO and John Unsworth</h4><p><strong>John Unsworth</strong> was a key figure in founding the <strong>Alliance of Digital Humanities Organizations (ADHO)</strong> in 2000 — an umbrella organization that coordinates international DH associations and conferences (like the annual DH conference).</p><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>ADHO plays a central role in legitimizing and advancing digital humanities as a global academic discipline.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Digital Humanities", "History", "Stages of Development"],
+    "Question": {
+      "content": "According to the text, which stage of DH development is characterized by cross-border sharing of digital resources?",
+      "type": "OBJ",
+      "options": [
+        "Second stage (1990s–2000s internet expansion)",
+        "Fourth stage (interdisciplinary collaboration)",
+        "First stage (mid-20th century text analysis)",
+        "Third stage (multimedia integration)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fourth stage (interdisciplinary collaboration)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Stages of DH Development</h4><p>The text outlines stages of DH growth. The <strong>fourth stage</strong> is defined by <strong>interdisciplinary collaboration</strong> — including cross-border sharing of digital resources between institutions and nations.</p><div style='margin-top: 10px;'><strong style='color: var(--strongColor);'>Quick summary of stages:</strong><br>1st &rarr; Mid-20th century text analysis (Busa era)<br>2nd &rarr; Internet expansion (1990s–2000s)<br>3rd &rarr; Multimedia integration<br>4th &rarr; Interdisciplinary &amp; cross-border collaboration</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["Digital Humanities", "History", "Stages of Development"],
+    "Question": {
+      "content": "What three key characteristics define the third stage of Digital Humanities development?",
+      "type": "OBJ",
+      "options": [
+        "Libraries, archives, and museums",
+        "Internet, email, and websites",
+        "Open-source tools, increased computational power, and multimedia integration",
+        "Punch cards, mainframes, and FORTRAN"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Open-source tools, increased computational power, and multimedia integration"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Third Stage of DH Development</h4><p>The <strong>third stage</strong> of DH is characterized by three things:</p><ul style='margin: 8px 0; padding-left: 20px;'><li><strong>Open-source tools</strong> — freely available software anyone could use</li><li><strong>Increased computational power</strong> — faster, more capable computers</li><li><strong>Multimedia integration</strong> — combining text, images, audio, and video in research</li></ul><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>This stage moved DH beyond just text analysis into richer, multimedia-driven scholarship.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["Digital Humanities", "History", "Institutions"],
+    "Question": {
+      "content": "When was the Stanford Literary Lab established?",
+      "type": "OBJ",
+      "options": [
+        "2000",
+        "1949",
+        "1965",
+        "1995"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1995"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Stanford Literary Lab</h4><p>The <strong>Stanford Literary Lab</strong> was established in <strong>1995</strong>. It is a research group at Stanford University that applies computational methods — such as data mining and statistical analysis — to the study of literature.</p><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>It is closely associated with Franco Moretti's concept of <strong>distant reading</strong>.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["Digital Humanities", "Algorithmic Criticism", "Methods"],
+    "Question": {
+      "content": "What is algorithmic textual criticism?",
+      "type": "OBJ",
+      "options": [
+        "Criticizing the use of algorithms in research",
+        "Creating new texts using artificial intelligence",
+        "Using computers to write literary criticism",
+        "Using computer programs to study and compare different versions of old texts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Using computer programs to study and compare different versions of old texts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Algorithmic Textual Criticism</h4><p><strong>Algorithmic textual criticism</strong> uses computer programs to analyze and compare different versions (manuscripts, editions) of old texts to identify changes, errors, or patterns over time.</p><div style='background: var(--warningBg); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Example:</strong> Comparing 10 different manuscripts of a medieval Bible to find which words were altered across centuries — done automatically by algorithms instead of manually by scholars.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["Digital Humanities", "Digital Archives", "Advantages"],
+    "Question": {
+      "content": "What advantage do digital archives offer over physical archives?",
+      "type": "OBJ",
+      "options": [
+        "They can be stored electronically, preserved, and shared globally",
+        "They require no maintenance",
+        "They are less expensive to create",
+        "They are always more accurate than physical records"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They can be stored electronically, preserved, and shared globally"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Digital vs Physical Archives</h4><p>The primary advantage of digital archives is that they can be:</p><ul style='margin: 8px 0; padding-left: 20px;'><li><strong>Stored electronically</strong> — no physical space needed</li><li><strong>Preserved</strong> — protected from decay, fire, or damage</li><li><strong>Shared globally</strong> — accessible to anyone anywhere with internet access</li></ul><p>Physical archives are geographically limited and vulnerable to deterioration.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["Digital Humanities", "Technology", "Arts"],
+    "Question": {
+      "content": "Which technologies are mentioned for re-imagining artistic narratives?",
+      "type": "OBJ",
+      "options": [
+        "Printing press and lithography",
+        "Film and photography",
+        "Virtual Reality (VR) and Augmented Reality (AR)",
+        "Radio and television"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Virtual Reality (VR) and Augmented Reality (AR)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>VR and AR in Digital Humanities</h4><p><strong>Virtual Reality (VR)</strong> and <strong>Augmented Reality (AR)</strong> are immersive technologies being used in DH to re-imagine and re-present artistic and historical narratives.</p><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Example:</strong> Using VR to walk through a reconstructed ancient Roman city, or AR to overlay historical information onto a museum artifact.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["Digital Humanities", "Concordance", "Methods"],
+    "Question": {
+      "content": "What is a concordance?",
+      "type": "OBJ",
+      "options": [
+        "A programming language for text analysis",
+        "A digital database management system",
+        "A type of ancient manuscript",
+        "An alphabetical list of principal words in a text with their contexts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "An alphabetical list of principal words in a text with their contexts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>What is a Concordance?</h4><p>A <strong>concordance</strong> is an alphabetical index of every significant word in a text, showing each word alongside the sentence or passage where it appears.</p><div style='background: var(--warningBg); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Why it matters:</strong> Roberto Busa's <em>Index Thomisticus</em> was a concordance — it let scholars quickly find every instance of a word across all of Aquinas's writings.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["Digital Humanities", "Tools", "Text Analysis"],
+    "Question": {
+      "content": "Which tools are specifically mentioned for analyzing thousands of books for themes and patterns?",
+      "type": "OBJ",
+      "options": [
+        "PowerPoint and Access",
+        "Photoshop and Illustrator",
+        "Voyant Tools and AntConc",
+        "Microsoft Word and Excel"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Voyant Tools and AntConc"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>DH Text Analysis Tools</h4><p><strong>Voyant Tools</strong> and <strong>AntConc</strong> are two popular digital humanities tools for analyzing large volumes of text:</p><ul style='margin: 8px 0; padding-left: 20px;'><li><strong>Voyant Tools</strong> — a web-based platform for visualizing word frequencies and patterns</li><li><strong>AntConc</strong> — a corpus analysis tool for finding patterns, keywords, and collocations</li></ul><p>Both are free and widely used in literary and linguistic research.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["Digital Humanities", "GIS", "Tools"],
+    "Question": {
+      "content": "What does GIS stand for and what is it used for in Digital Humanities?",
+      "type": "OBJ",
+      "options": [
+        "Graphic Interface Software; designing websites",
+        "Global Internet Services; providing worldwide access",
+        "General Information Systems; organizing library catalogs",
+        "Geographic Information Systems; spatial analysis of historical events"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Geographic Information Systems; spatial analysis of historical events"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>GIS in Digital Humanities</h4><p><strong>GIS = Geographic Information Systems</strong>. In DH, GIS is used to map and spatially analyze historical events, migration patterns, trade routes, and cultural changes over time.</p><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Example:</strong> Mapping where cholera outbreaks occurred in 19th-century London to understand how geography influenced disease spread.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["Digital Humanities", "Tools", "Linguistic Annotation"],
+    "Question": {
+      "content": "Which tool is mentioned for audio-visual annotation in linguistic research?",
+      "type": "OBJ",
+      "options": [
+        "TimelineJS",
+        "AntConc",
+        "Voyant Tools",
+        "ELAN (EUDICO Linguistic Annotator)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ELAN (EUDICO Linguistic Annotator)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>ELAN Tool</h4><p><strong>ELAN (EUDICO Linguistic Annotator)</strong> is a specialized tool for annotating audio and video recordings. Linguists use it to mark and analyze speech patterns, gestures, and language use in multimedia data.</p><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Use case:</strong> A researcher records a community's oral tradition and uses ELAN to annotate every spoken word, pause, and gesture in the video.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["Digital Humanities", "Distant Reading", "Franco Moretti"],
+    "Question": {
+      "content": "What is \"distant reading\" as popularized by Franco Moretti?",
+      "type": "OBJ",
+      "options": [
+        "Translating texts from foreign languages",
+        "Reading ancient manuscripts",
+        "Reading texts from a physical distance",
+        "Analyzing large volumes of texts using digital tools to detect patterns"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Analyzing large volumes of texts using digital tools to detect patterns"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Distant Reading — Franco Moretti</h4><p><strong>Distant reading</strong> is a term coined by literary scholar <strong>Franco Moretti</strong>. Instead of closely reading individual texts, distant reading uses computational tools to analyze <em>thousands or millions</em> of texts at once to find broad patterns and trends.</p><div style='background: var(--warningBg); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Contrast:</strong> Close reading = deeply analyzing one text.<br>Distant reading = spotting patterns across thousands of texts with data tools.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["Digital Humanities", "Tools", "TimelineJS"],
+    "Question": {
+      "content": "Which platform is mentioned for creating interactive timelines?",
+      "type": "OBJ",
+      "options": [
+        "TimelineJS",
+        "Instagram",
+        "Facebook",
+        "Twitter"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "TimelineJS"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>TimelineJS</h4><p><strong>TimelineJS</strong> is an open-source tool developed by Northwestern University's Knight Lab that allows researchers and educators to build visually rich, interactive timelines — ideal for presenting historical events in a DH context.</p><p>It pulls data from a Google Spreadsheet and renders a clean, embeddable timeline on the web.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["Digital Humanities", "OCR", "Tools"],
+    "Question": {
+      "content": "What is OCR technology?",
+      "type": "OBJ",
+      "options": [
+        "Open Citation Registry",
+        "Original Content Repository",
+        "Optical Character Recognition",
+        "Online Cataloging Resources"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Optical Character Recognition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>OCR — Optical Character Recognition</h4><p><strong>OCR (Optical Character Recognition)</strong> is technology that converts images of text — such as scanned pages of old books or handwritten documents — into machine-readable digital text.</p><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Example:</strong> Scanning a 200-year-old newspaper and using OCR so the text can be searched, copied, and analyzed digitally.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["Digital Humanities", "Research Efficiency", "Tools"],
+    "Question": {
+      "content": "How do digital humanities tools enhance research efficiency?",
+      "type": "OBJ",
+      "options": [
+        "By limiting access to information",
+        "By eliminating the need for human researchers",
+        "By facilitating extraction of patterns and insights from large volumes of data",
+        "By reducing the quality of research"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "By facilitating extraction of patterns and insights from large volumes of data"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>How DH Tools Boost Research</h4><p>DH tools enhance efficiency by enabling researchers to <strong>process and extract meaningful patterns</strong> from datasets that would be impossible to analyze manually.</p><div style='background: var(--warningBg); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Example:</strong> A scholar can analyze 50,000 novels for gender representation in minutes using text analysis tools — a task that would take centuries to do by hand.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": ["Digital Humanities", "Cultural Heritage", "Nigeria"],
+    "Question": {
+      "content": "What role does digitization play in preserving cultural heritage in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "It has no significant impact",
+        "It only benefits wealthy institutions",
+        "It replaces traditional culture with digital culture",
+        "It converts fragile materials into digital formats, protecting them from decay and loss"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It converts fragile materials into digital formats, protecting them from decay and loss"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Digitization and Cultural Heritage in Nigeria</h4><p>Digitization helps preserve Nigeria's rich cultural heritage by converting <strong>fragile physical materials</strong> — such as old manuscripts, oral history recordings, and artifacts — into <strong>durable digital formats</strong> that resist decay, fire, and loss.</p><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>It also makes these materials <strong>globally accessible</strong>, allowing the world to engage with Nigerian history and culture.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": ["Digital Humanities", "Interdisciplinary Collaboration", "Core Concepts"],
+    "Question": {
+      "content": "Why is interdisciplinary collaboration central to Digital Humanities?",
+      "type": "OBJ",
+      "options": [
+        "It reduces research costs",
+        "It is required by university regulations",
+        "It integrates humanities methodologies with computer science and IT tools for innovation",
+        "It is only useful for large institutions"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It integrates humanities methodologies with computer science and IT tools for innovation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Why Interdisciplinarity Matters in DH</h4><p>DH sits at the intersection of <strong>humanities</strong> (history, literature, linguistics) and <strong>computer science/IT</strong>. Interdisciplinary collaboration is central because neither field alone can achieve what they achieve together:</p><ul style='margin: 8px 0; padding-left: 20px;'><li>Humanists provide the <strong>questions and context</strong></li><li>Technologists provide the <strong>tools and methods</strong></li></ul><p>Together, they produce innovative research neither could do independently.</p></div>"
+    }
+  },
+
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": ["Digital Humanities", "Access", "Digital Libraries"],
+    "Question": {
+      "content": "How has Digital Humanities democratized access to learning materials?",
+      "type": "OBJ",
+      "options": [
+        "By making all education free",
+        "By reducing the quality of materials available",
+        "By providing digital libraries and open-access repositories accessible with internet connection",
+        "By eliminating universities"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "By providing digital libraries and open-access repositories accessible with internet connection"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>DH and Democratization of Access</h4><p>Digital Humanities has widened access to knowledge by creating <strong>digital libraries</strong> and <strong>open-access repositories</strong> — collections of academic materials freely available online to anyone with an internet connection.</p><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Example:</strong> JSTOR, Project MUSE, and institutional repositories allow students worldwide to access research previously locked behind physical library walls.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": ["Digital Humanities", "Access", "Benefits"],
+    "Question": {
+      "content": "Which of the following is NOT mentioned as a benefit of increased digital access?",
+      "type": "OBJ",
+      "options": [
+        "Bridging the knowledge gap between global north and south",
+        "Empowering independent study",
+        "Promoting equity in education",
+        "Guaranteeing employment for all graduates"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Guaranteeing employment for all graduates"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Benefits of Digital Access</h4><p>The text mentions several benefits of increased digital access:</p><ul style='margin: 8px 0; padding-left: 20px;'><li>Bridging the knowledge gap between the global north and south</li><li>Empowering independent study</li><li>Promoting equity in education</li></ul><p><strong>Guaranteeing employment for graduates</strong> is <em>not</em> mentioned — digital access improves learning opportunities but does not guarantee jobs.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": ["Digital Humanities", "Tools", "Citation Management"],
+    "Question": {
+      "content": "What platforms are mentioned for managing citations and scholarly workflow?",
+      "type": "OBJ",
+      "options": [
+        "Instagram and TikTok",
+        "YouTube and Vimeo",
+        "ResearchGate, Mendeley, and Zotero",
+        "Facebook and Twitter"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ResearchGate, Mendeley, and Zotero"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Scholarly Workflow Tools</h4><p><strong>ResearchGate</strong>, <strong>Mendeley</strong>, and <strong>Zotero</strong> are academic platforms that assist researchers with:</p><ul style='margin: 8px 0; padding-left: 20px;'><li><strong>ResearchGate</strong> — sharing and discovering research papers</li><li><strong>Mendeley</strong> — reference management and academic networking</li><li><strong>Zotero</strong> — collecting, organizing, and citing sources automatically</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": ["Digital Humanities", "Corpus Linguistics", "Methods"],
+    "Question": {
+      "content": "How does corpus linguistics benefit from Digital Humanities?",
+      "type": "OBJ",
+      "options": [
+        "It focuses only on English language",
+        "It replaces linguists with computers",
+        "It eliminates the need to study language",
+        "It facilitates analysis of large language datasets to uncover patterns and evolution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It facilitates analysis of large language datasets to uncover patterns and evolution"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Corpus Linguistics and DH</h4><p><strong>Corpus linguistics</strong> studies large collections (corpora) of real-world language. DH tools enable linguists to process <strong>massive language datasets</strong> computationally, revealing patterns in word usage, grammar evolution, and language change over time that would be invisible to manual analysis.</p><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Example:</strong> Tracking how the word <b>freedom</b> has shifted in meaning across 200 years of English texts using Google Books Ngram Viewer.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": ["Digital Humanities", "Multimodal Scholarship", "Methods"],
+    "Question": {
+      "content": "What is the significance of multimodal scholarship?",
+      "type": "OBJ",
+      "options": [
+        "It is only used in art classes",
+        "It reduces the quality of academic work",
+        "It limits research to one format",
+        "It integrates text, audio, video, images, and interactive media to enrich presentation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It integrates text, audio, video, images, and interactive media to enrich presentation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Multimodal Scholarship</h4><p><strong>Multimodal scholarship</strong> goes beyond traditional text-only research by combining multiple modes of communication — <strong>text, audio, video, images, and interactive media</strong> — to present research in richer, more engaging ways.</p><div style='background: var(--warningBg); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Example:</strong> A history project that includes written analysis, interview recordings, maps, and an interactive timeline all in one digital presentation.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": ["Digital Humanities", "African Scholarship", "Global Visibility"],
+    "Question": {
+      "content": "How does Digital Humanities promote global visibility for African scholarship?",
+      "type": "OBJ",
+      "options": [
+        "By eliminating local research",
+        "By translating all work into English",
+        "By focusing only on Western topics",
+        "By publishing on digital platforms and institutional repositories"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "By publishing on digital platforms and institutional repositories"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>DH and African Scholarship</h4><p>Digital Humanities promotes global visibility for African research by making it available through <strong>digital platforms and institutional repositories</strong> — moving African scholarship from local obscurity to global reach.</p><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'>This helps counter the historical dominance of Western-centric academic publishing by giving African scholars equal digital platforms to share their work.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": ["Digital Humanities", "Career Skills", "Digital Literacy"],
+    "Question": {
+      "content": "What new career skills are developed through Digital Humanities?",
+      "type": "OBJ",
+      "options": [
+        "Exclusively programming skills",
+        "Digital literacy, data management, and project development skills",
+        "Only traditional research skills",
+        "Only teaching skills"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Digital literacy, data management, and project development skills"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Career Skills from DH</h4><p>Studying Digital Humanities equips graduates with practical, in-demand skills:</p><ul style='margin: 8px 0; padding-left: 20px;'><li><strong>Digital literacy</strong> — understanding and using digital tools effectively</li><li><strong>Data management</strong> — organizing and analyzing large datasets</li><li><strong>Project development</strong> — planning and executing digital research projects</li></ul><p>These skills are valued across academia, the tech industry, publishing, and the public sector.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": ["Digital Humanities", "Crowdsourcing", "Methods"],
+    "Question": {
+      "content": "What is crowdsourcing in the context of Digital Humanities?",
+      "type": "OBJ",
+      "options": [
+        "Organizing academic conferences",
+        "Public participation in academic activities like digitization or transcription",
+        "Funding research through donations",
+        "Gathering crowds for physical research"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Public participation in academic activities like digitization or transcription"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Crowdsourcing in DH</h4><p><strong>Crowdsourcing</strong> in DH involves enlisting <strong>members of the public</strong> to contribute to large-scale academic tasks — such as transcribing handwritten documents, tagging images, or digitizing historical records — tasks too large for a small research team alone.</p><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Example:</strong> The Zooniverse platform lets volunteers help transcribe 19th-century weather logs or classify galaxy images for scientists.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": ["Digital Humanities", "Ethics", "Data Privacy"],
+    "Question": {
+      "content": "Which ethical issues are highlighted as growing concerns in Digital Humanities?",
+      "type": "OBJ",
+      "options": [
+        "Conference attendance requirements",
+        "Office space allocation",
+        "Data privacy, fair representation, access equity, and academic integrity",
+        "Paper usage and printing costs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Data privacy, fair representation, access equity, and academic integrity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Ethical Concerns in DH</h4><p>As DH grows, several ethical issues have emerged:</p><ul style='margin: 8px 0; padding-left: 20px;'><li><strong>Data privacy</strong> — protecting individuals' personal information in digital research</li><li><strong>Fair representation</strong> — ensuring diverse voices are included in datasets and research</li><li><strong>Access equity</strong> — preventing digital tools from widening inequality</li><li><strong>Academic integrity</strong> — proper attribution and avoiding plagiarism in digital work</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": ["Digital Humanities", "NLP", "African Languages"],
+    "Question": {
+      "content": "How does Natural Language Processing (NLP) contribute to African language preservation?",
+      "type": "OBJ",
+      "options": [
+        "It has no application to African languages",
+        "It eliminates minority languages",
+        "It translates all languages into English",
+        "It processes corpora to develop dictionaries, grammar tools, and preservation initiatives"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It processes corpora to develop dictionaries, grammar tools, and preservation initiatives"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>NLP and African Languages</h4><p><strong>Natural Language Processing (NLP)</strong> uses computational methods to analyze and understand human language. For African languages, NLP helps by:</p><ul style='margin: 8px 0; padding-left: 20px;'><li>Building <strong>digital dictionaries</strong> and lexicons</li><li>Developing <strong>grammar tools</strong> and spell-checkers</li><li>Creating <strong>preservation initiatives</strong> for endangered languages</li></ul><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Example:</strong> Using NLP to build a Yoruba or Igbo text corpus that supports language learning apps and translation tools.</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": ["Digital Humanities", "AI", "Machine Learning"],
+    "Question": {
+      "content": "What role does AI play in Digital Humanities research?",
+      "type": "OBJ",
+      "options": [
+        "It is not used in humanities research",
+        "It only plays video games",
+        "It completely replaces human researchers",
+        "It classifies images, recognizes handwriting, and detects bias in documents"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It classifies images, recognizes handwriting, and detects bias in documents"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>AI in DH Research</h4><p>Artificial Intelligence plays several practical roles in DH:</p><ul style='margin: 8px 0; padding-left: 20px;'><li><strong>Image classification</strong> — sorting and tagging thousands of historical photographs automatically</li><li><strong>Handwriting recognition</strong> — reading and transcribing old manuscripts</li><li><strong>Bias detection</strong> — identifying gender, racial, or cultural bias embedded in texts and datasets</li></ul><p>AI assists researchers — it does not replace them.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": ["Digital Humanities", "Digital Repositories", "Preservation"],
+    "Question": {
+      "content": "What is the significance of creating sustainable digital repositories?",
+      "type": "OBJ",
+      "options": [
+        "They eliminate the need for libraries",
+        "They provide temporary storage for data",
+        "They are used only for scientific data",
+        "They ensure long-term access to academic content and support institutional memory"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They ensure long-term access to academic content and support institutional memory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Sustainable Digital Repositories</h4><p><strong>Sustainable digital repositories</strong> are long-term, maintained digital storage systems for academic content. Their significance lies in:</p><ul style='margin: 8px 0; padding-left: 20px;'><li><strong>Long-term access</strong> — ensuring research remains available for future generations</li><li><strong>Institutional memory</strong> — preserving the knowledge produced by universities and organizations over time</li></ul><div style='background: var(--warningBg); padding: 10px; border-radius: 6px; margin-top: 10px;'><strong>Key word:</strong> <em>Sustainable</em> — these are not temporary storage; they are built to last and be maintained.</div></div>"
+    }
+  }
+]
+
+
+
 
